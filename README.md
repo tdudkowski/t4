@@ -9,7 +9,7 @@ Będę potrzebował pomocy w zakresie:
 Do końca września planuję zakończyć pracę nad tekstem podstawowym strony (nazwijmy to wersją 1.0).
 
 Szczególnie mnie interesuje T4 na Dolnym Śląsku, w Saksonii i Brandenburgii, oraz egzekucje na okupowanych terenach polskich.\
-Potrzebuję tekstów kazań biskupa von Galena, dokładnego tekstu Oficjum dotyczącego T4 (z 2 grudnia 1940).
+Potrzebuję tekstów kazań biskupa von Galena (po polsku), dokładnego tekstu Oficjum dotyczącego T4 (z 2 grudnia 1940).
 
 TODO:
 * Lebensborn

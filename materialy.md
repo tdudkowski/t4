@@ -1,6 +1,6 @@
+# Materiały
 
-
-Książki:
+## Książki:
 
 <ul>
 <li>"Allgemeine SS 1925-1945" Vesper 2013, s 440, ISBN 9788377311530</li>
@@ -37,6 +37,8 @@ Książki:
 <li>Wójcik Aleksandra, Zdziarski Maciej “Dobranoc, Auschwitz!” Znak Horyzont 2016, s 288</li>
 </ul>
 
+## Odnośniki
+
 <ul>
   <li><a href="https://www.spiegel.de/einestages/ns-elite-in-gefangenschaft-hotel-der-kriegsverbrecher-a-948559.html">NS-Elite in Gefangenschaft Hotel der Kriegsverbrecher</a></li>
   <li><a href="https://www.spiegel.de/geschichte/antisemitismus-opfer-philipp-auerbach-der-verhasste-nazi-jaeger-a-951063.html">Antisemitismus-Opfer Philipp Auerbach; Der unerwünschte Nazi-Jäger</a></li>
@@ -51,4 +53,5 @@ Książki:
   <li><a href="http://www.schondorf.pl/odkrycia/zaglada-pacjentow-w-warcie/">Zagłada pacjentów szpitala w Warcie</a></li>
   <li>Wojewódzki Szpital Neuropsychiatryczny im. Oskara Bielawskiego w Kościanie <a href="https://wsn.koscian.pl/Historia.html">Historia</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Glossary_of_Nazi_Germany">Glossary of Nazi Germany</a></li>
+  <li>Das Bild-, Ton- und Dokumentenarchiv über Clemens: <a href="http://www.galen-archiv.de/index.php?option=com_content&view=article&id=8&Itemid=12">Predigt vom 13. Juli 1941</a> | <a href="http://www.galen-archiv.de/index.php?option=com_content&view=article&id=9&Itemid=17">Predigt vom 20. Juli 1941</a> | <a href="http://www.galen-archiv.de/index.php?option=com_content&view=article&id=4&Itemid=18">Predigt vom 3. August 1941</a></li>
 </ul>
