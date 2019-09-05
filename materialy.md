@@ -4,6 +4,7 @@ Książki:
 
 <ul>
 <li>"Allgemeine SS 1925-1945" Vesper 2013, s 440, ISBN 9788377311530</li>
+<li>Aly Götz "Obciążeni", Wydawnictwo Czarne 2015, s 328, ISBN 978-83-8049-150-2</li>
 <li>“Auschwitz od A do Z. Ilustrowana historia obozu”  Państwowe Muzeum Auschwitz-Birkenau 2013, s 207</li>
 <li>“Auschwitz. Hitlerowski obóz śmierci” Wydawnictwo Państwowego Muzeum Oświęcim-Brzezinka 2010, s 336</li>
 <li>Benz Wolfgang "Der Holocaust" C.H.Beck 2014, s 127</li>
@@ -18,9 +19,11 @@ Książki:
 <li>Greif Gideon “"...płakaliśmy bez łez..." Relacje byłych więźniów żydowskiego Sonderkommando z Auschwitz” Wydawnictwo Państwowego Muzeum Auschwitz-Birkenau 2010, s 379</li>
 <li>Hilberg Raul “Sprawcy. Ofiary. świadkowie. Zagłada Żydów 1933-1945” Cyklady 2007, s 418</li>
 <li>Hilberg Raul “Zagłada Żydów Europejskich” Centrum Badań nad Zagładą Żydów 2014, s 1680</li>
+<li>Kershaw Ian "Hitler" t I-III</li>
 <li>Kogon Eugen “The Theory and Practice of Hell: The German Concentration Camps and the System Behind Them” Farrar, Straus and Giroux 2006, s 368</li>
 <li>Komprisch Kathrin “Sprawczynie” Prószyński i S-ka 2012, s 412, ISBN: 978-83-7839-143-2</li>
 <li>Langerbein Helmut "Szwadrony śmierci Hitlera" Replika 2017, s 400, ISBN: 9788376745701</li>
+<li>Longerich Peter "Hitler. Biografia"</li>
 <li>Lower Wendy “Furie Hitlera Niemki na froncie wschodnim” Czarne 2015, s 274, ISBN: 978-83-8049-046-8</li>
 <li>McDonough Frank "The Gestapo: The Myth and Reality of Hitler's Secret Police" Skyhorse Publishing 2017, s 320</li>
 <li>"Państwo SS. Organizacja i funkcjonowanie niemieckiego obozu koncentracyjnego" Replika 2017, s 544, ISBN 9788376745954</li>
