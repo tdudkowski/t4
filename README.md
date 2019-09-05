@@ -1,6 +1,6 @@
 # T4
 
-Teksty opracowane na stronę o Akcji T4 i eugenicznych aspektach polityki hitlerowskiej.
+Teksty opracowane na stronę o Akcji T4 i eugenicznych aspektach polityki hitlerowskiej. Planowany layout: [CRW Copycat](https://tdudkowski.github.io/Layouts/Layout05/)
 
 Będę potrzebował pomocy w zakresie:
 * faktografii, czyli źródła, źródła, źródła; tekst który tu jest to skompilowane fragmenty tego co jest dostępne w internecie (gł wikipedie) i w kilku książkach
