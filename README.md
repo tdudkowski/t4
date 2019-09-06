@@ -13,7 +13,6 @@ Potrzebuję tekstów kazań biskupa von Galena (po polsku), dokładnego tekstu O
 
 TODO:
 * Lebensborn
-* RuSHa
 * SS, gł Allgemeine SS i SS-TV
 * Generalplan Ost (w zarysie)
 * biogramy
