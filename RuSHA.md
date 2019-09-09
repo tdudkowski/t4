@@ -38,11 +38,11 @@ W 1940 dokonano reorganizacji na cztery główne wydziały:
 Urzędy rasowy i osadnictwa były później podzielone na Hauptabteilungen (główne gałęzie). Jedna z nich zarządzała sprawami socjalnymi i wypłatami we współpracy z SS-Hauptfürsorge- und Versorgungsamt (SS Main Welfare and Pension Department) w MSW.
 
 Szefami RuSHa byli kolejno:
-* SS-Gruppenführer Richard Walther Darré (1895–1953)	1 January 1932	12 September 1938	6 years, 254 days
-* SS-Brigadeführer Günther Pancke (1899–1973)	12 September 1938	9 July 1940	1 year, 301 days
-* SS-Gruppenführer Otto Hofmann (1896–1982)	9 July 1940	20 April 1943	2 years, 285 days
-* SS-Obergruppenführer Richard Hildebrandt (1897–1952)	20 April 1943	8 May 1945	2 years, 18 days
-
+* SS-Gruppenführer Richard Walther Darré (1895–1953) 1 stycznia 1932 - 12 września 1938; 6 lat, 254 dni
+* SS-Brigadeführer Günther Pancke (1899–1973) 12 września 1938 - 9 lipca 1940; 1 rok, 301 dni
+* SS-Gruppenführer Otto Hofmann (1896–1982) 9 lipca 1940 - 20 kwietnia 1943; 2 lata, 285 dni
+* SS-Obergruppenführer Richard Hildebrandt (1897–1952) 20 kwietnia 1943 - 8 maja 1945; 2 lata, 18 dni
+ 
 ## Polityka rasowa
 
 Do 1937 ponad 300 SS manów zostało wydalonych z SS za naruszenie polityki rasowej (Rassenschande), choć późniejjszy rozkaz mówił że mogą pozostać w szeregach SS jeżeli są żonaci i spełniają kryteria rasowe. W listopadzie 1940 Himmler przywrócił cały wyrzucony personmel SS jeżeli spełniał wymagania rasowe NSDAP.
