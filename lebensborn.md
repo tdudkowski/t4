@@ -57,7 +57,7 @@ Lebensborn e. V. miało lub planowało mieć placówki w następujących krajach
 
 Ok 8 tys dzieci zostało urodzonych w domach Lebensborn w Niemczech i ok 8-12 tys dzieci w Norwegii. Gdzie indziej liczby są znacznie mniejsze. W Norwegii dokonano ok 250 adopcji, w większości wypadków za zgodą matek, ale nie wszystkie były powiadomione, że ich dzieci zostaną wysłane do Niemiec. Po wojnie rząd norweski odzyskał większość z nich, oprócz 80 dzieci.
 
-## Germanizacja
+## Porywanie dzieci i germanizacja
 
 W 1939 naziści zaczęli porywać masowo dzieci z innych krajów, gł Jugosławii i Polski, oprócz tego z Rosji, Ukrainy, Czechosłowacji Rumunii, Łotwy i Norwegii do programu Lebensborn. Dzieci najczęściej były zabierane na oczach rodziców, poddawane były serii badań i rozdzielane na 3 grupy:
 
@@ -66,6 +66,10 @@ W 1939 naziści zaczęli porywać masowo dzieci z innych krajów, gł Jugosławi
 * niepożądane
 
 Dzieci należące do ostatniej kategorii wywożono do obozów koncentracyjnych, gdzie były zabijane. Dzieci z pozostałych grup w wieku od 2 do 6 lat, umieszczano w programie adopcyjnym, w wieku 6 do 12 w niemieckich szkołach z internatem. Szkoły przydzielały im nowe, niemieckie dane personalne i uczyły je dumy z przynależności do Niemiec. Dzieci były zmuszane do zapomnienia o biologicznych rodzicach. Wymazywano wszelkie ślady ich przeszłości. Opierające się germanizacji były bite i jeśli ciągle stawiały opór były wysyłane do obozów koncentracyjnych.
+
+W ramach akcji Heuaktion porwano do 50 tys dzieci. Inicjatywa Alfreda Rosenberga. Rozpoczęła się w ograniczonym zakresie w 1941 na terenach podbitej Rosji. Najwięcej dzieci porwano w 1944 na terenie Polski kiedy armia niemiecka się wycofywała.
+
+W ramach wysiedleń Zamojszczyzny (GPO) porwano 30 tys dzieci, jak się ocenia kilkanaście tysięcy dzieci zaakceptowano do programu germanizacji. Udało się z tej liczby odzyskać 800 dzieci.
 
 Pod koniec wojny zniszczono akta wszystkich dzieci porwanych przez Lebensborn. Dlatego trudno jest określić nawet przybliżoną liczbę porwanych dzieci. Rząd polski uważa, że z Polski porwano ok 10 tys dzieci, z czego udało się odzyskać 15%. Niektóre szacunki sięgają nawet 200 tys, Dirk Moses uważa liczbę 20 tys za najbardziej prawdopodobną.
 
@@ -80,10 +84,6 @@ Z akt procesowych:
 > The prosecution has failed to prove with the requisite certainty the participation of Lebensborn, and the defendants connected therewith in the kidnapping programme conducted by the Nazis. While the evidence has disclosed that thousands upon thousands of children were unquestionably kidnapped by other agencies or organisations and brought into Germany, the evidence has further disclosed that only a small percentage of the total number ever found their way into Lebensborn. And of this number only in isolated instances did Lebensborn take children who had a living parent. The majority of those children in any way connected with Lebensborn were orphans of ethnic Germans. Upon the evidence submitted, the defendant Sollmann is found not guilty on counts one and two of the indictment.
 
 ### Prześladowania
-
-### Lebensborn w mediach
-
-Traktowanie dzieci
 
 Po kapitulacji Niemiec prasa donosiła o dobrym stanie zdrowia dzieci: regularnie spędzały czas na dworze i były kąpane dwa razy dziennie. Wszystko z czym miały kontakt poddawane było dezynfekcji. Pielęgniarki dbały by dzieci zjadły wszystko co im dano. Do ostatnich dni wojny matki i dzieci w domach opieki miały zapewnione najlepszą opiekę; także jedzenie, którego wszystkim brakowało. Kiedy wojna się skończyła bardzo często miejscowe społeczności brały odwet na kobietach bijąc je, ścinając im włosy, i poniżając je w miejscach publicznych. Wiele z dzieci Lebensborn było urodzonych poza małżeństwem. Po wojnie zarówno matki jak i dzieci były obiektem społecznego ostracyzmu. W szczególnym stopniu dotyczyło do krajów okupowanych.
 
@@ -103,6 +103,7 @@ Filmy:
 
 * "Zwei Leben" (2012)
 * "Człowiek z wysokiego zamku" w serialu dwie pierwszoplanowe postacie to dzieci Lebensborn.
+* "Król Olch" (1996) w reżyserii Volkera Schlöndorffa, główny bohater jest porywaczem chłopców, które później po weryfikacji rasowej są umieszczane w szkole wojskowej
 
 Jednym z mitów dotyczących programu Lebensborn jest twierdzenie jakoby był instytucją legalizująca systemowy gwałt. Pierwszy raz taka teza pojawiła się w niemieckim piśmie Revue w latach 50. Nie ma żadnych dowodów, żeby tak było.
 

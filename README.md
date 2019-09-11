@@ -21,5 +21,4 @@ Potrzebuję:
 TODO, w zakresie tematyki tekstu głównego na ver 1.0:
 
 * SS, gł Allgemeine SS i SS-TV
-* Generalplan Ost (w zarysie)
 * biogramy (~10 eugenika, ~20 T4)
