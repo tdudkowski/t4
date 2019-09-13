@@ -1,5 +1,14 @@
 # Lebensborn
 
+- [Lebensborn](#lebensborn)
+  - [Powstanie i rozwój](#powstanie-i-rozwój)
+  - [Działalność](#działalność)
+  - [Porywanie dzieci i germanizacja](#porywanie-dzieci-i-germanizacja)
+  - [Po wojnie](#po-wojnie)
+    - [Proces](#proces)
+    - [Prześladowania](#prześladowania)
+    - [W popkulturze](#w-popkulturze)
+
 Lebensborn e.V. (dosłownie Źródło życia; e.V. eingetragener Verein czyli stowarzyszenie zarejestrowane) założona przez SS w 1935 i wspierana przez państwo hitlerowskie organizacja mająca realizować cele eugeniki pozytywnej, czyli polepszenie dynamiki demograficznej oraz polepszenie jakości genetycznej populacji. W praktyce chodziło o zwiększenie liczby urodzin, a w szczególności urodzin dzieci szczególnie pożądanych przez rasistowskie państwo: czyli pochodzących od rodziców spełniających określone rasowe kryteria. Rodzinom należącym do programu Lebensborn zapewniał opiekę socjalną, konsultacje medyczne i bezpieczny poród. Opiekował się również kobietami, które mogły urodzić, były w ciąży lub już urodziły dzieci niemieckich żołnierzy, szczególnie jeśli byli to SS-mani. Niezamężnym matkom zapewniał domy opieki i dyskretny poród, a jeżeli chciały oddać dzieci, ich adopcję. Od 1939 Lebensborn organizował masowe porwania dzieci uznane za wartościowe rasowo. Porywano je na terenach okupowanych, głównie w Polsce i Norwegii.
 
 Krzyż Honorowy Niemieckiej Matki (niem. Ehrenkreuz der Deutschen Mutter, w skrócie: Krzyż Matki, niem. Mutterkreuz) ustanowiony w 1938 za urodzenie 4 (brązowy), 6 (srebrny) lub 8 (złoty) dzieci.

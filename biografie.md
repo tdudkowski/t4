@@ -16,7 +16,7 @@ Docelowo przynajmniej ~10 biogramów z zakresu eugeniki i ~20 T4.
 
 ## F
 
-###  Fischer Eugen ()
+### Fischer Eugen ()
 
 ## G
 
@@ -31,6 +31,8 @@ Docelowo przynajmniej ~10 biogramów z zakresu eugeniki i ~20 T4.
 ### Haeckel Ernst ()
 
 ## L
+
+### Lange Herbert ()
 
 ### Laughlin Harry H. ()
 

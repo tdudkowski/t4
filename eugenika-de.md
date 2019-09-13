@@ -1,8 +1,12 @@
 # Niemiecka eugenika
 
-Created wtorek 06 sierpnia 2019
+- [Niemiecka eugenika](#niemiecka-eugenika)
+  - [Niemieckie Towarzystwo Higieny Rasowej](#niemieckie-towarzystwo-higieny-rasowej)
+  - [Ludobójstwo w Afryce](#ludobójstwo-w-afryce)
+  - [Republika Weimarska](#republika-weimarska)
+  - [III Rzesza](#iii-rzesza)
 
-# Niemieckie Towarzystwo Higieny Rasowej
+## Niemieckie Towarzystwo Higieny Rasowej
 
 Pod względem formalnym i organizacyjnym historia niemieckiej eugeniki jest prosta (jedna organizacja i jeden instytut), ale faktograficznie to labirynt i to bardzo mroczny. Jednym z jej twórców jest lekarz i biolog Alfred Ploetz, który już w 1895 w książce "Grundlinien einer Rassenhygiene" wprowadził pojęcie "higieny rasowej" (niem. Rassenhygiene). Publikacja tej książki zbiegła się z ogłoszeniem przez twórcę niemieckiej archeologii Gustava Kossinę metody etnicznej. Miałą ona dowodzić cywilizacyjnej wyższości plemion germańskich oraz ich ogromnego zasięgu osadniczego. Wprawdzie nie dożył czasów hitlerowskich, umarł w 1931, ale wspierał czynnie nacjonalizm a hitlerowska archeologia i antropologia były pod jego silnym wpływem. Warto tu na samym początku zaznaczyć, że eugenika niemiecka od samego początku była silnie nacjonalistyczna i rasistowska. W czasach hitlerowskich w całości wsparła reżim. Ploetz jest świetnym tego przykładem.
 
@@ -10,7 +14,7 @@ W 1904 założył pismo "Archiv für Rassen-und Gesellschaftsbiologie". Rok pó�
 
 Najważniejszym teoretykiem niemieckiej eugeniki i członkiem honorowym Towarzystwa był wybitny i szanowany na całym świecie biolog Ernst Haeckel. W 1904 napisał książkę "Die Lebenswunder" (Cud życia), w której zawarł myśl, że uzasadniona byłaby przeprowadzona przez komisje naukowe eliminacja 200 tys. chorych umysłowo i na choroby dziedziczne (zasadniczo rzecz biorąc jest  to idea Akcji T4). Rok później wydano ją po angielsku jako "The Wonders of Life" -  po tezie o sensowności pozbycia się tych ludzi pisze:
 
-> Naturally this act of kindness should not be left to discretion of an individual phisician, but but be determined by a comission of competent and conscientious medical men. [...] should only be accomplished by a dose of some painless and rapid poison".
+> Naturally this act of kindness should not be left to discretion of an individual phisician, but be determined by a comission of competent and conscientious medical men. [...] should only be accomplished by a dose of some painless and rapid poison".
 
 Choć zmarł w 1919 miał wpływ na nazizm, promował tzw. "rasizm naukowy".
 

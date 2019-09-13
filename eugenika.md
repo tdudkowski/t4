@@ -1,6 +1,13 @@
 # Eugenika
-
-Created niedziela 04 sierpnia 2019
+- [Eugenika](#eugenika)
+  - [Co to jest eugenika?](#co-to-jest-eugenika)
+  - [Starożytność](#starożytność)
+  - [Galton](#galton)
+  - [UK](#uk)
+  - [Szwecja](#szwecja)
+  - [Polska](#polska)
+  - [Japonia](#japonia)
+  - [TODO](#todo)
 
 ## Co to jest eugenika?
 
@@ -8,7 +15,7 @@ Akcji T4, tak samo jak wszystkich innych zbrodni hitlerowskich, nie powinno się
 
 Ogólnie rzecz biorąc eugenika jest ideą doskonalenia biologicznych cech ludzkości lub jej części (najczęściej narodu, lub populacji danego państwa) metodami znanymi z hodowli. Eugenika podobnie jak wiele innych idei ma podwójne, janusowe oblicze: pozytywne i negatywne. Ograniczanie i eliminacja złych, niepożądanych cech to eugenika negatywna. Eugenika pozytywna to wspieranie propagacji i utrwalenia cech pożądanych. Dzisiaj patrzymy na eugenikę przez pryzmat pamięci o zbrodniach hitlerowskich, teorie głoszące wyższość rasową zostały skompromitowane. Ale warto wiedzieć, że eugenika to nie tylko represja i eliminacja niepożądanych cech, a co za tym idzie i ludzi, ale również wspieranie cech pozytywnych. Eugenika pozytywna jest elementem każdej sensownej polityki społecznej: edukacja seksualna, kontrola urodzeń, dostępność środków antykoncepcyjnych, propagowanie higieny psychicznej, dbanie o środowisko człowieka, itd. Tutaj głównym tematem jest eugenika negatywna, o pozytywnej będzie mowa tylko kiedy trzeba będzie sprostować jakieś nieporozumienie, albo opisać historię ruchu eugenicznego jako takiego.
 
-# Starożytność
+## Starożytność
 
 Eugenika, idea świadomego ulepszania populacji, istniała już w starożytności. Jak w przypadku wielu innych zagadnień możemy tu powiedzieć "już starożytni Grecy..."; i to nie byle jacy. Jeżeli ograniczymy się do eugeniki negatywnej najbardziej znamienitym przykładem jest Platon, który w "Państwie" (ok. 380 p.n.e.) pisał, że " [...] w Państwie należy zastosować dyscyplinę i jurysprudencję nakazującą zajmować się tylko zdrowymi na ciele i umyśle obywatelami. Tym natomiast, którzy nie są zdrowi, należy pozwolić umrzeć [...]". Już ten fragment mówi wszystko o eugenice negatywnej.
 
@@ -73,4 +80,3 @@ Dopiero w 1996 zniesiono wszystkie przepisy eugeniczne, przede wszystkim te pozw
 ## TODO
 
 Przepisy o sterylizacji Kanada i Dania.
-

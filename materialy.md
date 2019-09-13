@@ -1,5 +1,17 @@
 # Materiały
 
+- [Materiały](#materiały)
+  - [Książki](#książki)
+    - [Hitleryzm](#hitleryzm)
+    - [SS](#ss)
+    - [Akcja T4](#akcja-t4)
+    - [Holokaust](#holokaust)
+  - [Odnośniki](#odnośniki)
+    - [Eugenika](#eugenika)
+    - [Akcja T4](#akcja-t4-1)
+    - [Artykuły](#artykuły)
+    - [Inne](#inne)
+
 ## Książki
 
 ### Hitleryzm
@@ -8,7 +20,7 @@
 <li>Longerich Peter "Hitler. Biografia"</li>
 <li>Kershaw Ian "Hitler" t I-III</li>
 <li>Gotz Aly “Państwo Hitlera” Finna 2015, s 472, ISBN: 978-83-64141-17-1</li>
-<li>Benz Wolfgang  “Geschichte des Dritten Reiches” dtv Verlagsgesellschaft 2003, s 240</li>
+<li>Benz Wolfgang “Geschichte des Dritten Reiches” dtv Verlagsgesellschaft 2003, s 240</li>
 <li>Lower Wendy “Furie Hitlera. Niemki na froncie wschodnim” Czarne 2015, s 274, ISBN: 978-83-8049-046-8</li>
 <li>McDonough Frank "The Gestapo: The Myth and Reality of Hitler's Secret Police" Skyhorse Publishing 2017, s 320</li>
 </ul>
@@ -82,6 +94,7 @@
   <li>Wojewódzki Szpital Neuropsychiatryczny im. Oskara Bielawskiego w Kościanie <a href="https://wsn.koscian.pl/Historia.html">Historia</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Glossary_of_Nazi_Germany">Glossary of Nazi Germany</a></li>
   <li>Das Bild-, Ton- und Dokumentenarchiv über Clemens: <a href="http://www.galen-archiv.de/index.php?option=com_content&view=article&id=8&Itemid=12">Predigt vom 13. Juli 1941</a> | <a href="http://www.galen-archiv.de/index.php?option=com_content&view=article&id=9&Itemid=17">Predigt vom 20. Juli 1941</a> | <a href="http://www.galen-archiv.de/index.php?option=com_content&view=article&id=4&Itemid=18">Predigt vom 3. August 1941</a></li>
+  <li><a href="http://historiajarocina.pl/artykuly/herbert-lange-tajemniczy-komisarz-gestapo/">Herbert Lange – tajemniczy komisarz Gestapo</a></li>
 </ul>
 
 ### Artykuły

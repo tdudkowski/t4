@@ -1,5 +1,12 @@
 # Generalplan Ost
 
+- [Generalplan Ost](#generalplan-ost)
+  - [Wstęp](#wstęp)
+  - [Rozwój planów](#rozwój-planów)
+  - [Fazy wdrożenia planu](#fazy-wdrożenia-planu)
+  - [Straty cywilne](#straty-cywilne)
+  - [GPO](#gpo)
+  
 ## Wstęp
 
 Generalplan Ost czyli Generalny Plan Wschodni (w skrócie GPO) był planem III Rzeszy na przeprowadzenie ludobójstwa i czystek etnicznych wśród ludności słowiańskiej. Celem było skolonizowanie podbitych terytoriów w Europie Wschodniej i Południowej, zdobycie tzw. Lebensraum czyli przestrzeni życiowej. Nie istniała ostateczna, czy też oficjalnie obowiązująca wersja planu, pomiędzy 1940 a 1942 sporządzono kolejne 4 wersje, wszystkie zawierały tylko ogólne zarysy kolonizacji. Było to zgodne z praktykowaną w III Rzeszy zasadą wodzostwa. Ważne decyzje podejmowali przywódcy hitlerowscy jednoosobowo, a wszystkie uprzednie plany a nawet formalnie obowiązujące prawo były tylko narzędziami w drodze do celu. Ten zaś określały osobiste spotkania przywódców partyjnych i ogólne instrukcje Hitlera.

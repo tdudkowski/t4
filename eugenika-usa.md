@@ -1,5 +1,12 @@
 # USA
-
+- [USA](#usa)
+  - [Immigration Restriction League](#immigration-restriction-league)
+  - [Prawo eugeniczne](#prawo-eugeniczne)
+  - [Eugenics Record Office](#eugenics-record-office)
+  - [American Eugenics Society](#american-eugenics-society)
+  - [Przymusowa sterylizacja](#przymusowa-sterylizacja)
+  - [Rasizm](#rasizm)
+ 
 Szczególną popularność zyskały idee eugeniczne w USA. Dziedzictwem eugeniki negatywnej były tam ograniczenia w imigracji, pseudonaukowe uzasadnienia segregacji rasowej (zakaz małżeństw międzyrasowych), oraz przymusowa sterylizacja chorych i kryminalistów.
 
 Już w 1881 (czyli na dwa lata przed publikacją Galtona) Aleksander Graham Bell postulował kontrolę imigracji i restrykcje wobec głuchych, uważał bowiem, że małżeństwa osób głuchych doprowadzą do epidemii głuchoty.
