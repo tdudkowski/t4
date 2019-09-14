@@ -22,7 +22,9 @@ Hermann Löns w 1910 opublikował powieść "Wehrwolf" o krwi i ziemi. Po raz pi
 
 Jeden z najwybitniejszych psychiatrów niemieckich Emil Kraepelin, autor podręcznika psychiatrii mającego 9 wydań i twórca klasyfikacji chorób psychicznych na początku XX wieku stał się zwolennikiem idei higieny rasowej i propagatorem eugeniki, uważał że państwo opiekuńcze i opieka socjalna mają fatalne skutki dla cech genetycznych populacji. Łączył to z lamarkizmem (koncepcją dziedziczenia cech nabytych) z czego wynikała "teorii degeneracji", uważał że brak selekcji naturalnej i swobodny dobór partnerów, bez żadnej weryfikacji (Zusammenpferchung) nieuchronnie prowadzi do zniszczenia germańskiego Volku, rozumianego równocześnie jako naród i rasa.
 
-Eugen Bleuler, szwajcarski psychiatra, który pierwszy opisał schizofrenię i wprowadził te nazwę był zwolennikiem sterylizacji schizofreników, a nawet ludzi wykazujących podatność na schizofrenię. w Lehrbuch der Psychiatrie (Berlin 1916): "The more severely burdened should not propagate themselves... If we do nothing but make mental and physical cripples capable of propagating themselves, and the healthy stocks have to limit the number of their children because so much has to be done for the maintenance of others, if natural selection is generally suppressed, then unless we will get new measures our race must rapidly deteriorate."
+Eugen Bleuler, szwajcarski psychiatra, który pierwszy opisał schizofrenię i wprowadził te nazwę był zwolennikiem sterylizacji schizofreników, a nawet ludzi wykazujących podatność na schizofrenię. w Lehrbuch der Psychiatrie (Berlin 1916):
+
+> "The more severely burdened should not propagate themselves... If we do nothing but make mental and physical cripples capable of propagating themselves, and the healthy stocks have to limit the number of their children because so much has to be done for the maintenance of others, if natural selection is generally suppressed, then unless we will get new measures our race must rapidly deteriorate."
 
 ## Ludobójstwo w Afryce
 
@@ -70,4 +72,12 @@ Po remilitaryzacji Nadrenii władze narodowo-socjalistyczne podniosły problem t
 
 Fritz Lenz zostaje włączony do komitetu doradczego, staje na czele Instytutu Antropologii (KWI-A) i w 1937 wstępuje do NSDAP. Jest zaangażowany w uzasadnienie Ustaw Norymberskich.
 
+## Antysemityzm NSDAP
+
 Od samego początku zaraz po objęciu władzy dyktatura wprowadza represje wobec Żydów, uważanych za źródło wszelkiego zła. Ma to wynikać z naturalnych, niedających się zmienić cech tzw rasy żydowskiej. Pod względem eugenicznym narodowy socjalizm jest połączeniem nordyzmu, czyli tezy o wyższości rasy nordyjskiej, w Niemczech nazywanej często aryjską i rasistowskiego antysemityzmu, który zakładał biologiczne, genetyczne przyczyny przypisywanych Żydom cech. Postulatem była oczywiście higiena rasowa, czyli zapobieżenie mieszaniu się krwi. Początkowo miało to charakter nieformalny, zniechęcano do mieszanych związków, działacze partyjni często podnosili potrzebę legislacji. Ostatecznie wprowadzono ją w 1935 -  były to Ustawy Norymberskie, oprócz przepisów wprowadzających nowe restrykcje wobec Żydów zawierały także Ustawę o ochronie krwi, zakazującą małżeństw mieszanych i karzącą za związki nieformalne tego typu.
+
+Antysemityzm hitlerowski nie jest niechęcią do żydowskiej kultury, czy też religii. Jego esencją jest rasizm, przekonanie o tym, że w samej swojej istocie są to gorsi ludzie i nie ma żadnej możliwości poprawienia tego stanu rzeczy.
+
+> Dobrze znana odpowiedż Hitlera, datowana na 16 września 1919 roku, jest jego pierwszą zachowaną wypowiedzią w "kwestii żydowskiej". Hitler napisał Gemlichowi, że antysemityzm nie powinien wywnikać z emocji, ale z "faktów", a pierwszy z tych faktów jest taki, że żydostwo to rasa, a nie religia. Emocjonalny antysemityzm może doprowadzić do pogromów, kontynuował, antysemityzm oparty na "rozumie" musi, z drugiej strony prowadzić do systematycznego rugowania praw Żydów. "Jego ostatecznym celem - konkludował - musi być definitywne usunięcie Żydów".
+
+Kershaw Ian "Hitler" t I s 109.

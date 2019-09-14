@@ -38,6 +38,7 @@
 
 <ul>
 <li>Aly Götz "Obciążeni", Wydawnictwo Czarne 2015, s 328, ISBN 978-83-8049-150-2</li>
+<li>Sheffer Edith "Dzieci Aspergera. Medycyna na usługach III Rzeszy" Wydawnictwo Poznańskie 2019, s 430, ISBN: 978-83-66381-49-0</li>
 <li>Klee Ernst ""Euthanasie" im Dritten Reich: Die "Vernichtung lebensunwerten Lebens" (Die Zeit des Nationalsozialismus)" Fischer Taschenbuch 2010, s 739, ISBN: 9783596186747</li>
 <li>Klee Ernst "Auschwitz. Medycyna III Rzeszy i jej ofiary" Universitas 2014, s 508, ISBN: 97883-242-2629-0</li>
 <li>Vellguth Klaus "Aktion T4 - Mord mit System: Das NS-Euthanasieprogramm und die Geschichte eines Opfers" Topos plus 2014, s 155, ISBN: 3836708701</li>

@@ -7,18 +7,17 @@
   - [Struktura](#struktura)
   - [Przed wojną](#przed-wojną)
   - [Ochrona Hitlera](#ochrona-hitlera)
-  - [Wojna z Polską](#wojna-z-polską)
+  - [Ideologia](#ideologia)
   - [Operacja Anthropoid](#operacja-anthropoid)
+  - [Hierarchia i mundury](#hierarchia-i-mundury)
   - [Jednostki SS](#jednostki-ss)
     - [SS-Sonderkommandos](#ss-sonderkommandos)
     - [Einsatzgruppen](#einsatzgruppen)
     - [Hauptamt SS-Gericht](#hauptamt-ss-gericht)
-    - [Kawaleria SS](#kawaleria-ss)
     - [SS Korpus Medyczny](#ss-korpus-medyczny)
     - [Ahnenerbe](#ahnenerbe)
     - [SS-Frauenkorps](#ss-frauenkorps)
     - [SS-Mannschaften](#ss-mannschaften)
-    - [Zagraniczne legiony i ochotnicy](#zagraniczne-legiony-i-ochotnicy)
   - [Holokaust](#holokaust)
   - [Obozy zagłady](#obozy-zagłady)
   - [Przedsiębiorstwo Holokaust](#przedsiębiorstwo-holokaust)
@@ -41,9 +40,9 @@ SS ze względu na rozwój jest organizacją unikalną, nie da się jej opisać w
 
 ## Powstanie
 
-W marcu 1923 Hitler zarządził powołanie małego oddziału ochrony osobistej o nazwie Warta Sztabowa (niem. Stabswache), niezależnego od reszty partii i SA, której nie ufał. Było to początkowo 8 mężczyzn pod dowództwem Juliusa Schrecka szofera Hitlera. Wzorem był freikorps Marine-Brigade Ehrhardt. 16 maja zmienia nazwę na Stoßtrupp Adolf Hitler (niem. Oddział Uderzeniowy), jednym z dowódców jest Joseph Berthold.
+Kiedy NSDAP zyskuje na sławie i liczebności jej mityngi partyjne są zagrożone agresja przeciwników politycznych. Zorganizowana ochrona sal określana jest najpierw jako Ordentruppe, potem Saal-Schutz albo Saalschutz (ochrona sal). To nieformalna nazwa grupy, którą sformował w lutym 1920 Emil Maurice. Jej zadaniem było odnalezienie, sprowokowanie i wyrzucenie z sali przeciwników politycznych. Od listopada 1920 jest to rola SA.
 
-Kiedy NSDAP zyskuje na sławie i liczebności jej mityngi partyjne są zagrożone agresja przeciwników politycznych. Żeby zorganizować i sformalizować ochronę najpóźniej do 1923 powołana zostaje Saal-Schutz (ochrona salkowa). Składa się z ochotników należących do partii.
+W marcu 1923 Hitler zarządził powołanie małego oddziału ochrony osobistej o nazwie Warta Sztabowa (niem. Stabswache), niezależnego od reszty partii i SA, której nie ufał. Było to początkowo 8 mężczyzn pod dowództwem Juliusa Schrecka szofera Hitlera. Wzorem był freikorps Marine-Brigade Ehrhardt. 16 maja zmienia nazwę na Stoßtrupp Adolf Hitler (niem. Oddział Uderzeniowy), wśród dowódców są Joseph Berthold i Emil Maurice. W zasadzie należą do SA, ale łączy ich bezpośrednia podległość wobec Adolfa Hitlera i bardzo często wspólna przeszłość we Feikorpsach. Jest to oddział zwoływany do konkretnych akcji. Maja szare kurtki, jednakowe czapki z trupią czaszką.
 
 W wyniku puczu monachijskiego w listopadzie 1923 zarówno NSDAP jak i Stoßtrupp zostają zdelegalizowane.
 
@@ -105,12 +104,6 @@ Członkami SS mogli być tylko mężczyźni narodowości niemieckiej, zarówno R
 Oprócz narodowości i potwierdzonej czystości rasowej do 1800 (oficerowie do 1750) wymogiem była wierność ideologiczna. Miała to być elita NSDAP, bezwzględne narzędzie w rękach władz partyjnych.
 
 Himmler wprowadził dodatkowe kryteria dotyczące wyglądu i wzrostu, ale spora część SS-manów ich nie spełniała. Wprowadzono zachęty socjalne dla wczesnego ożenku i posiadania dużej liczby dzieci.
-
-W pionie wojskowym dość szybko, w trakcie wojny wprowadzono zaciąg cudzoziemski, początkowo tylko wśród narodów germańskich i romańskich, potem także wśród Słowian. Na samym początku wojny, np podczas wojny z Polską oddziały SS były gorsze od Wehrmachtu, dopiero z czasem zdobyły sobie opinię elitarnych. Od samego początku były odpowiedzialne za szereg zbrodni wojennych.
-
-W 1943 powstała pierwsza dywizja pancerna SS - 1. SS-Panzer-Division Leibstandarte-SS Adolf Hitler. Pod koniec wojny większość niemieckich formacji pancernych stanowiły jednostki Waffen-SS.
-
-Jednostki SS były zróżnicowane istniały także oddziały składające się z kryminalistów, np. brygada pod dowództwem oberführera Oskara Dirlewangera, czy Brygada Kamińskiego, powieszonego przez Niemców za kradzieże i samowolę.
 
 ## Struktura
 
@@ -198,23 +191,11 @@ Dwa inne oddziały zapewniały wewnętrzny krąg ochrony.
 * SS-Begleitkommando des Führers (oddział towarzyszący Führera) powstal w lutym 1932 i służył jako osobista ochrona podczas podróży. Składał się z 8 ludzi, którzy zmieniając się strzegli Hitlera całą dobę. Później oddział został rozwinięty i był znany jako Führerbegleitkommando (FBK).
 * Führer Schutzkommando (Oddzial ochrony Führera FSK) oddział ochrony stworzony przez Himmlera w marcu 1933, początkowo tylko z zadaniem ochrony Hitlera podczas pobytu w Bawarii. Na początku 1934 zastąpiło SS-Begleitkommando na terenie całych Niemiec. W sierpniu 1935 FSK zmieniło nazwę na Reichssicherheitsdienst (Służba Bezpieczeństwa Rzeszy; RSD). Johann Rattenhuber szef RSD odbierał rozkazy bezpośrednio od Hitlera, dowódca FBK był jego zastępcą, obie służby współdziałały, ale działały osobno.
 
-## Wojna z Polską
+## Ideologia
 
-Z wybuchem wojny SS zostało zorganizowane w ostateczną formę, składającą się z trzech głównych organizacji:
+Oddanie ideologii SS, swoistej mitoologii zakonu NSDAP było podkreślane na kazdym kroku w procesie rekruytacji i szkolenia. Powstał specjalny tytuał mający zastąpić chrześcijańskie święta, wzorowany na germańskiej symbolice i ezoteryce. Nie był obowiązkowy, ale było to dobrze widziane. W 1938 Himmler kupił zamek w Wewelsbergu, który początkowo miał być zwykłym ośrodkiem mzkoleniowym, ale szybko stał się centrum mistyki SS i swego rodzaju główną świątynią zakonu.
 
-* Allgemeine SS - gółwne rezerwy kadrowe, cywilna i policyjna część SS
-* SS-Totenkopfverbände - służba strażnicza w obozach koncengtracyjnych i zagłady
-* Waffen-SS - powstaly w 1934 jako SS-Verfügungstruppe (SS-VT) nazwę zmieniono w 1940; sformowało drugą niemiecką armię działająca pod komendą Wehrmachtu, nigdy nie dostali samodzielności komendy, SS-mani nigdy nie dostali się do Oberkommando i oddziały SS były zależne od armii w kwestii wyposażenia. Rózniły je od Wehrmachtu dwie zasadnicze rzeczy: SS była formacją ideologiczną o wysokim stopniu indoktrynacji, było to też wojsko ochotnicze, dlatego znalazło się tam miejsce dla cudzoziemskich ochotników. Hierarchia stopni wojskowych byłą równoległa, nie skopiowali systemu Wehrmachtu, dla podkreślenie odrębności od Wehrmachtu używali stopni pryzjętych we Feeikorpsach i SA.
-
-Podczas inwazji na Polskę LSSAH i SS-VT były oddzielnymi pułkami piechoty. LSSAH było znane z brutalności i podpalania wiosek bez żadnego wojskowego uzasadnienia. Popełnili wiele zbrodni przeciwko ludzkości. Np. zabili 50 Żydów w Błoniach, w Złoczewie zabili bronią maszynową 200 cywilów w tym dzieci. Cywilów zabili także w: Bolesławcu, Torzeńcu, Goworowie, Mławie i Włocławku.
-
-Wg niektórych oficerów Wehrmachtu SS nie nadawało się do walki, niepotrzebnie ryzykowlai i czasem ponosili poważne straty. Generaloberst Fedor von Bock jeszcze w kwietniu 1940 po wizytacji jednotki uważał, że dywizja SS-Totenkopf jest niewystarczająco przygotowana do walki, Hitler uznał to za typowy dla armii krytycyzm, SS wg niego wykradczało poza jak to określał przestarzałą koncepcję rycerskości. SS broniono również mówiąc, że walczyli w rozdrobnieniu i byli niedostatecznie wyposażeni przez armię.
-
-Hitler powierzyl SS Operację Tannenberg i Akcję A-B, mające na celu likwidację polskich elit i ewentualnego ruchu oporu. Zajęły się tym Einsatzgruppen wspomagane przez lokalne oddzialy paramiliutarne. Do Einsatzgruppen należeli członkowie SS, SD i sił policyjnych. Do końca 1939 zamordowano ok 65 tys polskich cywilów. Głównym celem byli działacze społeczni i polityczni, inteligencja, uczeni, nauczyciele, aktorzy oficerowie. Kiedy wojsko skarżyło się na brutalność Heydrich odpowiedział, że dzialają w zgodzie ze specjalnym rozkazem Hitlera. Pierwsza masowa egzekucja miała miejsce 6 wrzesnia podczas ataku na Kraków.
-
-Służby SS: Gestapo i SD miały pełną kontrolę nad okupowanymi terenemi do powołania Hansa Franka 26 paździenika 1939.
-
-Zadowolony z działań w Polsce Hitler dał zielone swiatło tworzeniu kolejnych formacji wojskowych SS, ale nakazął by działały pod ścisłą kontrolą Wehrmachtu. SS-Leibstandarte pozostało oddzielnym pułkiem ochrony Hitlera; pozostałe pułki: SS-Deutschland, SS-Germania i SS-Der Führer połączono w dywizję SS-Verfügungs-Division. Kolejna: SS-Totenkopf powstala z SS-TV czyli strażników obozów koncentracyjnych. Trzecia: SS-Polizei z ochotnikow z policji. SS miało kontrolę nad rekrutacją, logistyką i systemem zopatrzenia własnych oddziałów.
+Fanatyczna wierność i bezwgkędność miała charakteryzować każdego SS-mana. Dlatego SS stało sę głównym narzędziem do osiągnięcia zbrodniczych celów. Zarządzało siecią obozów koncentracyjnych, przeprowadzało masakry cywilów i jeńców wojennych, w rezultacie była to orgaznizacja odpowiedzialna za zamordowanie ok 20 mln ludzi z tego ok połowy to byli Słowianie a 6 mln Żydzi. Jak to ocenił trybunał w Norymberdze, SS ponosi odpowiedzialność za większość zbrodni hitlerowskich.
 
 ## Operacja Anthropoid
 
@@ -223,6 +204,10 @@ Heydrich miał tytuł Chef der Sicherheitspolizei und SD (Szef Policji Bezpiecze
 27 maja 1942 wyszkoleni w UK czescy i słowaccy cichociemni dokonali zamachu na Heydricha. Zmarł w szpitalu. Po jego śmierci Himmler przejął bezpośrednie dowodzenie RSHA, dopiero 30 stycznia 1943 mianował na to stanowisko Ernsta Kaltenbrunnera.
 
 Na cześć Reinharda Heydricha akcję wymordowania Żydów na terene Generalnej Gubernii nazwano Operacją Reinhardt.
+
+## Hierarchia i mundury
+
+Dla odrózmnienia od innych organizacji SS ustanowiłą własną hierachię, mundury i odznaki. Przed 1929 nosili takie same brunatne mundury jak SA, z dodatkiem czarnego krawata i czarnej czapki z trupią czaszką. W 1932 wprowadzono czarne mundury i znak SS w formie runów (Guido von List 1906: Sig zwycięstwo). W 1935 wojskowe formacje SS używały feldgrau, ale wprowadzili bluzy i pokrowce na hełmy z różnymi kamuflażami po obu stronach. Wiele z tych mundurów powstało w zakładach pracy przymusowej i obozach koncentracyjnych.
 
 ## Jednostki SS
 
@@ -244,15 +229,13 @@ Hitler uważał że planowanej likwidacji Żydów nie można powierzyć regularn
 
 Ostatnie Einsatzgruppen zostały rozwiązane latem 1944 choć niektóre istniały formalnie do 1945. Z powodu wycofywania się frontu i niezdolności kontynuowania eksterminacj. Cżłonkowie Einsatzgruppen zostali przydzieleni do Waffen SS albo do obozów koncentracyjnych. 24 dowdódców Einsatzgruppen było sądzonych w Norymberdze za zbrodnie wojenne.
 
+> "W krajach bałtyckich szczególnym okrucieństwem wsławiła się krwawa Einzatzgruppe A. Do pierwszej masakry doszło 24 czerwca, ledwie dwa dni po rozpoczęciu "Barbarossy", w małym litewskim miasteczku Gargżdaj, leżącym tuż nad granicą. Funkcjonariusze tajnej policji i oddział policyjny z Kłajpedy rozstrzelali tego popołudnia 201 Żydów. Do 18 lipca oddział egzekucyjny miał już na koncie 3300 ofiar; w sierpniu liczba zamordowanych oscylowała między 10 a 12 tysięcy, głównie mężczyzn pochodzenia żydowskiego oraz komunistów.
+>
+> Na początku tej zbrodniczej działalności oddziałom egzekucyjnym towarzyszyli litewscy nacjonaliści, których szybko udało się nakłonić do okrutnych pogromów Żydów. W Kownie Żydzi byli zatłukiwani pałkami na śmierć jeden po drugim przez miejscowego nadgorliwca na oczach tłumu gapiów - w tym kobiet trzymających na rękach dzieci, żeby także widziały - klaskających i krzyczących z radości. Jeden z naocznych świadków wspomniał, że w ten sposób w trzy kwadranse zabito około 45-50 Żydów. Kiedy rzeźnik skończył masakrę, wspiął się na stos ciał i stojąc na szczycie odegrał na akordeonie litewski hymn państwowy. Obok stali, biernie się przyglądając, niemieccy żołnierze, niektórzy robili zdjęcia. Dowódca Wehrmachtu na ten obszar, generał broni Ernst Busch, po zapoznaniu się z raportami z mordów uznał, że są to wewnętrzne sprawy litewskie, więc on nie ma się prawa wtrącać. Uważano,że ta sprawa podlega wyłącznie policji bezpieczeństwa." - Ian Kershaw "Hitler 1941-45 Nemezis" Rebis 2003, s 67-68
+
 ### Hauptamt SS-Gericht
 
 Sąd SS - własny system sądowniczy zajmujący się śledztwami, procesami i wymierzaniem kar dla SS. Było to ponad 600 prawników w dwóch głównych biurach w Berlinie i Monachium. Procesy były prowadzone w 38 regionalnych sądach SS w całych Niemczech. Miał wyłaczność na sądzenie SS, za wyjątkiem tych SS-manów, którzy służyli w Wehrmachcie, w tym wypdku odpowiadali przed zwykłym sądem wojskowym. Stawiało to SS poza zasięgiem sądownictwa cywilnego. Himmler osobiście interweniował w wielu wypadkach. Historyk Karl Dietrich Bracher opisuje ten syystem sądowy jako kluczowy czynnik w tworzeniu nazistowskiego państwa policyjnego, ponieważ likwidując zwykłe procedury prawne, sprawiał, że obywatele byli bezbronni.
-
-### Kawaleria SS
-
-Wkrótce po przejęciu władzy w 1933 większość związków jazdy konnej została przejęta przez SA i SS. Prowadzono w nich m in szkolenie wojskowe do służby w Reiter-SS. Pierwszy pułk kawaleryjski, SS-Totenkopf Reitstandarte 1, powstał we wrześniu 1939. Dowodzony przez SS-Standartenführera Hermanna Fegeleina, jednostka została wysłana do Polski i wzięła udział w eksterminacji polskiej inteligencji. W maju 1940 powołano dodatkowe szwadrony, w sumie było ich wtedy 14.
-
-W grudniu kawaleria SS została podzielona na dwa pułki, oboma dowodzIł Fegelein. Do marca 1941 liczebność oddziału wzrosła do 3500. W lipcu 1941 zostali przydzieleni do operacji karnej na bagnch Prypeci gdzie ścigali i zabijali Żydów i partyzantów. Oba pułki zostały połączone w jedną brygadę kawalerii SS 31 lipca, 12 dni po rozpoczęciu operacji. Końcowy raport Fegeleina z 18 września 1941 mówi o zabicu 14178 Żydów, 1001 partyzantów i 699 czerwonoarmistów oraz wzięciu do niewoli 830 jeńców. Historyk Henning Pieper ocenia, że rzeczywista liczba zabitych Żydów jest bliższa 23700. Brygada poniosła ciężkie straty podczas bitwy o Moskwę, w niektórych szwadronach straty siegały 60%. Fegelein został mianowany dowódcą 8 dywizji kawalerii SS Florian Geyer 20 kwietnia 1943. W sowietach walczył z partyzantami i cywilami. Kawaleria SS służyła również w Chorwacji i na Węgrzech.
 
 ### SS Korpus Medyczny
 
@@ -280,20 +263,6 @@ Himmler docelowo zamierzał zamienić wszystkich cywilnych pracowników kobietam
 
 Pomocnicze-SS - nie byli to SS-mani, ale zaciągnięci z innych służb wojskowych, NSDAP, SA, Volksturm do służby w obozach koncentracyjnych i zagłady.
 
-### Zagraniczne legiony i ochotnicy
-
-W 1940 Himmler otworzył zaciąg do SS dla Niemców niemających niemieckiego obywatelsttwa. W marcu 1941 główny urząd SS powołał Germanische Leitstelle mający za zadanie organizację biur rekrutacyjnych SS w okupowanej Europie. Oddziały te miały odróżniające patki na mundurach i stopnie wojskowe zaczynające się od Waffen zamiast SS. Ochotnicy ze Skandynawii sformowwali dwie dywizje: SS Viking i SS Nordland. Dużo było niemieckojezycznych ochotników ze Szwajcarii. Belgijscy Flamandowie SS-Nederland, Walończycy SS-Walonien. Do końca 1943 około 1/4 SS to byli etniczni Niemcy z całej Europy. Do czerwca 1944 połowa Waffen SS to byli cudzoziemcy.
-
-Dodatkowe oddziały Waffen SS sformowano z Ukrainców, Albańczyków z kosowa, Serbów, Chorwatów, Kozakóœ i Tatarów. Ukraińcy i Tatarzy byli prześladowani przez Stalina.
-
-Wygnany wielki mufti Jerozolimy Amin al-Husseini został mianowany SS-Gruppenführerem przez Himmlera w maju 1943. Antysemityzm i wrogość do Serbów pomagały rekrutować bośniackich muzułmanów do SS-Handschar. Na początku 1944 Himmler starał się nakłonić Pohla żeby uwolnić muzułmanskich więźniów obozów koncentracyjnych do wojsk SS.
-
-Trwajaca rok okupacja krajow bałtyjskich spowodowała napływ ochotników do łotewskich i estońskich oddziałów SS. Estoński legion składał się z 1280 ochotników i został przeszkolony do końca 1942. 25 tys ochotników służyło w estońskiej dywizji SS, nie licząc kilku tysięcy, którzy zaciągneli się do batalionów policji frontowej i oddziałów straży granicznej. 15 tys Estończyków zginęło
-
-Legion Indyjski - oddział Wehrmachtu utworzony w sierpniu 1942 głównie z żołnierzy British Indian Army schwytanych do niewoli w płn Afryce. W sierpniu 1944 zostali oddani pod komendę Waffen SS jako Indische Freiwilligen-Legion der Waffen-SS.
-
-Francuska dywizja SS-Charlemagne, sformowana w 1944 głównie z pozostałości Legionu Francuskich Ochotników i Francuskiej Sturmbrigade.
-
 ## Holokaust
 
 SS było narzędziem terroru i zbrodni, najdobitniejszym przykładem tego jest Holokaust i zbrodnie popełniane na jeńcach i ludności cywilnej na frocie wschodnim. Mając uzupełnienia Kripo, Orpo i Waffen SS Einsatzgruppen osiagneły liczebbność 3 tys ludzi.
@@ -314,9 +283,9 @@ Po rozpoczęciu wojny Himmler zintensyfikował operacje SS. Reżim stał się ba
 
 Latem 1941 SS zaczęło budować stacjonarne urządzenia do zabijania ludzi gazem, miało to na celu zastąpić Einsatzgruppen. Zabiijano ludzi tlenkiem węgla lub spalinami z silnikow samochodowych. Podczas Operacji Reinhard prowadzonej przez SS-TV, wyznaczone oddziały po złożeniu przysięgi zachowania tajemnicy zbudopwały trzy obozy zagłady:
 
-* Bełzec działał od marca 1942
-* Sobibór od maja 1942
-* Treblinka od lipca 1942
+- Bełzec działał od marca 1942
+- Sobibór od maja 1942
+- Treblinka od lipca 1942
 
 Do pracy w komorach gazowych i krematoriach zmuszano więźniów z Sonderkommando, później też regularnie zabijanych. Na rozkaz Himmlera na początku 1942 zbudowano drugi obóz Auschwitz - Birkenau, który też miał się stać obozem zagłady.
 

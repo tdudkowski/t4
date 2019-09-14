@@ -56,6 +56,8 @@ Teoria nordyzmu z entuzjazmem została przyjęta przez amerykańskich rasistów,
 Po dojściu hitlerowców do władzy ich sympatycy w USA powołali organizację Friends of New Germany, która powstała z połączenia Free Society of Teutonia i National Socialist Party. Trzy lata później została przekształcona w Amerikadeutscher Bund (German American Bund). 20 lutego 1939 w Madison Square Garden zebrali 20 tys ludzi. Bund przestał istnieć podczas wojny.
 
 Rok po wprowadzeniu rasistowskich Ustaw Norymberskich w Berlinie odbyła się Olimpiada. Zwycięstwo Jessego Owensa często przedstawiane jest jako bolesny dla hitlerowców cios ze strony wolnego świata, pierwszy akt ideologicznej wojny. Często zapomina się przy tym, że po tym oszałamiającym zwycięstwie Owens powrócił do świata również rasistowskiego, w jego ojczyźnie dla "coloured people" istniały osobne szkoły, szpitale i hotele. Oczywiście były gorsze niż te przeznaczone dla białych. Instytucjonalny rasizm w stanach południowych istniał aż do lat 60. i żeby z nim skończyć trzeba było wyprowadzić wojsko na ulicę, były ofiary śmiertelne.
-Jesse Owens: "I'd spent my whole life watching my father and mother and older brothers and sisters trying to escape their own kind of Hitler, first in Alabama and then in Cleveland, and all I wanted now was my chance to run as fast and jump as far as I could so I'd never have to look back."
+Jesse Owens:
+
+> "I'd spent my whole life watching my father and mother and older brothers and sisters trying to escape their own kind of Hitler, first in Alabama and then in Cleveland, and all I wanted now was my chance to run as fast and jump as far as I could so I'd never have to look back."
 
 W 1937 został powołany Pionieer Fund "to advance the scientific study of heredity and human differences", organizacja białych suprematystów.
