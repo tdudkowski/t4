@@ -5,6 +5,7 @@
     - [Hitleryzm](#hitleryzm)
     - [SS](#ss)
     - [Akcja T4](#akcja-t4)
+    - [Holokaust - podstawowe](#holokaust---podstawowe)
     - [Holokaust](#holokaust)
   - [Odnośniki](#odnośniki)
     - [Eugenika](#eugenika)
@@ -48,10 +49,23 @@
 <li>Ley Astrid, Hinz-Wessels Annette "Die Euthanasie-Anstalt Brandenburg an der Havel: Morde an Kranken und Behinderten im Nationalsozialismus (Schriftenreihe der Stiftung Brandenburgische Gedenkstätten)" Metropol-Verlag 2012, s 196, ISBN: 3863310853</li>
 </ul>
 
+### Holokaust - podstawowe
+
+<ul>
+<li>Hilberg Raul “Sprawcy. Ofiary. świadkowie. Zagłada Żydów 1933-1945” Cyklady 2007, s 418</li>
+<li>Hilberg Raul “Zagłada Żydów Europejskich” Centrum Badań nad Zagładą Żydów 2014, s 1680</li>
+<li>Kogon Eugen “The Theory and Practice of Hell: The German Concentration Camps and the System Behind Them” Farrar, Straus and Giroux 2006, s 368</li>
+<li>Kogon Eugen "Państwo SS. Organizacja i funkcjonowanie niemieckiego obozu koncentracyjnego" Replika 2017, s 544, ISBN 9788376745954</li>
+<li>Rees Laurence “Auschwitz. Naziści i "ostateczne rozwiązanie"” Prószyński i S-ka 2005, s 248</li>
+<li>Rees Laurence “Auschwitz: A New History” Public Affairs 2006, s 327</li>
+<li>Wachsmann Nikolaus “KL. Historia nazistowskich obozów koncentracyjnych” Świat Książki 2016, s 960</li>
+<li>Winston Martin “Miejsca Holokaustu w Europie” (The Holocaust sites of Europe) Bellona 2017, s 592 ISBN: 978-83-111-4344-9</li>
+</ul>
+
 ### Holokaust
 
 <ul>
-<li>“Auschwitz od A do Z. Ilustrowana historia obozu”  Państwowe Muzeum Auschwitz-Birkenau 2013, s 207</li>
+<li>“Auschwitz od A do Z. Ilustrowana historia obozu” Państwowe Muzeum Auschwitz-Birkenau 2013, s 207</li>
 <li>“Auschwitz. Hitlerowski obóz śmierci” Wydawnictwo Państwowego Muzeum Oświęcim-Brzezinka 2010, s 336</li>
 <li>Benz Wolfgang "Der Holocaust" C.H.Beck 2014, s 127</li>
 <li>Bertrand Nicolas "L'Enfer réglementé" Perrin 2015, s 416</li>
@@ -60,19 +74,11 @@
 <li>Cochrane John, McDonough Frank "The Holocaust" Palgrave 2008, s 232</li>
 <li>Czech Danuta “Kalendarz wydarzeń w KL Auschwitz“ Wydawnictwo Państwowego Muzeum Auschwitz-Birkenau 1992, s 905</li>
 <li>Greif Gideon “"...płakaliśmy bez łez..." Relacje byłych więźniów żydowskiego Sonderkommando z Auschwitz” Wydawnictwo Państwowego Muzeum Auschwitz-Birkenau 2010, s 379</li>
-<li>Hilberg Raul “Sprawcy. Ofiary. świadkowie. Zagłada Żydów 1933-1945” Cyklady 2007, s 418</li>
-<li>Hilberg Raul “Zagłada Żydów Europejskich” Centrum Badań nad Zagładą Żydów 2014, s 1680</li>
-<li>Kogon Eugen “The Theory and Practice of Hell: The German Concentration Camps and the System Behind Them” Farrar, Straus and Giroux 2006, s 368</li>
 <li>Komprisch Kathrin “Sprawczynie” Prószyński i S-ka 2012, s 412, ISBN: 978-83-7839-143-2</li>
 <li>Langerbein Helmut "Szwadrony śmierci Hitlera" Replika 2017, s 400, ISBN: 9788376745701</li>
-<li>"Państwo SS. Organizacja i funkcjonowanie niemieckiego obozu koncentracyjnego" Replika 2017, s 544, ISBN 9788376745954</li>
-<li>Rees Laurence “Auschwitz. Naziści i "ostateczne rozwiązanie"” Prószyński i S-ka 2005, s 248</li>
-<li>Rees Laurence “Auschwitz: A New History” Public Affairs 2006, s 327</li>
 <li>Setkiewicz Piotr “Życie prywatne esesmanów w Auschwitz” Wydawnictwo Państwowego Muzeum Auschwitz-Birkenau 2012, s 136</li>
 <li>Snyder Timothy “Czarna ziemia. Holokaust jako ostrzeżenie” Znak Horyzont 2015 , s 448</li>
 <li>Steinbacher Sybille "Auschwitz: Geschichte und Nachgeschichte" C.H.Beck 2004, s 128 (“Auschwitz Obóz i miasto” Wydawnictwo Naukowe PWN 2012, s 182)</li>
-<li>Wachsmann Nikolaus “KL. Historia nazistowskich obozów koncentracyjnych” Świat Książki 2016, s 960</li>
-<li>Winston Martin “Miejsca Holokaustu w Europie” (The Holocaust sites of Europe) Bellona 2017, s 592 ISBN: 978-83-111-4344-9</li>
 <li>Wójcik Aleksandra, Zdziarski Maciej “Dobranoc, Auschwitz!” Znak Horyzont 2016, s 288</li>
 </ul>
 

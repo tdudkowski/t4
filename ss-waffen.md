@@ -86,7 +86,9 @@ Lądowanie Aliantów we Włoszech oznaczało rozpoczęcie w Europie wojny na dwa
 
 Po ataku na St Nazaire i Dieppe w 1942, Hitler rozkazał budowe fortyfikacji Wału Atlantyckiego od Hiszpanii po Norwegię, żeby zabezpieczyć się przed oczekiwaną inwazją. Fortyfikacje i piechota do nich przydzielona zostały uzupełnione o 11 dywizji pancernych i grenadierów pancernych stacjonujących na zapleczu. Trzy z nich były dywizjami SS. Oprócz tego SS-Das Reich stacjonowała w południowej Francji a LSSAH w Belgii. Z 17 18 letnich członków Hitlerjugend utworzono dywizję pancerną SS-Hitlerjugend dowodzoną przez doświadczonych oficerów, stacjonowała na zachód od Paryża.
 
-Inwazja rozpoczęła się 6 czerwca 1944, 21 Dywizja PAncerna dowodzona przez generała Edgara Feuchtingera znajdujaca się na południe od Caen byłą jedyną dyzizją pancerną w pobliżu obszaru lądowania. 146 czołgów i 50 dział samobieznych natychmiast przystąpiły do walki. SS-Hitlerjugend następnego dnia. 7-8 i 17 czerwca SS-Hitlerjugend dokonało masakry kanadyjskich jeńców wojennych w Ardenne Abbey.
+Inwazja rozpoczęła się 6 czerwca 1944, 21 Dywizja PAncerna dowodzona przez generała Edgara Feuchtingera znajdujaca się na południe od Caen byłą jedyną dyzizją pancerną w pobliżu obszaru lądowania. 146 czołgów i 50 dział samobieżnych natychmiast przystąpiły do walki. SS-Hitlerjugend następnego dnia. 7-8 i 17 czerwca SS-Hitlerjugend dokonało masakry kanadyjskich jeńców wojennych w Ardenne Abbey.
+
+W drodze na front dywizja Das Reich 10 czerwca dokonała najsłynniejszej zbrodni wojennej mordując 642 cywilów w wiosce Oradour-sur-Glane.
 
 Kiedy ofensywa Aliantów rozwinęła się 4 sierpnia Hitler wydał rozkaz kontrofensywy (Operacja Lüttich). Wzięły w niej udział LSSAH, Das Reich, 2 i 116 Dywizje Panncerne mając wsparcie piechoty i oddziałów 17 Dywizji SS Grenadierów Pancernych. Alianci oczekiwali takiego uderzenia i zniszczyli je z powietrza. 21 sierpnia 50 tys niemieckich żołnierzy zostało okrążonych w kotle pod Falaise. Części LSSAH udało się wyrwać z okrążenia. Paryż został wyzwolony 25 sierpnia.
 

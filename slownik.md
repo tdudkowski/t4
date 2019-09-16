@@ -6,6 +6,7 @@
 * Wolfsangel wilcze kły
 * Meine Ehre heißt Treue! Moim honorem jest wierność!
 * Führerprinzip zasada wodzowska
+* Sondergerichte sądy specjalne
 * Schutzhaft areszt ochronny
 * Lebensraum przestrzeń życiowa
 * Drang nach Osten parcie na wschód
