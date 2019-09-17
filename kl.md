@@ -4,16 +4,17 @@
 
 Z wielu powodów określenie co jest obozem koncentracyjnym nie jest takie proste, ogólnie oznacza to miejsce izolacji dużych grup ludzkich z jakichś powodów politycznych uznanych za niepożądanych.
 Samo pojęcie zostało po raz pierwszy użyte w 1897 kiedy hiszpański generał Valeriano Weyler y Nicolau podczas pacyfikacji Kuby zorganizował duże obozy, w których uwięziono masę często niezwiązanych z rebelią ludzi, nazywano je campos de concentración.
-Takie obozy istniały wcześniej, np. USA trzymała w nich rdzennych Amerykanów.
-Brytyjczycy podczas Drugiej Wojny Burskiej.
-Kolonialne oddziały Schutztruppe kajzerowsksiej armii niemieckiej w Afryce Południowo-Zachodniej w latach 1904-08, najcęższy był Konzentrationslager auf der Haifischinsel vor Lüderitzbucht na Shark Island.
-Sowieckie gułagi.
-1934 Bereza Kartuska.
-Komunistyczne Chiny.
+
+* Takie obozy istniały wcześniej, np. USA trzymała w nich rdzennych Amerykanów.
+* Brytyjczycy podczas Drugiej Wojny Burskiej.
+* Kolonialne oddziały Schutztruppe kajzerowskiej armii niemieckiej w Afryce Południowo-Zachodniej w latach 1904-08, najcięższy był Konzentrationslager auf der Haifischinsel vor Lüderitzbucht na Shark Island.
+* Sowieckie gułagi.
+* 1934 Bereza Kartuska.
+* Komunistyczne Chiny.
 
 ## Obozy koncentracyjne w nazistowskich Niemczech 1933-39
 
-Obozy koncentracyjne powstały w hitlerowskich Niemczech bardzo szybko. Władzę naf policją miało MSW pod kierownictwem Wilhelma Fricka, Hermann Göring miał władzę w Prusach. Celem było uwięzienie i zastraszenie przeciwników politycznych, likwidacja wszelkiej opozycji.
+Obozy koncentracyjne powstały w hitlerowskich Niemczech bardzo szybko. Władzę nad policją miało MSW pod kierownictwem Wilhelma Fricka, Hermann Göring miał władzę w Prusach. Celem było uwięzienie i zastraszenie przeciwników politycznych, likwidacja wszelkiej opozycji.
 
 Pierwsze powstawały oddolnie, spontanicznie w wyniku działań miejscowego aparatu partyjnego i bojówek partyjnych. Potem zostały zinstytucjonalizowane i należały do SA i SS. Pierwszym oficjalnie założonym obozem był Dachau, ówczesny szef policji w Monachium opisał go jako "pierwszy obóz koncentracyjny dla przeciwników politycznych". Od 1934 SS przejęło całkowitą kontrolę nad wszystkimi obozami. Funkcje strażnicze pełniło SS-Totenkopfverbände (SS-TV). W 1934 powstaje Inspektion der Konzentrationslager (IKL) pod kierownictwem Eicke. W 1940 IKL wszedł w zakres Verwaltung und Wirtschaftshauptamt Hauptamt (VuWHA) na czele którego stał Oswald Pohl. W 1942 stał się częścią Amt D skonsolidowanego głównego biura SS-Wirtschafts-Verwaltungshauptamt.
 
@@ -48,7 +49,7 @@ Obozy powstawały w pobliżu dużych ośrodków populacyjnych, tam gdzie było d
 W 1942 SS zbudowało sieć obozów zagłady, żeby zabić miliony ludzi: Vernichtungslager i Todeslager. Naziści odróżniali te dwa rodzaje obozów. Brytyjski wywiad wiedział o nich od 1942 , Jan Karski dostarczył obszerne zeznania naocznych świadków.
 
 Dwie główne grupy osadzonych to byli Żydzi (gł polscy) i sowieccy jeńcy wojenni. Ponadto duże grupy Cyganów, etnicznych Polaków, szczególnie inteligencji, Serbów, homoseksualistów, niepełnosprawnych, świadków Jehowy i kler.
-Była także niewielka grupa lotników alianckich uznanych za szpiegów. Jeńcy wojenni z armii zachodnich, którzy byli Żydami lub byli uznnai za Żydów najczęściej siedzieli w normalnych obozach jenieckich, czasem jednak kierowano ich do obozów koncentracyjnych.
+Była także niewielka grupa lotników alianckich uznanych za szpiegów. Jeńcy wojenni z armii zachodnich, którzy byli Żydami lub byli uznnani za Żydów najczęściej siedzieli w normalnych obozach jenieckich, czasem jednak kierowano ich do obozów koncentracyjnych.
 Była też oddzielna kategoria więźniów stanu, trzymanych czasem w roli zakładników, np. generałowie po zamachu na Hitlera, czy były dowódca U-boota który został pastorem luterańskim Martin Niemöller, admirał Wilhelm Canaris, internowany w Flossenbürgu 7 lutego 1945 i powieszony 9 kwietnia.
 
 W większości obozów więźniowie byli podzieleni na kategorie, najczęściej były to trójkąty w określonym kolorze przyszywane na rękawie:
@@ -92,38 +93,38 @@ Za "Auschwitz Nazistowski obóz śmierci", Wydawnictwo Państwowego Muzeum Oświ
 * Treblinka, Sobibór i Bełżec zostały zlikwidowane jeszcze w 1943
 
 Pułkownik William W. Quinn z U.S. 7th Army o Dachau: "There our troops found sights, sounds, and stenches horrible beyond belief, cruelties so enormous as to be incomprehensible to the normal mind."
-W  większości wyzwolonych przez sowietow prawie wszyscy więźniowie byli ewakuowani, a Auschwitz zostało tylko 7 tys w tym 180 dzieci z tych które przeznaczono do eksperymentów.
+W  większości wyzwolonych przez sowietów prawie wszyscy więźniowie byli ewakuowani, a Auschwitz zostało tylko 7 tys w tym 180 dzieci z tych które przeznaczono do eksperymentów.
 W Bergen-Belsen brytyjska 11th Armoured Division napotkała 60 tys ludzi i 13 tys niepochowanych ciał; ponadto 10 tys zmarło z chorób i głodu już po wyzwoleniu; zmuszali SS do zbierania ciał i grzebania ich w masowych mogiłach.
 
 ## Rodzaje obozów
 
 Historycy dzielą obozy na wiele rodzajów wg przeznaczenia, struktury administracyjnej, czy składu więźniów. System obozów zmieniał się na przeciągu lat i same obozy często zmieniały charakter.
 
-* wczesne obozy tzw dzikie - powstawaly wszędzie w Niemczech, jak to Himmler określił "jak grzyby po deszczu" bez żadnego nadzoru władz państwowych i partyjnych, z inicjatywy miejscowego aparatu i oddziałów paramilitarnych, w nieużywanych magazynach, barakach, piwnicach, wagonach, itp.
+* wczesne obozy tzw dzikie - powstawały wszędzie w Niemczech, jak to Himmler określił "jak grzyby po deszczu" bez żadnego nadzoru władz państwowych i partyjnych, z inicjatywy miejscowego aparatu i oddziałów paramilitarnych, w nieużywanych magazynach, barakach, piwnicach, wagonach, itp.
 * państwowe obozy: Dachau, Oranienburg, Esterwegen; strzeżone przez SA, później SS; w 1935 107 tys więźniów
 * obozy dla zakładników Geisellager, np Sint-Michielsgestel i Haaren
 * obozy pracy Arbeitslager; więźniowie zmuszani byli do ciężkiej pracy w nieludzkich warunkach, traktowani brutalnie, niektóre z nich były podobozami tzw Aussenlager wokół centralnych Stammlager, lub służyły jako "obozy operacyjne" ustanowione tymczasowo
 * obozy jenieckie Kriegsgefangenen-Mannschafts-Stammlager / Stalag schwytani żołnierze z reguły byli zmuszani do pracy Arbeitskommandos; dla oficerów Offizierslager' / Oflag; te były dla armii istniały także specjalne Marinelager / Marlag i Marineinterniertenlager / Milag dla marynarki; Kriegsgefangenen-Mannschafts-Stammlager Luftwaffe / Stalag Luft były jedynymi obozami gdzie oficerowie byli razem z resztą
 * "rehabilitacja" i "reedukacja" Polaków Arbeitserziehungslager polska inteligencja
-* zbiorcze i tranzytowe, w których więźniowie byli zbierani przed dalszym transportem Sammellager, albo tyczasowo zatrzymani Durchgangslager / Dulag a potem przewiezieni dalej
+* zbiorcze i tranzytowe, w których więźniowie byli zbierani przed dalszym transportem Sammellager, albo tymczasowo zatrzymani Durchgangslager / Dulag a potem przewiezieni dalej
 * obozy zagłady Vernichtungslager
 
-Żadna z tych kategorii nie była niezależna od innych i wyłaczna. Większość obozów stanowi połaczenie wielu kategorii. Wiele z nich miało elementy obozów zagłady, ale systematyczne zabijanie natychmiast po przybyciu miało miejsce tylkow w obozach zagłady.
+Żadna z tych kategorii nie była niezależna od innych i wyłączna. Większość obozów stanowi połączenie wielu kategorii. Wiele z nich miało elementy obozów zagłady, ale systematyczne zabijanie natychmiast po przybyciu miało miejsce tylko w obozach zagłady.
 
 Nawet obozy zagłady nie stanowiły jedności: były takie jak te związane z Operacją Reinhadt: Bełżec, Treblinka, Sobibór, natomiast Auschwitz i Majdanek były też obozami koncentracyjnymi; Trościeniec też na pewien sposób jest obozem zagłady.
 
 ## Po wojnie
 
-Wiekszość obozów została zniszczona po wojnie. Niektóre zamieniono w pomniki i nmuzea.
+Większość obozów została zniszczona po wojnie. Niektóre zamieniono w pomniki i muzea.
 W PRL kilka z tych obozów Majdanek, Jaworzno, Potulice, Zgoda były używane przez NKWD.
 W Potulicach upamiętnia się ofiary hitleryzmu i komunizmu.
-W DDR byly obozy w Buchenwaldzie, Sachsenhausen, Dachau. Trzymano tam gł nazistów.
+W DDR obozy w Buchenwaldzie, Sachsenhausen, Dachau. Trzymano tam gł nazistów.
 
 ## Dachau
 
 1933
-Założony przez NSDAP i DNVP roziwązaną 6 lipca 1933
-26 czerwca 1933 Himmler wyznaczyl Theodor Eicke komendantem Dachau, w 1934 zostal także pierwszym IKL
+Założony przez NSDAP i DNVP rozwiązana 6 lipca 1933
+26 czerwca 1933 Himmler wyznaczył Theodora Eicke komendantem Dachau, w 1934 został także pierwszym IKL
 
 ## Sachsenhausen
 

@@ -1,7 +1,7 @@
 # NSDAP
 
 Created czwartek 08 sierpnia 2019
-Tu będzie narracja zdanie po zdaniu, Komentarz przebiegu wydarzeń historycznych.
+Tu będzie samo tylko kalendarium, tu będe dodawał kolejne wydarzenia.
 
 ## 1918
 

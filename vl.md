@@ -80,6 +80,14 @@ W tym samym czasie zbudowano instalacje w Auschwitz II i Majdanku, tam wprowadzo
 Auschwitz, Majdanek i Jasenovac Cyklon B, komory i krematoria, system dzialal końca.
 Mały Trościeniec początkowo był obozem koncentracyjnym, ale potem wprowadzono masowe rozstrzeliwanie więźniów, a od października 1943 stosowano również ciężarówkę gazową.
 
+Po zabiciuu gazem Sonderkommando usuwało zwłoki, złote zęby. Początkowo ofiary grzebano w masowych grobachh, potem były kremowane podczas Sonderaktion 1005 we wszystkich obozach Operacji Reinhard.
+
+W Auschwitz ciała były palone w krematoriach, a prochy grzebano i rozrzucano albo wrzucano do rzeki.
+
+W Sobibborze, Treblince, Bełżcu i Chełmnie ciala palono na stosach.
+
+Wydajność przemysłowego zabijania ludzi w Auschwitz-Birkenau - zbudowanie trzech budynkow z krematoriami zaprojektowanymi przez specjalistow z J.A. Topf & Söhne. palono ciała 24h na dobę, a i tak palono równiez ciała na stosach.
+
 ## Obozy zagłady na Bałkanach
 
 Sajmište nazistowski obóz koncentracyjny w Jugoslawii od marca do czerwca 1942 stosowano ciężarówkę gazową. Kiedy skończono zabijanie ciężarówka wróciła do Berlin, a po remoncie wysłano ją do Małego Trościenca.
@@ -94,16 +102,6 @@ The United States Holocaust Memorial Museum (USHMM) W Washington, DC, szacuje ze
 Jasenovac Memorial Site podaje podobne liczby 80-100 tys ludzi.
 Odcinek telewizyjnego dokumentu "Nazi Collaborators" opisuje zbrodnie dokonane przez Dinko Sakic i mowa o ponad 300 tys ofiar.
 
-## Corpse disposal
-
-Po zabiciuu gazem Sonderkommando usuwało zwłoki, złote zęby. Początkowo ofiary grzebano w masowych grobachh, potem były kremowane podczas Sonderaktion 1005 we wszystkich obozach Operacji Reinhard.
-
-W Auschwitz ciała były palone w krematoriach, a prochy grzebano i rozrzucano albo wrzucano do rzeki.
-
-W Sobibborze, Treblince, Bełżcu i Chełmnie ciala palono na stosach.
-
-Wydajność przemysłowego zabijania ludzi w Auschwitz-Birkenau - zbudowanie trzech budynkow z krematoriami zaprojektowanymi przez specjalistow z J.A. Topf & Söhne. palono ciała 24h na dobę, a i tak palono równiez ciała na stosach.
-
 ## Próba ukrycia
 
 Próba całkowitego lub częściowego zniszczenia obozow i zatarcia śladóow zbrodni, a przynajmniej jej skali. Trzeba było ukryć nie tylko slady zbrodni ale różnież ciała pomordowanych. Obozy były rozbierane przez więżniów skazanych na zagladę. Dokumenty były niszczone, groby rozkopywane a ciała palone.
@@ -112,7 +110,7 @@ Niektóre z obozów zostały odkryte przez sowietów majacych inny standard doku
 
 Majdanek został zdobyty prawie nietknięty, bo szybkie postępy operacji Bagration.
 
-## Upamietnienie
+## Upamiętnienie
 
 W powojennej Polsce pwostały pomniki obozów zagłady i muzea. Wczesne pomniki nie wspominały narodowości zabitych.
 

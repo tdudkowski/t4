@@ -113,6 +113,8 @@
 <li><a href="https://www.spiegel.de/geschichte/nazi-starpilotin-hanna-reitsch-a-947526.html">Für Hitler flog sie durch die Hölle</a></li>
 <li><a href="https://www.spiegel.de/geschichte/musik-im-dritten-reich-a-947055.html">Musik im "Dritten Reich" Der Dirigent von Görings Gnaden</a></li>
 <li><a href="https://www.zeit.de/wissen/geschichte/2018-07/ns-geschichte-mutter-kind-beziehung-kindererziehung-nazizeit-adolf-hitler">Warum Hitler bis heute die Erziehung von Kindern beeinflusst</a></li>
+<li><a href="https://www.spiegel.de/geschichte/kriegsdienstverweigerer-hinrichtung-von-august-dickmann-zeuge-jehovas-a-1286598.html">An den Zeugen Jehovas verzweifelten die Nazis</a></li>
+<li><a href="https://www.spiegel.de/geschichte/mauerschuetzen-prozesse-brachten-den-rechtsstaat-an-seine-grenzen-a-1000949.html">Die Grenze des Rechtsstaats</a></li>
 </ul>
 
 ### Inne
