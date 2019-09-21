@@ -53,3 +53,12 @@ Docelowo przynajmniej ~10 biogramów z zakresu eugeniki i ~20 T4.
 ### Seymour Ezra ()
 
 ### Stojanowski Karol ()
+
+### Inni
+
+Erwin Lambert
+Irmfried Georg Rolf Eberl
+Hans von Dohnanyi
+Maximinus Friedrich Alexander „Max“ de Crinis
+Friedrich von Bodelschwingh der Jüngere
+[T4-Gutachter](https://de.wikipedia.org/wiki/T4-Gutachter)

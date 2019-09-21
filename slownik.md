@@ -2,16 +2,20 @@
 
 ## Ogólna
 
-* Totenkopf trupia czaszka
-* Wolfsangel wilcze kły
-* Meine Ehre heißt Treue! Moim honorem jest wierność!
 * Führerprinzip zasada wodzowska
 * Sondergerichte sądy specjalne
 * Schutzhaft areszt ochronny
+* Sicherungsverwahrung aka Sicherheitsverwahrung zatrzymanie prewencyjne
 * Lebensraum przestrzeń życiowa
 * Drang nach Osten parcie na wschód
 * Neue Ordnung nowy porządek
 * vernichtung durch Arbeit wyniszczenie przez pracę
+
+## SS
+
+* Totenkopf trupia czaszka
+* Wolfsangel wilcze kły
+* Meine Ehre heißt Treue! Moim honorem jest wierność!
 
 ## Akcja T4
 
@@ -23,6 +27,7 @@
 * unnütze Esser darmozjad
 * Rassenhygiene higiena rasowa
 * sanfte Erlösung łagodne wybawienie
+* Reichsausschusskinder popsute dzieci Rzeszy
 
 ## Holokaust
 

@@ -199,7 +199,9 @@ Dwa inne oddziały zapewniały wewnętrzny krąg ochrony.
 
 ## Operacja Anthropoid
 
-Heydrich miał tytuł Chef der Sicherheitspolizei und SD (Szef Policji Bezpieczeństwa i SD). 27 września 1939 stanął na czele nowopowołanego RSHA, była to służba bezpieczeństwa SS, konsolidująca wszystkie siły policyjne: SD, Kripo, Gestapo. Miał też własne biura finansów, administracji i zaopatrzenia. Heinrich Müller dowodzący dotąd pionem operacyjnym Gestapo został wtedy wyznaczony na jego dowódcę. Arthur Nebe był dowódcą Kripo, obie gałęzie SD były dowodzone przez oficerów SS m in Otto Ohlendorfa i Waltera Schellenberga. SD było uważane za elitarną gałąź SS, oficerowie SD byli lepiej wykształceni i bardziej ambitni i bezwględni niż reszta Allgemeine SS, cechowała ich także bezwględna i bezwarunkowa wierność ideologii NS.
+Heydrich miał tytuł Chef der Sicherheitspolizei und SD (Szef Policji Bezpieczeństwa i SD).
+
+27 września 1939 stanął na czele nowopowołanego RSHA, była to służba bezpieczeństwa SS, konsolidująca wszystkie siły policyjne: SD, Kripo, Gestapo. Miał też własne biura finansów, administracji i zaopatrzenia. Heinrich Müller dowodzący dotąd pionem operacyjnym Gestapo został wtedy wyznaczony na jego dowódcę. Arthur Nebe był dowódcą Kripo, obie gałęzie SD były dowodzone przez oficerów SS m in Otto Ohlendorfa i Waltera Schellenberga. SD było uważane za elitarną gałąź SS, oficerowie SD byli lepiej wykształceni i bardziej ambitni i bezwględni niż reszta Allgemeine SS, cechowała ich także bezwględna i bezwarunkowa wierność ideologii NS.
 
 27 maja 1942 wyszkoleni w UK czescy i słowaccy cichociemni dokonali zamachu na Heydricha. Zmarł w szpitalu. Po jego śmierci Himmler przejął bezpośrednie dowodzenie RSHA, dopiero 30 stycznia 1943 mianował na to stanowisko Ernsta Kaltenbrunnera.
 

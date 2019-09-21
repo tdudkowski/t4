@@ -11,6 +11,8 @@
 
 Lebensborn e.V. (dosłownie Źródło życia; e.V. eingetragener Verein czyli stowarzyszenie zarejestrowane) założona przez SS w 1935 i wspierana przez państwo hitlerowskie organizacja mająca realizować cele eugeniki pozytywnej, czyli polepszenie dynamiki demograficznej oraz polepszenie jakości genetycznej populacji. W praktyce chodziło o zwiększenie liczby urodzin, a w szczególności urodzin dzieci szczególnie pożądanych przez rasistowskie państwo: czyli pochodzących od rodziców spełniających określone rasowe kryteria. Rodzinom należącym do programu Lebensborn zapewniał opiekę socjalną, konsultacje medyczne i bezpieczny poród. Opiekował się również kobietami, które mogły urodzić, były w ciąży lub już urodziły dzieci niemieckich żołnierzy, szczególnie jeśli byli to SS-mani. Niezamężnym matkom zapewniał domy opieki i dyskretny poród, a jeżeli chciały oddać dzieci, ich adopcję. Od 1939 Lebensborn organizował masowe porwania dzieci uznane za wartościowe rasowo. Porywano je na terenach okupowanych, głównie w Polsce i Norwegii.
 
+Symbolem Lebensbornu był zgodnie z esesmańską ezoteryką run Algiz w interpretacji Guido von Lista, runy armańskie oznaczający życie. Termin Lebensrune pojawia się w niemieckiej mistyce już w latach 20. XX. i juź wkrótce powszechnie jest stosowany w symbolice nazistowskiej, np pojawia się na receptach, lekach, bywa również używany przed datą urodzenia w miejsce tradycyjnej gwiazdy.
+
 Krzyż Honorowy Niemieckiej Matki (niem. Ehrenkreuz der Deutschen Mutter, w skrócie: Krzyż Matki, niem. Mutterkreuz) ustanowiony w 1938 za urodzenie 4 (brązowy), 6 (srebrny) lub 8 (złoty) dzieci.
 
 Aborcja  była dozwolona w przypadku niepełnosprawnych dzieci ale w innych przypadkach zabroniona i karana.
@@ -21,11 +23,11 @@ Lebensborn powstał 12 grudnia 1935 żeby przeciwdziałać spadającym wskaźnik
 
 Kolejne zadania to:
 
-* opieka i adopcja sierot po żołnierzach niemieckich, początkowo dotyczyło tylko SS-manów, w przypadkach zwykłych żołnierzy trudno było o zapewnienie dowodów na czystość rasową, szczególnie jeśli chodziło o cudzoziemki; z czasem kryteria uległy złagodzeniu i o przyjęciu do programu decydowały badania przeprowadzone przez lekarzy SS.
-* zapewnienie opieki nad niezamężnymi kobietami w ciąży, jeżeli zarówno one jak i ich partnerzy spełniali kryteria rasowe; miały zagwarantowaną opiekę podczas ciąży, dyskretny poród i możliwość oddania dziecka.
-* stworzenie możliwości spłodzenia dzieci przez żołnierzy SS w sposób zorganizowany, poza sformalizowanym związkiem, w specjalnych ośrodkach; Lebensborn zapewniał ośrodki dla kobiet, które chciały urodzić dziecko SS dla dobra ojczyzny; dzieci te potem były pod szczególną opieką SS
-* na terenach okupowanych trwające od 1939 porwania dzieci spełniających kryteria rasowe
-* wszystkim dzieciom będącym własnością SS, przejętym na mocy prawa, oddanym przez matki, czy porwanym Lebensborn zapewniał sierociniec i proces adopcyjny (preferowano rodziny SS), w przypadku dzieci starszych także szkołę z internatem
+- opieka i adopcja sierot po żołnierzach niemieckich, początkowo dotyczyło tylko SS-manów, w przypadkach zwykłych żołnierzy trudno było o zapewnienie dowodów na czystość rasową, szczególnie jeśli chodziło o cudzoziemki; z czasem kryteria uległy złagodzeniu i o przyjęciu do programu decydowały badania przeprowadzone przez lekarzy SS.
+- zapewnienie opieki nad niezamężnymi kobietami w ciąży, jeżeli zarówno one jak i ich partnerzy spełniali kryteria rasowe; miały zagwarantowaną opiekę podczas ciąży, dyskretny poród i możliwość oddania dziecka.
+- stworzenie możliwości spłodzenia dzieci przez żołnierzy SS w sposób zorganizowany, poza sformalizowanym związkiem, w specjalnych ośrodkach; Lebensborn zapewniał ośrodki dla kobiet, które chciały urodzić dziecko SS dla dobra ojczyzny; dzieci te potem były pod szczególną opieką SS
+- na terenach okupowanych trwające od 1939 porwania dzieci spełniających kryteria rasowe
+- wszystkim dzieciom będącym własnością SS, przejętym na mocy prawa, oddanym przez matki, czy porwanym Lebensborn zapewniał sierociniec i proces adopcyjny (preferowano rodziny SS), w przypadku dzieci starszych także szkołę z internatem
 
 Częścią polityki eugenicznej bezpośrednio związanej z Lebensborn była promocja, wręcz przymuszanie SS-manów do możliwie wczesnego ożenku i spłodzenia jak największej liczby dzieci. Używano tu jako zachęty systemu nagród i kar finansowych. Promowano również przynależność do Lebensborn (i płacenie składek), dla oficerów SS przynależność była obowiązkiem służbowym.
 
@@ -54,15 +56,15 @@ Lebensborn e. V. stworzył ośrodki w wielu krajach, działalność prowadził g
 
 Lebensborn e. V. miało lub planowało mieć placówki w następujących krajach (niektóre były zwykłymi biurami):
 
-* Niemcy: 10
-* Austria: 3
-* Polska (General Government): 6 (8 jeżeli włączyć Szczecin i Połczyn Zdrój)
-* Norwegia: 9
-* Dania: 2a
-* Francja: 1 (luty 1944 – sierpień 1944) – w Lamorlaye
-* Belgia: 1 (marzec 1943 – wrzesień 1944) – w Wégimont, k Soumagne
-* Holandia: 1
-* Luksemburg: 1
+- Niemcy: 10
+- Austria: 3
+- Polska (General Government): 6 (8 jeżeli włączyć Szczecin i Połczyn Zdrój)
+- Norwegia: 9
+- Dania: 2a
+- Francja: 1 (luty 1944 – sierpień 1944) – w Lamorlaye
+- Belgia: 1 (marzec 1943 – wrzesień 1944) – w Wégimont, k Soumagne
+- Holandia: 1
+- Luksemburg: 1
 
 Ok 8 tys dzieci zostało urodzonych w domach Lebensborn w Niemczech i ok 8-12 tys dzieci w Norwegii. Gdzie indziej liczby są znacznie mniejsze. W Norwegii dokonano ok 250 adopcji, w większości wypadków za zgodą matek, ale nie wszystkie były powiadomione, że ich dzieci zostaną wysłane do Niemiec. Po wojnie rząd norweski odzyskał większość z nich, oprócz 80 dzieci.
 
@@ -70,9 +72,9 @@ Ok 8 tys dzieci zostało urodzonych w domach Lebensborn w Niemczech i ok 8-12 ty
 
 W 1939 naziści zaczęli porywać masowo dzieci z innych krajów, gł Jugosławii i Polski, oprócz tego z Rosji, Ukrainy, Czechosłowacji Rumunii, Łotwy i Norwegii do programu Lebensborn. Dzieci najczęściej były zabierane na oczach rodziców, poddawane były serii badań i rozdzielane na 3 grupy:
 
-* wartościowe i przeznaczone do zintegrowania w społeczeństwie niemieckim
-* akceptowalne
-* niepożądane
+- wartościowe i przeznaczone do zintegrowania w społeczeństwie niemieckim
+- akceptowalne
+- niepożądane
 
 Dzieci należące do ostatniej kategorii wywożono do obozów koncentracyjnych, gdzie były zabijane. Dzieci z pozostałych grup w wieku od 2 do 6 lat, umieszczano w programie adopcyjnym, w wieku 6 do 12 w niemieckich szkołach z internatem. Szkoły przydzielały im nowe, niemieckie dane personalne i uczyły je dumy z przynależności do Niemiec. Dzieci były zmuszane do zapomnienia o biologicznych rodzicach. Wymazywano wszelkie ślady ich przeszłości. Opierające się germanizacji były bite i jeśli ciągle stawiały opór były wysyłane do obozów koncentracyjnych.
 
@@ -110,9 +112,9 @@ Lebensborn pojawia się w popkulturze.
 
 Filmy:
 
-* "Zwei Leben" (2012)
-* "Człowiek z wysokiego zamku" w serialu dwie pierwszoplanowe postacie to dzieci Lebensborn.
-* "Król Olch" (1996) w reżyserii Volkera Schlöndorffa, główny bohater jest porywaczem chłopców, które później po weryfikacji rasowej są umieszczane w szkole wojskowej
+- "Zwei Leben" (2012)
+- "Człowiek z wysokiego zamku" w serialu dwie pierwszoplanowe postacie to dzieci Lebensborn.
+- "Król Olch" (1996) w reżyserii Volkera Schlöndorffa, główny bohater jest porywaczem chłopców, które później po weryfikacji rasowej są umieszczane w szkole wojskowej
 
 Jednym z mitów dotyczących programu Lebensborn jest twierdzenie jakoby był instytucją legalizująca systemowy gwałt. Pierwszy raz taka teza pojawiła się w niemieckim piśmie Revue w latach 50. Nie ma żadnych dowodów, żeby tak było.
 
