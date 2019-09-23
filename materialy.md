@@ -115,6 +115,8 @@
 <li><a href="https://www.zeit.de/wissen/geschichte/2018-07/ns-geschichte-mutter-kind-beziehung-kindererziehung-nazizeit-adolf-hitler">Warum Hitler bis heute die Erziehung von Kindern beeinflusst</a></li>
 <li><a href="https://www.spiegel.de/geschichte/kriegsdienstverweigerer-hinrichtung-von-august-dickmann-zeuge-jehovas-a-1286598.html">An den Zeugen Jehovas verzweifelten die Nazis</a></li>
 <li><a href="https://www.spiegel.de/geschichte/mauerschuetzen-prozesse-brachten-den-rechtsstaat-an-seine-grenzen-a-1000949.html">Die Grenze des Rechtsstaats</a></li>
+<li><a href="https://www.welt.de/geschichte/article193263635/Landtagswahlen-1929-In-Sachsen-begann-der-Siegeszug-der-NSDAP.html">"In Sachsen begann der Siegeszug der NSDAP"</a></li>
+<li><a href="https://www.spiegel.de/geschichte/ns-erbe-a-948366.html">"Der Wahn von der Autobahn"</a></li>
 </ul>
 
 ### Inne

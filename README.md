@@ -38,6 +38,6 @@ W zakresie tekstu głównego na ver 1.0:
 
 ## Odnośniki:
 
-* Kontakt  - formularz na mojej stronie [dygresje.info/kontakt](http://dygresje.info/kontakt).
+* **Kontakt**  - formularz na mojej stronie [dygresje.info/kontakt](http://dygresje.info/kontakt).
 * Homepage [dygresje.info](http://dygresje.info)
 * [Tadeusz Dudkowski, Github Page](https://tdudkowski.github.io)
