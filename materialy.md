@@ -7,6 +7,7 @@
     - [Akcja T4](#akcja-t4)
     - [Holokaust - podstawowe](#holokaust---podstawowe)
     - [Holokaust](#holokaust)
+  - [Filmy](#filmy)
   - [Odnośniki](#odnośniki)
     - [Eugenika](#eugenika)
     - [Akcja T4](#akcja-t4-1)
@@ -24,6 +25,7 @@
 <li>Benz Wolfgang “Geschichte des Dritten Reiches” dtv Verlagsgesellschaft 2003, s 240</li>
 <li>Lower Wendy “Furie Hitlera. Niemki na froncie wschodnim” Czarne 2015, s 274, ISBN: 978-83-8049-046-8</li>
 <li>McDonough Frank "The Gestapo: The Myth and Reality of Hitler's Secret Police" Skyhorse Publishing 2017, s 320</li>
+<li>Klee Ernst "Das Personenlexikon zum Dritten Reich: Wer war was vor und nach 1945" Nikol 2016, s 736, ISBN: 978-3868203110</li>
 </ul>
 
 ### SS
@@ -47,6 +49,7 @@
 <li>Hinz-Wessels Annette "Tiergartenstraße 4: Schaltzentrale der nationalsozialistischen "Euthanasie"-Morde" Ch. Links Verlag 2015, s 208, ISBN: 3861538482</li>
 <li>Schöne Christopher, Luger Marion, Krull Nina "Rassenhygiene und Euthanasie im Dritten Reich" Science Factory 2014, s 208, ISBN: 3956871367</li>
 <li>Ley Astrid, Hinz-Wessels Annette "Die Euthanasie-Anstalt Brandenburg an der Havel: Morde an Kranken und Behinderten im Nationalsozialismus (Schriftenreihe der Stiftung Brandenburgische Gedenkstätten)" Metropol-Verlag 2012, s 196, ISBN: 3863310853</li>
+<li>Böhm Boris "Vergessene Opfer der NS-„Euthanasie“: Die Ermordung schlesischer Anstaltspatienten 1940-1945" Leipziger Uni-Vlg 2018, s 229, ISBN: 978-3960231899</li>
 </ul>
 
 ### Holokaust - podstawowe
@@ -82,6 +85,24 @@
 <li>Wójcik Aleksandra, Zdziarski Maciej “Dobranoc, Auschwitz!” Znak Horyzont 2016, s 288</li>
 </ul>
 
+## Filmy
+
+Linki do filmów na YT są opisane nawiasami kwadratowymi: [YT "Tytuł filmu" [czas trwania], język].
+
+<ul>
+<li><a href="https://www.imdb.com/title/tt2156206/">Selling Murder: The Killing Films of the Third Reich (1991)</a></a> Channel Four 1991 [YT <a href="https://www.youtube.com/watch?v=c2kV83nPWnM">Selling Murder: The Secret Propaganda Films of the Third Reich [53:49]</a>, angielski]</li>
+<li><a href="https://www.amazon.com/Action-T4-Doctor-Under-Nazism/dp/B078JYYDZL">Action T4: A Doctor Under Nazism</a> ARTE France 2014</a> [YT <a href="https://www.youtube.com/watch?v=YAHIyFyfdTM">Action T4: A Doctor Under Nazism (WWII Documentary HD) [53:59]</a>, angielski]</li>
+<li><a href="https://www.imdb.com/title/tt7853006/">Caring Corrupted: The Killing Nurses of the Third Reich (2017)</a> Universiy of Texas 2016</a> [YT <a href="https://www.youtube.com/watch?v=Rz8ge4aw8Ws">CARING CORRUPTED - The Killing Nurses of The Third Reich [56:08]</a>, angielski]</li>
+<li><a href="https://www.imdb.com/title/tt1809031/">Science and the Swastika (2001– ) Hitler's Biological Soldiers</a> Channel Four 2017</a> [YT <a href="https://www.youtube.com/watch?v=pQAdwjYc_VE">Science and the Swastika : Hitler's Biological Soldiers [48:20]</a>, angielski]</li>
+<li>"Disability rights advocate Dave Reynolds presented about this to Eastern Washington University's Disability Studies students in Cheney, Washington on Oct. 2, 2018." [YT <a href="https://www.youtube.com/watch?v=OpO4WImofBk">Operation T4 Euthanasia 1939-1945 Hadamar Clinic [32:34]</a> angielski, angielskie napisy]</li>
+<li>[YT <a href="https://www.youtube.com/watch?v=8C65TDdRnm4">Sonnenstein: Nazi-kasteel des doods [14:44]</a>, niemiecki, holenderskie napisy]</a></li>
+<li>[YT <a href="https://www.youtube.com/watch?v=rcpUi7KBxz0">Nazi medical crimes | DW Documentary [42:26]</a>, angielski]</li>
+<li>[YT <a href="https://www.youtube.com/watch?v=4a7Jg8INJTU">Medical Ethics in the Shadow of the Holocaust: The Nazi Doctors, Racial Hygiene, Murder and Genocide [1:17:47]</a>, angielski] UNHCOLA 2012; Michael A. Grodin, MD, Director of the Project on Medicine and the Holocaust and Professor of Health Law, Bioethics, and Human Rights at Boston University School of Public Health and School of Medicine.</li>
+<li>[YT <a href="https://www.youtube.com/watch?v=O9otIN9jq_w">Giving a Name to Nameless Victims: Patients and the Nazi "Euthanasia" Program [1:07:01]</a>, angielski] UNHCOLA 2012, Patricia Heberer, PhD; Historian, United States Holocaust Memorial Museum, Washington, DC</li>
+<li>[YT <a href="https://www.youtube.com/watch?v=jnmERJ4tYNc">"Nazi Medicine, The Holocaust and the Problem of Collective Evil" (September 24, 2015) [1:42:29]</a>, angielski] Stony Brook University 2015 A talk by by Sal Mangione, MD for Stony Brook's CMHCCB Monthly Colloquia series.</li>
+<li><a href="https://www.imdb.com/title/tt0119364/">In the Shadow of the Reich: Nazi Medicine (1997)</a></li>
+</ul>
+
 ## Odnośniki
 
 ### Eugenika
@@ -97,6 +118,7 @@
   <li><a href="https://www.gedenkort-t4.eu/">T4 Gedenk- & Informationsort für Opfer der NS-»Euthanasie«</a></li>
   <li><a href="https://gedenkstaette-bernburg.sachsen-anhalt.de">Gedenkstätte für Opfer der NS-"Euthanasie" Bernburg</a></li>
     <li><a href="http://www.ns-euthanasie.de">NS Euthanasie im 3. Reich - Gedenken an die Opfer</a></li>
+    <li><a href="https://www.stsg.de/cms/pirna/">Gedenkstätte Pirna-Sonnenstein</a></li>
   <li><a href="http://www.schondorf.pl/odkrycia/zaglada-pacjentow-w-warcie/">Zagłada pacjentów szpitala w Warcie</a></li>
   <li>Wojewódzki Szpital Neuropsychiatryczny im. Oskara Bielawskiego w Kościanie <a href="https://wsn.koscian.pl/Historia.html">Historia</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Glossary_of_Nazi_Germany">Glossary of Nazi Germany</a></li>
@@ -122,6 +144,7 @@
 ### Inne
 
 <ul>
+<li><a href="https://www.stsg.de/cms/dresden/">Gedenkstätte Münchner Platz Dresden</a></li>
 <li><a href="http://www.leistikowstrasse-sbg.de">Gedenk- und Begegnungsstätte Leistikowstraße Potsdam</a></li>
 <li><a href="https://www.ghwk.de">Haus der Wannsee-Konferenz Gedenk- und Bildungsstätte</a></li>
 <li><a href="http://www.gedenkstaette-lindenstrasse.de">Stiftung Gedenkstätte Lindenstraße</a></li>
