@@ -42,8 +42,8 @@
 <ul>
 <li>Aly Götz "Obciążeni", Wydawnictwo Czarne 2015, s 328, ISBN 978-83-8049-150-2</li>
 <li>Sheffer Edith "Dzieci Aspergera. Medycyna na usługach III Rzeszy" Wydawnictwo Poznańskie 2019, s 430, ISBN: 978-83-66381-49-0</li>
-<li>Klee Ernst ""Euthanasie" im Dritten Reich: Die "Vernichtung lebensunwerten Lebens" (Die Zeit des Nationalsozialismus)" Fischer Taschenbuch 2010, s 739, ISBN: 9783596186747</li>
 <li>Klee Ernst "Auschwitz. Medycyna III Rzeszy i jej ofiary" Universitas 2014, s 508, ISBN: 97883-242-2629-0</li>
+<li>Klee Ernst ""Euthanasie" im Dritten Reich: Die "Vernichtung lebensunwerten Lebens" (Die Zeit des Nationalsozialismus)" Fischer Taschenbuch 2010, s 739, ISBN: 9783596186747</li>
 <li>Vellguth Klaus "Aktion T4 - Mord mit System: Das NS-Euthanasieprogramm und die Geschichte eines Opfers" Topos plus 2014, s 155, ISBN: 3836708701</li>
 <li>Friedlander Henry "Der Weg zum NS-Genozid. Von der Euthanasie zur Endlösung" Berlin Verlag 2001, s 624, ISBN: 3827002656</li>
 <li>Hinz-Wessels Annette "Tiergartenstraße 4: Schaltzentrale der nationalsozialistischen "Euthanasie"-Morde" Ch. Links Verlag 2015, s 208, ISBN: 3861538482</li>
@@ -55,10 +55,11 @@
 ### Holokaust - podstawowe
 
 <ul>
+<li>Cesarani David “Ostateczne rozwiązanie Losy żydów w latach 1933-1949” Prószyński Media 2019, s 1112, ISBN: 978-83-816-9044-7</li>
 <li>Hilberg Raul “Sprawcy. Ofiary. świadkowie. Zagłada Żydów 1933-1945” Cyklady 2007, s 418</li>
 <li>Hilberg Raul “Zagłada Żydów Europejskich” Centrum Badań nad Zagładą Żydów 2014, s 1680</li>
-<li>Kogon Eugen “The Theory and Practice of Hell: The German Concentration Camps and the System Behind Them” Farrar, Straus and Giroux 2006, s 368</li>
 <li>Kogon Eugen "Państwo SS. Organizacja i funkcjonowanie niemieckiego obozu koncentracyjnego" Replika 2017, s 544, ISBN 9788376745954</li>
+<li>Kogon Eugen “The Theory and Practice of Hell: The German Concentration Camps and the System Behind Them” Farrar, Straus and Giroux 2006, s 368</li>
 <li>Rees Laurence “Auschwitz. Naziści i "ostateczne rozwiązanie"” Prószyński i S-ka 2005, s 248</li>
 <li>Rees Laurence “Auschwitz: A New History” Public Affairs 2006, s 327</li>
 <li>Wachsmann Nikolaus “KL. Historia nazistowskich obozów koncentracyjnych” Świat Książki 2016, s 960</li>
@@ -73,7 +74,6 @@
 <li>Benz Wolfgang "Der Holocaust" C.H.Beck 2014, s 127</li>
 <li>Bertrand Nicolas "L'Enfer réglementé" Perrin 2015, s 416</li>
 <li>Bruttmann Tal "Auschwitz" La Découverte 2015, s 128</li>
-<li>Cesarani David “Final Solution: The Fate of the Jews 1933-1949” St. Martin's Press 2016, s 1056</li>
 <li>Cochrane John, McDonough Frank "The Holocaust" Palgrave 2008, s 232</li>
 <li>Czech Danuta “Kalendarz wydarzeń w KL Auschwitz“ Wydawnictwo Państwowego Muzeum Auschwitz-Birkenau 1992, s 905</li>
 <li>Greif Gideon “"...płakaliśmy bez łez..." Relacje byłych więźniów żydowskiego Sonderkommando z Auschwitz” Wydawnictwo Państwowego Muzeum Auschwitz-Birkenau 2010, s 379</li>
