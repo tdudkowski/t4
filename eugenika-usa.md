@@ -1,12 +1,15 @@
 # USA
+
 - [USA](#usa)
   - [Immigration Restriction League](#immigration-restriction-league)
   - [Prawo eugeniczne](#prawo-eugeniczne)
   - [Eugenics Record Office](#eugenics-record-office)
   - [American Eugenics Society](#american-eugenics-society)
   - [Przymusowa sterylizacja](#przymusowa-sterylizacja)
+  - [KKK](#kkk)
   - [Rasizm](#rasizm)
- 
+  - [Odnośniki](#odnośniki)
+
 Szczególną popularność zyskały idee eugeniczne w USA. Dziedzictwem eugeniki negatywnej były tam ograniczenia w imigracji, pseudonaukowe uzasadnienia segregacji rasowej (zakaz małżeństw międzyrasowych), oraz przymusowa sterylizacja chorych i kryminalistów.
 
 Już w 1881 (czyli na dwa lata przed publikacją Galtona) Aleksander Graham Bell postulował kontrolę imigracji i restrykcje wobec głuchych, uważał bowiem, że małżeństwa osób głuchych doprowadzą do epidemii głuchoty.
@@ -37,7 +40,7 @@ W 1920 powstaje American Birth Control League założona przez Margaret Sanger (
 
 ## American Eugenics Society
 
-Planowany pierwotnie na 1915 Second International Eugenics Congress nie odbył się z powodu trwającej wówczas wojny. Został zorganizowany dopiero 25-27 września 1921 w  American Museum of Natural History. Honorowym prezydentem był Aleksander Graham Bell. Poparcia udzielił arcybiskup nowojorski Patrick Joseph Hayes.
+Planowany pierwotnie na 1915 Second International Eugenics Congress nie odbył się z powodu trwającej wówczas wojny. Został zorganizowany dopiero 25-27 września 1921 w American Museum of Natural History. Honorowym prezydentem był Aleksander Graham Bell. Poparcia udzielił arcybiskup nowojorski Patrick Joseph Hayes.
 
 Po sukcesie Kongresu powstaje w 1922 American Eugenics Society ze wsparciem osób duchownych i wielu naukowców. Największą popularność zyskuje w latach 30. Po wojnie zmienia profil, składa się niemal wyłącznie z naukowców i kieruje się ku eugenice pozytywnej. W latach 70. zmienia nazwę na The Society for the Study of Social Biology, obecna nazwa to Society for Biodemography and Social Biology. Od 1954 wydają pismo "Eugenics Quarterly", w 1969 zmieniło nazwę na "Social Biology" a ostatnio w 2008 na "Biodemography and Social Biology".
 
@@ -49,15 +52,30 @@ Po sukcesie Kongresu powstaje w 1922 American Eugenics Society ze wsparciem osó
 
 W 1928 w Pasadena (Kalifornia) powstaje Human Betterment Foundation. Założycielem jest Ezra Seymour Gosney prawnik, biznesmen, filantrop bardzo zaangażowany w eugenikę. Jest ściśle związana z programem masowej, przymusowej sterylizacji. Należą do niej głównie naukowcy i prawnicy. Po śmierci Gosneya w 1942 jego córka i zarząd dokonały rozwiązania Fundacji, w jej miejsce w 1943 powołali Gosney Research Fund na California Institute of Technology (Caltech), która posiada wszystkie archiwa Fundacji. Fundacja miała ogromny i tragiczny w skutkach wpływ na historię, przede wszystkim to jej działania spowodowały, że Kalifornia przoduje w liczbie przymusowych sterylizacji, co stało się wzorem do naśladownictwa dla narodowych socjalistów.
 
+## KKK
+
+Ogromną rolę w propagowaniu zwyczajowego i instytucjonalnego rasizmu odegrał Ku-KluX-Klan powołany po wojnie secesyjnej w 1865. W latach 20. XX odrodził się jako tzw. "drugi klan" oficjalnie odżegnując się od linczów i rasistowskiego terroru działał na rzecz tworzenia barier rasowych odwołując się przy tym do rasistowskiej eugeniki. Założycielem "drugiego klanu" był William Joseph Simmons zainspirowany filmem "Narodziny narodu". Bardzo szybko liczebność KKK przekroczyła 4 mln członków. Miejsce rasistowskiej ideologii zajęła wizja Ameryki atakowanej przez "nieamerykańską" ludność i ideologię (Żydzi, Latynosi, katolicy).
+
+Odmienna sytuacja na Południu, w pewnej mierze przetrwanie praw rasistowskich było wynikiem tzw Kompromisu z 1877 (nazywanego też "Wielką Zdradą") kiedy to Unia zgodziła się na wycofanie wojsk okupacyjnych i zaprzestanie Rekonstrukcji w zamian za uznanie Hayesa za prezydenta USA.
+
 ## Rasizm
 
 Teoria nordyzmu z entuzjazmem została przyjęta przez amerykańskich rasistów, np KKK. Jego bardziej elitarna wersja, Anglo-Saxon Clubs of America, wprowadziła amerykańską wersję Ustaw Norymberskich - Racial Integrity Act, który obowiązywał w stanie Wirginia od 1924 aż do 1967. Wdrożono certyfikaty pochodzenia rasowego, które dokładnie definiowały kto może się określać jako biały. Wystarczyła 1/64 część domieszki krwi indiańskiej, żeby utracić ten uprzywilejowany status. Alabama i Georgia skopiowały tę ustawę.
 
-Po dojściu hitlerowców do władzy ich sympatycy w USA powołali organizację Friends of New Germany, która powstała z połączenia Free Society of Teutonia i National Socialist Party. Trzy lata później została przekształcona w Amerikadeutscher Bund (German American Bund). 20 lutego 1939 w Madison Square Garden zebrali 20 tys ludzi. Bund przestał istnieć podczas wojny.
+Po dojściu hitlerowców do władzy ich sympatycy w USA powołali organizację Friends of New Germany, która powstała z połączenia Free Society of Teutonia i National Socialist Party. Trzy lata później w 1936 została przekształcona w Amerikadeutscher Bund (German American Bund). 20 lutego 1939 w Madison Square Garden zebrali 20 tys ludzi ["A Night at the Garden" YT 16:19](https://www.youtube.com/watch?v=O2-E5DHQMbY). Bund przestał istnieć podczas wojny.
 
-Rok po wprowadzeniu rasistowskich Ustaw Norymberskich w Berlinie odbyła się Olimpiada. Zwycięstwo Jessego Owensa często przedstawiane jest jako bolesny dla hitlerowców cios ze strony wolnego świata, pierwszy akt ideologicznej wojny. Często zapomina się przy tym, że po tym oszałamiającym zwycięstwie Owens powrócił do świata również rasistowskiego, w jego ojczyźnie dla "coloured people" istniały osobne szkoły, szpitale i hotele. Oczywiście były gorsze niż te przeznaczone dla białych. Instytucjonalny rasizm w stanach południowych istniał aż do lat 60. i żeby z nim skończyć trzeba było wyprowadzić wojsko na ulicę, były ofiary śmiertelne.
+Rok po wprowadzeniu rasistowskich Ustaw Norymberskich w Berlinie odbyła się Olimpiada. Zwycięstwo Jessego Owensa często przedstawiane jest jako bolesny dla hitlerowców cios ze strony wolnego świata, pierwszy akt ideologicznej wojny. Często zapomina się przy tym, że po tym oszałamiającym zwycięstwie Owens powrócił do świata również rasistowskiego, w jego ojczyźnie dla "coloured people" istniały osobne szkoły, szpitale i hotele. Oczywiście gorsze niż te przeznaczone dla białych. Instytucjonalny rasizm w stanach południowych istniał aż do lat 60. i żeby z nim skończyć trzeba było wyprowadzić wojsko na ulicę, były ofiary śmiertelne.
+
 Jesse Owens:
 
 > "I'd spent my whole life watching my father and mother and older brothers and sisters trying to escape their own kind of Hitler, first in Alabama and then in Cleveland, and all I wanted now was my chance to run as fast and jump as far as I could so I'd never have to look back."
 
 W 1937 został powołany Pionieer Fund "to advance the scientific study of heredity and human differences", organizacja białych suprematystów.
+
+Najbardziej znaną powojenna organizacją nazistowską była założona w 1959 przez George Lincolna Rockwella American Nazi Party.
+
+## Odnośniki
+
+- [For the last time, the American Civil War was not about states’ rights](https://qz.com/378533/for-the-last-time-the-american-civil-war-was-not-about-states-rights/)
+- [Confronting Slavery and Revealing the "Lost Cause"](https://www.nps.gov/resources/story.htm%3Fid%3D217)
+- [OF COURSE THE CIVIL WAR WAS ABOUT SLAVERY](https://psmag.com/education/of-course-the-civil-war-was-about-slavery-26265)

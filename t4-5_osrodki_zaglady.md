@@ -1,3 +1,11 @@
+- [Faza scentralizowana](#faza-scentralizowana)
+  - [Brandenburg](#brandenburg)
+  - [Grafeneck](#grafeneck)
+  - [Hadamar](#hadamar)
+  - [Pirna Sonnenstein "D"](#pirna-sonnenstein-d)
+  - [Hartheim](#hartheim)
+  - [Bernburg (Saale)](#bernburg-saale)
+
 ## Faza scentralizowana
 
 W lutym 1940 ustalono listę 6 głównych ośrodków zagłady, oznaczono je literami: A, B, Be, C, D, E. Pierwszym działającym ośrodkiem zagłady osób chorych psychicznie i niepełnosprawnych na terenie przedwojennej Rzeszy, był zamek w Grafeneck, a następnie Brandenburg, Hartheim, Sonnenstein koło Pirny, Bernburg (Saale) oraz Hadamar.
