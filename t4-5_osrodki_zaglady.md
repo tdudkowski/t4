@@ -44,6 +44,11 @@ W latach 60. postawiono pomnik. W 1982 powstaje grupa robocza mająca za zadanie
 
 Od 2005 Centrum Dokumentacji, wystawa stała "Grafeneck 1940 – Krankenmord im Nationalsozialismus".
 
+<ul>
+  <li><a href="https://www.lebenshaus-alb.de/magazin/aktionen/009879.html">"Führung in der Gedenkstätte Grafeneck"</a></li>
+  <li><a href="https://www.leo-bw.de/detail-gis/-/Detail/details/DOKUMENT/lpb_gedenkstaetten/468/Gedenkstätte+Grafeneck">Gedenkstätte Grafeneck – Dokumentationszentrum</a></li>
+</ul>
+
 ### Hadamar
 
 1883 Korrigendenanstalt

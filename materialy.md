@@ -7,12 +7,16 @@
     - [Akcja T4](#akcja-t4)
     - [Holokaust - podstawowe](#holokaust---podstawowe)
     - [Holokaust](#holokaust)
+    - [Auschwitz](#auschwitz)
   - [Filmy](#filmy)
   - [Odnośniki](#odnośniki)
     - [Eugenika](#eugenika)
     - [Akcja T4](#akcja-t4-1)
-    - [Artykuły](#artykuły)
+      - [Gedenkstätten](#gedenkstätten)
+      - [Pozostałe](#pozostałe)
+      - [T4 artykuły](#t4-artykuły)
     - [Inne](#inne)
+    - [Artykuły](#artykuły)
 
 ## Książki
 
@@ -57,11 +61,7 @@
 <ul>
 <li>Cesarani David “Ostateczne rozwiązanie Losy żydów w latach 1933-1949” Prószyński Media 2019, s 1112, ISBN: 978-83-816-9044-7</li>
 <li>Hilberg Raul “Sprawcy. Ofiary. świadkowie. Zagłada Żydów 1933-1945” Cyklady 2007, s 418</li>
-<li>Hilberg Raul “Zagłada Żydów Europejskich” Centrum Badań nad Zagładą Żydów 2014, s 1680</li>
 <li>Kogon Eugen "Państwo SS. Organizacja i funkcjonowanie niemieckiego obozu koncentracyjnego" Replika 2017, s 544, ISBN 9788376745954</li>
-<li>Kogon Eugen “The Theory and Practice of Hell: The German Concentration Camps and the System Behind Them” Farrar, Straus and Giroux 2006, s 368</li>
-<li>Rees Laurence “Auschwitz. Naziści i "ostateczne rozwiązanie"” Prószyński i S-ka 2005, s 248</li>
-<li>Rees Laurence “Auschwitz: A New History” Public Affairs 2006, s 327</li>
 <li>Wachsmann Nikolaus “KL. Historia nazistowskich obozów koncentracyjnych” Świat Książki 2016, s 960</li>
 <li>Winston Martin “Miejsca Holokaustu w Europie” (The Holocaust sites of Europe) Bellona 2017, s 592 ISBN: 978-83-111-4344-9</li>
 </ul>
@@ -69,18 +69,27 @@
 ### Holokaust
 
 <ul>
-<li>“Auschwitz od A do Z. Ilustrowana historia obozu” Państwowe Muzeum Auschwitz-Birkenau 2013, s 207</li>
-<li>“Auschwitz. Hitlerowski obóz śmierci” Wydawnictwo Państwowego Muzeum Oświęcim-Brzezinka 2010, s 336</li>
 <li>Benz Wolfgang "Der Holocaust" C.H.Beck 2014, s 127</li>
 <li>Bertrand Nicolas "L'Enfer réglementé" Perrin 2015, s 416</li>
-<li>Bruttmann Tal "Auschwitz" La Découverte 2015, s 128</li>
 <li>Cochrane John, McDonough Frank "The Holocaust" Palgrave 2008, s 232</li>
-<li>Czech Danuta “Kalendarz wydarzeń w KL Auschwitz“ Wydawnictwo Państwowego Muzeum Auschwitz-Birkenau 1992, s 905</li>
-<li>Greif Gideon “"...płakaliśmy bez łez..." Relacje byłych więźniów żydowskiego Sonderkommando z Auschwitz” Wydawnictwo Państwowego Muzeum Auschwitz-Birkenau 2010, s 379</li>
+<li>Hilberg Raul “Zagłada Żydów Europejskich” Centrum Badań nad Zagładą Żydów 2014, s 1680</li>
+<li>Kogon Eugen “The Theory and Practice of Hell: The German Concentration Camps and the System Behind Them” Farrar, Straus and Giroux 2006, s 368</li>
 <li>Komprisch Kathrin “Sprawczynie” Prószyński i S-ka 2012, s 412, ISBN: 978-83-7839-143-2</li>
 <li>Langerbein Helmut "Szwadrony śmierci Hitlera" Replika 2017, s 400, ISBN: 9788376745701</li>
-<li>Setkiewicz Piotr “Życie prywatne esesmanów w Auschwitz” Wydawnictwo Państwowego Muzeum Auschwitz-Birkenau 2012, s 136</li>
 <li>Snyder Timothy “Czarna ziemia. Holokaust jako ostrzeżenie” Znak Horyzont 2015 , s 448</li>
+</ul>
+
+### Auschwitz
+
+<ul>
+<li>“Auschwitz od A do Z. Ilustrowana historia obozu” Państwowe Muzeum Auschwitz-Birkenau 2013, s 207</li>
+<li>“Auschwitz. Hitlerowski obóz śmierci” Wydawnictwo Państwowego Muzeum Oświęcim-Brzezinka 2010, s 336</li>
+<li>Bruttmann Tal "Auschwitz" La Découverte 2015, s 128</li>
+<li>Czech Danuta “Kalendarz wydarzeń w KL Auschwitz“ Wydawnictwo Państwowego Muzeum Auschwitz-Birkenau 1992, s 905</li>
+<li>Greif Gideon “"...płakaliśmy bez łez..." Relacje byłych więźniów żydowskiego Sonderkommando z Auschwitz” Wydawnictwo Państwowego Muzeum Auschwitz-Birkenau 2010, s 379</li>
+<li>Rees Laurence “Auschwitz. Naziści i "ostateczne rozwiązanie"” Prószyński i S-ka 2005, s 248</li>
+<li>Rees Laurence “Auschwitz: A New History” Public Affairs 2006, s 327</li>
+<li>Setkiewicz Piotr “Życie prywatne esesmanów w Auschwitz” Wydawnictwo Państwowego Muzeum Auschwitz-Birkenau 2012, s 136</li>
 <li>Steinbacher Sybille "Auschwitz: Geschichte und Nachgeschichte" C.H.Beck 2004, s 128 (“Auschwitz Obóz i miasto” Wydawnictwo Naukowe PWN 2012, s 182)</li>
 <li>Wójcik Aleksandra, Zdziarski Maciej “Dobranoc, Auschwitz!” Znak Horyzont 2016, s 288</li>
 </ul>
@@ -113,32 +122,39 @@ Linki do filmów na YT są opisane nawiasami kwadratowymi: [YT "Tytuł filmu" [c
 
 ### Akcja T4
 
+#### Gedenkstätten
+
 <ul>
+  <li><a href="http://www.brandenburg-euthanasie-sbg.de">Brandenburg - Gedenkstätte Opfer der Euthanasie-Morde</a></li>
+  <li><a href="http://s522790709.online.de">Gedenkstätte Grafeneck e. V.</a></li>
+  <li><a href="http://www.gedenkstaette-hadamar.de/">Gedenkstätte Hadamar</a></li>
+  <li><a href="https://www.stsg.de/cms/pirna/">Gedenkstätte Pirna-Sonnenstein</a></li>
+  <li><a href="https://gedenkstaette-bernburg.sachsen-anhalt.de">Gedenkstätte für Opfer der NS-"Euthanasie" Bernburg</a></li>
+  <li><a href="http://www.schloss-hartheim.at/">Lern- und Gedenkort Schloss Hartheim</a></li>
+</ul>
+
+#### Pozostałe
+
+<ul>
+<li><a href="https://www.gedenkstaettenforum.de">Gedenkstättenforum</a></li>
+  <li><a href="https://www.gedenkstaetten-uebersicht.de">Gedenkstättenübersicht - Europa</a></li>
   <li><a href="http://tiergartenstrasse4.org/">Tiergartenstrasse 4 Association</a></li>
   <li><a href="https://www.gedenkort-t4.eu/">T4 Gedenk- & Informationsort für Opfer der NS-»Euthanasie«</a></li>
-  <li><a href="https://gedenkstaette-bernburg.sachsen-anhalt.de">Gedenkstätte für Opfer der NS-"Euthanasie" Bernburg</a></li>
-    <li><a href="http://www.ns-euthanasie.de">NS Euthanasie im 3. Reich - Gedenken an die Opfer</a></li>
-    <li><a href="https://www.stsg.de/cms/pirna/">Gedenkstätte Pirna-Sonnenstein</a></li>
+  <li><a href="http://www.ns-euthanasie.de">NS Euthanasie im 3. Reich - Gedenken an die Opfer</a></li>
+    <li><a href="http://www.stiftung-bg.de">Stiftung Brandenburgische Gedenkstätten</a></li>
+<li><a href="http://www.erinnern.at/bundeslaender/">Österreich - Erinnern: Nationalsozialismus Und Holocaust</a></li>
+  <li><a href="http://www.ns-gedenkstaetten.de">Arbeitskreis der NS-Gedenkstätten in NRW e.V.</a></li>
+
+</ul>
+
+#### T4 artykuły
+
+  <ul>
   <li><a href="http://www.schondorf.pl/odkrycia/zaglada-pacjentow-w-warcie/">Zagłada pacjentów szpitala w Warcie</a></li>
   <li>Wojewódzki Szpital Neuropsychiatryczny im. Oskara Bielawskiego w Kościanie <a href="https://wsn.koscian.pl/Historia.html">Historia</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Glossary_of_Nazi_Germany">Glossary of Nazi Germany</a></li>
   <li>Das Bild-, Ton- und Dokumentenarchiv über Clemens: <a href="http://www.galen-archiv.de/index.php?option=com_content&view=article&id=8&Itemid=12">Predigt vom 13. Juli 1941</a> | <a href="http://www.galen-archiv.de/index.php?option=com_content&view=article&id=9&Itemid=17">Predigt vom 20. Juli 1941</a> | <a href="http://www.galen-archiv.de/index.php?option=com_content&view=article&id=4&Itemid=18">Predigt vom 3. August 1941</a></li>
   <li><a href="http://historiajarocina.pl/artykuly/herbert-lange-tajemniczy-komisarz-gestapo/">Herbert Lange – tajemniczy komisarz Gestapo</a></li>
-</ul>
-
-### Artykuły
-
-<ul>
-<li><a href="https://www.sueddeutsche.de/politik/hohenzollern-entschaedigung-geschichte-nationalsozialismus-kolumne-1.4565010">Die Hohenzollern deuten ihre Geschichte brachial um</a></li>
- <li><a href="https://www.spiegel.de/einestages/ns-elite-in-gefangenschaft-hotel-der-kriegsverbrecher-a-948559.html">NS-Elite in Gefangenschaft Hotel der Kriegsverbrecher</a></li>
-<li><a href="https://www.spiegel.de/geschichte/antisemitismus-opfer-philipp-auerbach-der-verhasste-nazi-jaeger-a-951063.html">Antisemitismus-Opfer Philipp Auerbach; Der unerwünschte Nazi-Jäger</a></li>
-<li><a href="https://www.spiegel.de/geschichte/nazi-starpilotin-hanna-reitsch-a-947526.html">Für Hitler flog sie durch die Hölle</a></li>
-<li><a href="https://www.spiegel.de/geschichte/musik-im-dritten-reich-a-947055.html">Musik im "Dritten Reich" Der Dirigent von Görings Gnaden</a></li>
-<li><a href="https://www.zeit.de/wissen/geschichte/2018-07/ns-geschichte-mutter-kind-beziehung-kindererziehung-nazizeit-adolf-hitler">Warum Hitler bis heute die Erziehung von Kindern beeinflusst</a></li>
-<li><a href="https://www.spiegel.de/geschichte/kriegsdienstverweigerer-hinrichtung-von-august-dickmann-zeuge-jehovas-a-1286598.html">An den Zeugen Jehovas verzweifelten die Nazis</a></li>
-<li><a href="https://www.spiegel.de/geschichte/mauerschuetzen-prozesse-brachten-den-rechtsstaat-an-seine-grenzen-a-1000949.html">Die Grenze des Rechtsstaats</a></li>
-<li><a href="https://www.welt.de/geschichte/article193263635/Landtagswahlen-1929-In-Sachsen-begann-der-Siegeszug-der-NSDAP.html">"In Sachsen begann der Siegeszug der NSDAP"</a></li>
-<li><a href="https://www.spiegel.de/geschichte/ns-erbe-a-948366.html">"Der Wahn von der Autobahn"</a></li>
 </ul>
 
 ### Inne
@@ -148,4 +164,13 @@ Linki do filmów na YT są opisane nawiasami kwadratowymi: [YT "Tytuł filmu" [c
 <li><a href="http://www.leistikowstrasse-sbg.de">Gedenk- und Begegnungsstätte Leistikowstraße Potsdam</a></li>
 <li><a href="https://www.ghwk.de">Haus der Wannsee-Konferenz Gedenk- und Bildungsstätte</a></li>
 <li><a href="http://www.gedenkstaette-lindenstrasse.de">Stiftung Gedenkstätte Lindenstraße</a></li>
+</ul>
+
+### Artykuły
+
+<ul>
+ <li>Der Spiegel: <a href="https://www.spiegel.de/einestages/ns-elite-in-gefangenschaft-hotel-der-kriegsverbrecher-a-948559.html">"NS-Elite in Gefangenschaft Hotel der Kriegsverbrecher"</a> | <a href="https://www.spiegel.de/geschichte/antisemitismus-opfer-philipp-auerbach-der-verhasste-nazi-jaeger-a-951063.html">"Antisemitismus-Opfer Philipp Auerbach; Der unerwünschte Nazi-Jäger"</a> | <a href="https://www.spiegel.de/geschichte/nazi-starpilotin-hanna-reitsch-a-947526.html">"Für Hitler flog sie durch die Hölle"</a> | <a href="https://www.spiegel.de/geschichte/musik-im-dritten-reich-a-947055.html">"Musik im "Dritten Reich" Der Dirigent von Görings Gnaden"</a> | <a href="https://www.spiegel.de/geschichte/kriegsdienstverweigerer-hinrichtung-von-august-dickmann-zeuge-jehovas-a-1286598.html">"An den Zeugen Jehovas verzweifelten die Nazis"</a> | <a href="https://www.spiegel.de/geschichte/mauerschuetzen-prozesse-brachten-den-rechtsstaat-an-seine-grenzen-a-1000949.html">"Die Grenze des Rechtsstaats"</a> | <a href="https://www.spiegel.de/geschichte/ns-erbe-a-948366.html">"Der Wahn von der Autobahn"</a></li>
+<li>Welt: <a href="https://www.welt.de/geschichte/article193263635/Landtagswahlen-1929-In-Sachsen-begann-der-Siegeszug-der-NSDAP.html">"In Sachsen begann der Siegeszug der NSDAP"</a></li>
+<li>Zeit: <a href="https://www.zeit.de/wissen/geschichte/2018-07/ns-geschichte-mutter-kind-beziehung-kindererziehung-nazizeit-adolf-hitler">"Warum Hitler bis heute die Erziehung von Kindern beeinflusst"</a></li>
+<li>SD: <a href="https://www.sueddeutsche.de/politik/hohenzollern-entschaedigung-geschichte-nationalsozialismus-kolumne-1.4565010">"Die Hohenzollern deuten ihre Geschichte brachial um"</a></li>
 </ul>
