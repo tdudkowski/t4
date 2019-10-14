@@ -22,49 +22,6 @@ W 1941 ośrodki w Bernburg i Sonenstein zwiększyły działalność podczas kied
 
 Poza nimi działały nieoficjalne ośrodki zagłady (czasem nazywanej "dziką eutanazją"), głównie na terenie kraju Warty. Zabijano w nich także dzieci.
 
-### Brandenburg
-
-PRZED
-
-Stara Penitencjaria w Brandenburgii nad Hawelą ma zróżnicowaną historię jako dom dla ubogich, więzienie, obóz koncentracyjny i ośrodek zabijania. Na terenie i budynkach mieszczą się części administracji miasta Brandenburgii oraz Miejsce Pamięci Ofiar Eutanazji. Adres był poprzednio Neuendorfer Straße 90, obecny adres to Nicolaiplatz 28 lub 30.
-
-W 1790 w Brandenburgu nad Hawelą rozpoczęto budowę Königlichen Landarmen- und Invalidenhauses tuż za murami miasta na terenie Saldrischen Schulgartens, za Syndikatsgraben. Docelowo było to miejsce schronienia dla 100 okaleczonych żołnierzy razem z rodzinami, oraz dla 300 ubogich obywateli Brandnburga. Dla utrzymania ich przeznaczono na użytek rolniczy obszar aż do Unterhavel. W latach 1810-20 trzymano tam również więźniów z przepełnionego więzienia w Spandau.
-
-W 1820 przebudowano na zakład penitencjarny (Alten Zuchthauses Brandenburg) i cały teren otoczono wysokim ceglanym murem. 1896-98 znaczna rozbudowa i przebudowa głównego budynku. W 1920 i 1923 miały miejsce dwa bunty więźniów spowodowane zmniejszaniem racji żywnościowych, oba krwawo stłumione. Więzienie było przepełnione, przeznaczone było dla 300 osób a trzymano tam 700. Większość była skazana za uczestnictwo w powstaniach robotniczych 1919/1920.Stara Penitencjaria Z powodu katastrofalnych warunków zdecydowano o budowie nowego więzienia na 1800 osób i zbudowano je w latach 1927-31 w Görden (Zuchthaus Brandenburg-Görden) i wtedy zamknięto stare więzienie. Oba znajdowały się obok siebie, na południowo-wschodnim przedpolu starego miasta tuż przy dawnym grodzie słowiańskim. Adres starego to Neuendorfer Straße 90, nowego Nicolaiplatz 28 lub 30.
-
-Policja miasta Brandenburg 26 maja 1933 zaproponowała prezydentowi rejencji poczdamskiej, którym był Ernst Fromm (NSDAP), utworzenie w obu więzieniach obozu koncentracyjnego. 15 sierpnia KL Oranienburg przysłał regulamnin (niem. Lagerordnung aka Strafkatalog) i instrukcje. Następnego dnia rada miejska zatwierdziła to pod warunkiem, że będzie to rozwiązanie tymczasowe. Powstał w sierpniu 1933 i należał do tzw. "wczesnych obozów koncentracyjnych". Przeznaczony było dla 600 osób, 24 sierpnia przybył pierwszy transport z 90 więźniami, w ciągu kilku pierwszych dni osadzono tam ponad 100 ludzi, po kilku tygodniach ponad 1000. Szybko zostało przepełnione, warunki były fatalne. W ramach planu centralizacji i standardyzacji obozów koncentracyjnych obóz uzyskał status państwowego obozu koncentracyjnego dekretem Ludwiga Grauertsa z 14 października 1933 (także: Lichtenburg, Papenburg i Sonnenburg).
-
-Straż w obozie pełniło SS pod dowództwem Hauptsturmführer Fritz Tank. Formalnie komendantem był szef szkoły policyjnej, ale w rzeczywistości Tank miał wolną rękę. Do katastrofalnych warunków sanitarnych (z tego powodu ostatecznie obóz został zamknięty), dochodziło bicie i maltretowanie więźniów, przynajmniej trzech z nich (w tym radny z KPD Gertrud Piter) zostało zamęczonych na śmierć. Na święta bożonarodzeniowe zwolniono prawie połowę więźniów. 31 stycznia obóz został rozwiązany, a więźniów przeniesiono do obozów Lichtenburg, Papenburg i Oranienburg. Ostatni transport wyjechał 2 lutego 193
-
-Komorę gazową upozorowaną na prysznic zbudowano w stodole więziennej. Już w styczniu 1940 przeprowadzono próbne gazowanie ludzi. Obserwowane było przez kierownictwo Akcji T4: Philipp Bouhler i Karl Brandt, główny lekarz Leonardo Conti, był też przedstawiciel MSW i pracownicy Instytutu Sądowego. Także Irmfried Eberl późniejszy dyrektor ośrodka zagłady.
-
-Od lutego zaczęło się mordowanie ludzi. Ogółem do października zamordowano ponad 9 tys ludzi. Ofiarami byli głównie niepełnosprawni z północnych i środkowych Niemiec. Dzieci i Żydzi. Najbardziej znaną ofiarą był architekt i malarz Paul Goesch.
-
-Działalność: 1940 luty - 28 października; liczba ofiar: 9972.
-
-Ofiary były wcześniej gromadzone w państwowych zakładach opieki zdrowotnej.
-
-27 września 1940 158 Żydów z północnych Niemiec przewieziono z Wunstorfu do Brandenburgii. Powiedziano im, że zostaną przeniesieni do zakładu w Chełmie pod Lublinem (w rzeczywistości tamten szpital zlikwidowano w styczniu 1940 po zamordowaniu wszystkich pacjentów przez SS).
-
-Krematorium początkowo znajdowało się na terenie ośrodka zagłady, potem przeniesiono je do gospodarstwa w pobliżu Paterdamm (S-E od miasta).
-
-Po ujawnieniu celu działalności w październiku 1940 ośrodek zagłady Brandenburg został zamknięty, personel i działalność przeniesiono do nowo utworzonego ośrodka w Bernburgu.
-
-Ze stodoły więziennej, w której znajdowała się komora gazowa, zachowała się tylko tylna ściana, która obecnie zamyka obszar od południowego zachodu (Nicolaiplatz). W 1963 umieszczono tablicę z brązu, projektu Franza Andreasa Threyne.
-
-1940 suma luty marzec kwiecień maj czerwiec lipiec sierpień wrzesień październik
-495 477 974 105 1431 1529 1419 1382 1177 9972
-
-Organizatorzy Akcji T4 Viktor Brack i Werner Heyde zarządzili, aby cały proses zabijania a szczególnie samo uruchamianie komory gazowej było nadzorowane i przeprowadzane przez lekarzy. To lekarze otwierali zawory z gazem i obserwowali wnętrze komory określając kiedy wszyscy zostali zabici. Używali pseudonimów, nawet w wewnętrznej korespondencji. Tötungsärzte:
-
-- Dyrektor: Irmfried Eberl ("Dr. Schneider"): od 1 lutego do listopada 1940
-- Zastępca: Aquilin Ullrich ("Dr. Schmitt"): od 15 marca do listopada 1940
-- Zastępca: Heinrich Bunke ("Dr. Rieper"): od sierpnia do listopada 1940
-
-Część budynku została zniszczona podczas II wojny światowej (kościół, budynek szpitala, stróżówka, 1/3 budynku głównego). Zniszczone budynki zostały rozebrane w 1954. Na ich miejscu powstały budynki biurowe magistratu. W zachowanej część budynku głównego (odremontowana 1954/1955 i w latach 80.) mieszczą się urzędy miejskie. Zmieniono fasadę. W dawnym domu dyrektora (jednopiętrowy budynek ze spadzistym dachem, na S-em w kierunku Haweli, zbudowany około 1900) znajduje się obecnie ośrodek opieki dziennej
-
-17 sierpnia 2012 powstało Miejsce Pamięci dawnego ośrodka zagłady, założone przez przez Fundację Brandenburg Memorial. Powstało jako ostatnie ze wszystkich istniejących Miejsc Pamięci (po Bernburg, Grafeneck, Hadamar, Hartheim i Pirna-Sonnenstein). Znajduje się w byłym warsztacie dawnego zakładu penitencjarnego. W samym dawnym budynku więzienia fundacja używa pomieszczeń na muzeum, archiwum i do szkoleń. Mieści się w nim także warsztat projektowy "Robert Havemann". [
-
 ### Grafeneck
 
 Zamek koło Gomadingen w powiecie Reutlingen w Badenii-Wirtembergii. Zbudowany w miejscu późnogotyckiego zamku w 1560 pałac myśliwski książąt Württemberg. 1762-72 przebudowany na barok. W 1929 kupiony przez Samariter Stift Grafeneck, która założyła dom dla niepełnosprawnych. Rok później powstał cmentarz.
@@ -145,6 +102,47 @@ Grafeneck prowadzi centrum dokumentacyjne od października 2005: od tego czasu d
   <li><a href="https://www.leo-bw.de/detail-gis/-/Detail/details/DOKUMENT/lpb_gedenkstaetten/468/Gedenkstätte+Grafeneck">Gedenkstätte Grafeneck – Dokumentationszentrum</a></li>
 </ul>
 
+### Brandenburg
+
+Stara Penitencjaria w Brandenburgii nad Hawelą ma zróżnicowaną historię jako dom dla ubogich, więzienie, obóz koncentracyjny i ośrodek zabijania. Na terenie i budynkach mieszczą się części administracji miasta Brandenburgii oraz Miejsce Pamięci Ofiar Eutanazji. Adres był poprzednio Neuendorfer Straße 90, obecny adres to Nicolaiplatz 28 lub 30.
+
+W 1790 w Brandenburgu nad Hawelą rozpoczęto budowę Königlichen Landarmen- und Invalidenhauses tuż za murami miasta na terenie Saldrischen Schulgartens, za Syndikatsgraben. Docelowo było to miejsce schronienia dla 100 okaleczonych żołnierzy razem z rodzinami, oraz dla 300 ubogich obywateli Brandnburga. Dla utrzymania ich przeznaczono na użytek rolniczy obszar aż do Unterhavel. W latach 1810-20 trzymano tam również więźniów z przepełnionego więzienia w Spandau.
+
+W 1820 przebudowano na zakład penitencjarny (Alten Zuchthauses Brandenburg) i cały teren otoczono wysokim ceglanym murem. 1896-98 znaczna rozbudowa i przebudowa głównego budynku. W 1920 i 1923 miały miejsce dwa bunty więźniów spowodowane zmniejszaniem racji żywnościowych, oba krwawo stłumione. Więzienie było przepełnione, przeznaczone było dla 300 osób a trzymano tam 700. Większość była skazana za uczestnictwo w powstaniach robotniczych 1919/1920.Stara Penitencjaria Z powodu katastrofalnych warunków zdecydowano o budowie nowego więzienia na 1800 osób i zbudowano je w latach 1927-31 w Görden (Zuchthaus Brandenburg-Görden) i wtedy zamknięto stare więzienie. Oba znajdowały się obok siebie, na południowo-wschodnim przedpolu starego miasta tuż przy dawnym grodzie słowiańskim. Adres starego to Neuendorfer Straße 90, nowego Nicolaiplatz 28 lub 30.
+
+Policja miasta Brandenburg 26 maja 1933 zaproponowała prezydentowi rejencji poczdamskiej, którym był Ernst Fromm (NSDAP), utworzenie w obu więzieniach obozu koncentracyjnego. 15 sierpnia KL Oranienburg przysłał regulamnin (niem. Lagerordnung aka Strafkatalog) i instrukcje. Następnego dnia rada miejska zatwierdziła to pod warunkiem, że będzie to rozwiązanie tymczasowe. Powstał w sierpniu 1933 i należał do tzw. "wczesnych obozów koncentracyjnych". Przeznaczony było dla 600 osób, 24 sierpnia przybył pierwszy transport z 90 więźniami, w ciągu kilku pierwszych dni osadzono tam ponad 100 ludzi, po kilku tygodniach ponad 1000. Szybko zostało przepełnione, warunki były fatalne. W ramach planu centralizacji i standardyzacji obozów koncentracyjnych obóz uzyskał status państwowego obozu koncentracyjnego dekretem Ludwiga Grauertsa z 14 października 1933 (także: Lichtenburg, Papenburg i Sonnenburg).
+
+Straż w obozie pełniło SS pod dowództwem Hauptsturmführer Fritz Tank. Formalnie komendantem był szef szkoły policyjnej, ale w rzeczywistości Tank miał wolną rękę. Do katastrofalnych warunków sanitarnych (z tego powodu ostatecznie obóz został zamknięty), dochodziło bicie i maltretowanie więźniów, przynajmniej trzech z nich (w tym radny z KPD Gertrud Piter) zostało zamęczonych na śmierć. Na święta bożonarodzeniowe zwolniono prawie połowę więźniów. 31 stycznia obóz został rozwiązany, a więźniów przeniesiono do obozów Lichtenburg, Papenburg i Oranienburg. Ostatni transport wyjechał 2 lutego 193
+
+Komorę gazową upozorowaną na prysznic zbudowano w stodole więziennej. Już w styczniu 1940 przeprowadzono próbne gazowanie ludzi. Obserwowane było przez kierownictwo Akcji T4: Philipp Bouhler i Karl Brandt, główny lekarz Leonardo Conti, był też przedstawiciel MSW i pracownicy Instytutu Sądowego. Także Irmfried Eberl późniejszy dyrektor ośrodka zagłady.
+
+Od lutego zaczęło się mordowanie ludzi. Ogółem do października zamordowano ponad 9 tys ludzi. Ofiarami byli głównie niepełnosprawni z północnych i środkowych Niemiec. Dzieci i Żydzi. Najbardziej znaną ofiarą był architekt i malarz Paul Goesch.
+
+Działalność: 1940 luty - 28 października; liczba ofiar: 9972.
+
+Ofiary były wcześniej gromadzone w państwowych zakładach opieki zdrowotnej.
+
+27 września 1940 158 Żydów z północnych Niemiec przewieziono z Wunstorfu do Brandenburgii. Powiedziano im, że zostaną przeniesieni do zakładu w Chełmie pod Lublinem (w rzeczywistości tamten szpital zlikwidowano w styczniu 1940 po zamordowaniu wszystkich pacjentów przez SS).
+
+Krematorium początkowo znajdowało się na terenie ośrodka zagłady, potem przeniesiono je do gospodarstwa w pobliżu Paterdamm (S-E od miasta).
+
+Po ujawnieniu celu działalności w październiku 1940 ośrodek zagłady Brandenburg został zamknięty, personel i działalność przeniesiono do nowo utworzonego ośrodka w Bernburgu.
+
+Ze stodoły więziennej, w której znajdowała się komora gazowa, zachowała się tylko tylna ściana, która obecnie zamyka obszar od południowego zachodu (Nicolaiplatz). W 1963 umieszczono tablicę z brązu, projektu Franza Andreasa Threyne.
+
+1940 suma luty marzec kwiecień maj czerwiec lipiec sierpień wrzesień październik
+495 477 974 105 1431 1529 1419 1382 1177 9972
+
+Organizatorzy Akcji T4 Viktor Brack i Werner Heyde zarządzili, aby cały proses zabijania a szczególnie samo uruchamianie komory gazowej było nadzorowane i przeprowadzane przez lekarzy. To lekarze otwierali zawory z gazem i obserwowali wnętrze komory określając kiedy wszyscy zostali zabici. Używali pseudonimów, nawet w wewnętrznej korespondencji. Tötungsärzte:
+
+- Dyrektor: Irmfried Eberl ("Dr. Schneider"): od 1 lutego do listopada 1940
+- Zastępca: Aquilin Ullrich ("Dr. Schmitt"): od 15 marca do listopada 1940
+- Zastępca: Heinrich Bunke ("Dr. Rieper"): od sierpnia do listopada 1940
+
+Część budynku została zniszczona podczas II wojny światowej (kościół, budynek szpitala, stróżówka, 1/3 budynku głównego). Zniszczone budynki zostały rozebrane w 1954. Na ich miejscu powstały budynki biurowe magistratu. W zachowanej część budynku głównego (odremontowana 1954/1955 i w latach 80.) mieszczą się urzędy miejskie. Zmieniono fasadę. W dawnym domu dyrektora (jednopiętrowy budynek ze spadzistym dachem, na S-em w kierunku Haweli, zbudowany około 1900) znajduje się obecnie ośrodek opieki dziennej
+
+17 sierpnia 2012 powstało Miejsce Pamięci dawnego ośrodka zagłady, założone przez przez Fundację Brandenburg Memorial. Powstało jako ostatnie ze wszystkich istniejących Miejsc Pamięci (po Bernburg, Grafeneck, Hadamar, Hartheim i Pirna-Sonnenstein). Znajduje się w byłym warsztacie dawnego zakładu penitencjarnego. W samym dawnym budynku więzienia fundacja używa pomieszczeń na muzeum, archiwum i do szkoleń. Mieści się w nim także warsztat projektowy "Robert Havemann". [
+
 ### Hadamar
 
 1883 Korrigendenanstalt
@@ -161,6 +159,71 @@ Komora gazowa w piwnicy udającej pomieszczenie z prysznicami, obok krematorium.
 
 Biskup Limburga Antonius Hilfrich (diecezja Limburga, niem. Bistum Limburg), napisał 13 sierpnia 1941 do Ministerstwa Sprawiedliwości Rzeszy, że w Hadamar "dokonuje się planowo rzeczy, które karane są śmiercią na podstawie art. 211 StGB" (niem. Strafgesetzbuch, czyli Kodeks Karny).
 
+Od stycznia 1941 do marca ok 25 tys niepełnosprawnych i chorych psychicznie zostało zamordowanych. W komore gazowej, zastrzykami, lekami i dietą głodową.
+
+Ośrodek został umieszczony w obecnym budynku kliniki Vitos psychiatrii i psychoterapii Hadamar na Mönchberg.
+
+W skrzydle głównego budynku Państwowych Szpitali Hadamar w listopadzie 1940 dla prowincji Hesse-Nassau utworzono szósty ośrodek zagłądy Aksji T4. Prezydent prowincji Hessen-Nassau wydzierżawił część szpitala na rzecz Fundacji Charytatywnej dla Opieki  Instytucjonalnej, organizacji odpowiedzialnej za T4.
+
+W 1940 wysłannik Kancelarii używający pseudonimu Hase pierwsze przygotowania do stworzenia ośrodka zagłady. Oprócz organizacji pomieszczeń biurowych, sypialnych i socjalnych dla nowego personelu, zbudowano komorę gazową upozorowną na prysznic i tuż obok krematorium. Pwinice przebudował Fritz Schwerwing, szwagier radnego prowincji Fritz Bernotat, resztę budowlańców wybrano specjalnie spoza regionu. Na krótko przed Bożym Narodzeniem specjalnie dobrany personel Akcji T4, składający się z lekarzy, pielęgniarek i opiekunów, a także trzy szare omnibusy, dotarli do Hadamar. Pozostali pracownicy szpitala zostali zobowiązani do zachowania tajemnicy.
+
+Obszar pochodzenia ofiar był zbieżny z ustalonym w 1907 obszarem podlegającym szpitalowi Hadamar. Ofiary to osoby niepełnosprawne i chore psychicznie ze szpitali w pruskich prowincjach Hesji-Nassau, Westfalii, Hanoweru i Nadrenii, a także w landów Hesji, Badenii i Wirtembergii. Wszyscy zostali zamordowani od 1941.
+
+Do Hadamar przydzielono 9 tzw instytucji pośrednich, do których osoby, które mają zostać zamordowane, były przenoszone bez uprzednegoo powiadomienia rodziny. Stamtąd były już przewożone do Hadamar.
+
+Oznaczenie dzisiejsza nazwa Miejsce Powiat Kraj
+
+- Prowincje Szpitale Herborn Vitos Herborn Herborn Dillkreis Hessen-Nassau
+- Szpitale stanowe Weilmünster Hospital Weilmünster Weilmünster Upper Lahn District Hesse-Nassau
+- Landes-Heil- und Pflegeanstalt Eichberg Zakład Psychiatrii i Psychoterapii Eichberg Eltville am Rhein Rheingaukreis Hessen-Nassau
+- Privat-Heilerziehungsanstalt Kalmenhof Kalmenhof Idstein Untertaunuskreis Hesse-Nassau
+- Heilerziehungs- und Pflegeanstalt Scheuern Foundation Scheuern Nassau Unterlahnkreis Hessen-Nassau
+- PHP Galkhausen Klinika LVR Langenfeld Galkhausen, Langenfeld (Nadrenia) Rhein-Wupper-Kreis Rheinprovinz
+- PHP Andernach Rhein-Mosel-Fachklinik Andernach Andernach County Mayen Rheinprovinz
+- Centrum Psychiatryczne PLK Wiesloch Nordbaden Wiesloch powiat Heidelberg Baden
+- Heilanstalt Weinsberg Clinic am Weissenhof Weinsberg powiat Heilbronn Württemberg
+
+W tych instytucja pośrednich też czasem byli zabijani, w tzw fazie zdecentralizowanej.
+
+Liczba ofiar 1941
+Zagazowani ludzie "zdezynfekowani"
+od 13 stycznia do 1 września 1941 zabito 10072 ludzi. Lista zauktualizowana na 2010 10122.
+świętowano każdy pracownik otrzymał butelkę wina.
+Dym powodował podejrzenia mieszkańców.
+
+Biskup Limburgii Antonius Hilfrich, w którego diecezji był Hadamar, napisał 13 sierpnia 1941 do Ministerstwa Sprawiedliwości Rzeszy, że w Hadamar "celowo dokonuje się czynów, zagrożonych karą śmierci z art. 211 StGB".
+
+W fazie scentralizowanej zabito 70 tys ludzi. Komisarz Rzeszy ds. Instytucji opieki zdrowotnej Herbert Linden ustalił, że populacja pacjentów zmniejszyła się o 25% od 1939. Jego celem było jednak uwolnienie kolejnych 60% łóżek szpitalnych na oddziale psychiatrycznym, żeby mogły być przeznaczone dla ofiar bombardowań i rannych żołnierzy. Było to zadanie drugiej fazy programu eutanazji, znanej jako "dzika", "zdecentralizowana", "eutanazja narkotykowa" lub akcja Brandta. W przeciwieństwie do poprzedniej procedury nie był już zabijany w kilku centralnych instytucjach przez gaz, ale w wielu instytucjach w całej Rzeszy poprzez celowe niedożywienie lub przedawkowanie leków takich jak Luminal, Veronal, zastrzyki z morfiny-skopolaminy lub powietrza.
+
+Nie wiadomo było, czy gazowanie zostanie wznowione. Ośrodki zagłady pozostawały w gotowości. Personel pielęgniarski został częściowo oddelegowany do domów opieki i opieki lub wysłany na tzw Osteinsatz. Latem 1942 W Berlinie zapadła ostateczna decyzja, że gazowanie ludzi w ramach Akcji T4 nie będzie kontynuowane i komory gazowe nie są już potrzebne. W Hadamar usunięto ślady mordu, pomieszczenia przywrócono do poprzendiego stanu. Szpital został zwrócony 31 lipca 1942 dla Bezirksverbandes Nassau w Wiesbaden i ponownie jako szpital państwowy działał od 1 sierpnia 1942.
+
+Na polecenie radnego prowincji Fritza Bernotata starszy lekarz Adolf Wahlmann przejął kierownictwo medyczne a sekretarz stanu Alfons Klein administrację, przy czym Klein, który w przeciwieństwie do Wahlmanna był uważany za "partyjnie i politycznie wiarygodnego", sam otrzymał i sprawował władzę medyczną. Od sierpnia 1942 pod ich zarządem morderstwa były kontynuowane przez zastrzyki głodzenie. Teraz sprawcami yli nie tylko lekarze ale też pielęgniarki i pielęgniarze.
+
+Krąg ludzi, którzy zostaną zamordowani, powiększył się dwukrotnie. W kwietniu 1943 pod kierownictwem MSW Rzeszy, powstało tzw. "centrum edukacji dla nieletnich żydowskich dzieci mieszanej rasy" (dzieci z jednym żydowskim rodzicem) z państwowych instytucji opiekuńczych. Dzieci te były chronione przed Akcją T4 jako tak zwani pół-Żydzi na mocy praw norymberskich. Teraz zostali objęci planem zagłady: 39 żydowskich Mischlinge wysłano do Hadamar, 34 zamordowano zastrzykami, a 5 dzieci zostało zwolnionych w wyniku stanowczej prawnej reakcji ich krewnych.
+
+Od końca lipca 1944 równiez uznani za śmiertelnie chorych na gruźlicę zostali zamordowani zastrzykami z trucizny. Było 274 mężczyzn, 173 kobiet i 21 dzieci w wieku poniżej 15 lat, w sumie 468 osób. 375 to obywatele radzieccy a 63 Polacy.
+
+Między 13 sierpnia 1942 a 24 marca 1945 4817 osób niepełnosprawnych lub chorych psychicznie zostało przetransportowanych do Hadamar, większość z nich przez organizację transportową T4. 4422 z nich zmarło w tym okresie, z tego ogromna większość została zabita.
+
+Dopiero okupacja Hadamar przez wojska amerykańskie 26 marca 1945 zakończyła systematyczne mordowanie ludzi. Całkowita liczba ofiar w ośrodku zabijania Hadamar wynosi co najmniej 14494 osób.
+
+Lekarze:
+
+- Kierownik: Ernst Baumhard ("Dr. Moos"): od stycznia 1941 do czerwca 1941
+- Kierownik: Friedrich Berner ("Dr. Barth"): od czerwca 1941 do sierpnia 1941
+- Kierownik: Curt Schmalenbach ("Dr. Palm"): od grudnia 1941 do lipca 1942
+- Kierownik: Adolf Wahlmann: od 5 sierpnia 1942 do kwietnia 1945
+- Zastępca: Günther Hennecke ("Dr. Fleck"): od 13 stycznia 1941 do czerwca 1941
+- Zastępca: Bodo Gorgaß ("Dr. Kramer"): od 18 czerwca 1941 do sierpnia 1941
+
+Proces w Wiesbaden i Norymberdze
+
+W procesie w Wiesbaden przed sądem wojskowym osądzono zabójstwo 476 rosyjskich i polskich robotników przymusowych. Wszczęte przez Leona Jaworskiego 8–15 października 1945. Alfons Klein i opiekunowie Heinrich Ruoff i Karl Willig zostali skazani na śmierć, doktor Adolf Wahlmann ze względu na podeszły wiek na karę dożywotniego więzienia. Dwóch pracowników administracyjnych zostało skazanych na 35 lat i 30 lat, a jedyna oskarżona Irmgard Huber - 25 lat. Wyroki śmierci wykonano 14 marca 1946. Wg prawa wojennego akt oskarżenia o zabójstwo około 15 000 innych osób nie był możliwy.
+
+W procesie norymberskim głównych zbrodniarzy wojennych Hadamar był dowodem przeciwko oskarżonemu byłemu ministrowi spraw wewnętrznych Rzeszy Wilhelmowi Frickowi, listu biskupa Hilfricha do Ministerstwa Spraw Wewnętrznych. Frick został uznany za odpowiedzialnego za liczne zabójstwa związane T4. Zabijanie robotników przymusowych uznanych za chorych na nieuleczlną gruźlicę w postępowaniu dowodowym uznano za kontynuację T4.
+
+Zabójstwa niemieckich pacjentów w latach 1941-45 były przedmiotem procesu we Frankfurcie przeciwko 25 oskarżonym, z których 11 zostało skazanych. Lekarze Gorgaß i Wahlmann zostali skazani na śmierć, a premier Hesji zamienił wyroki na dożywocie. Dalsze kary wobec głównie pielęgniarek i pielęgniarek wyniosły 2 lata i 6 miesięcy do 8 lat więzienia. Kary Wahlmanna i Gorgaßa zostały następnie złagodzone w 1956 do 15 lat. Wyszedł na wolność w styczniu 1958 po ym jak został ułaskawiony przez premiera Hesji Georg August Zinn.
+
 1953 w holu szpitala psychiatrycznego Hadamar umieszczono płaskorzeźbę. 1964 cmentarz ofiar przekształcony i udostępniony przez prezydenta kościoła protestanckiego Hesji i Nassau, pastora Martina Niemöllera.
 
 1983 studenci uniwersytetu w Gießen opracowali pierwszą wystawę na temat Akcji T4, umieszczono ją w piwnicy ośrodka. W 1991 Stowarzyszenie pomocy społecznej w Hesji zaprezentowało publiczności nową stałą ekspozycję na parterze budynku.
@@ -168,3 +231,166 @@ Biskup Limburga Antonius Hilfrich (diecezja Limburga, niem. Bistum Limburg), nap
 Obecnie w Miejscu Pamięci działa archiwum, biblioteka i sale seminaryjne. Rocznie odwiedza to miejsce 15 tys osób, większość z nich w ramach około trzygodzinnej wycieczki z przewodnikiem.
 
 Od 2006 dostępna jest cyfrowa baza danych ofiar, która jest pod względem kompletności jest najlepsza wśród wszystkich sześciu ośrodków zagłady. Jest to pomoc dla krewnych ofiar.
+
+Upamiętnienie ośrodka zagłady zaczęło się w 1953 od zamontowania pamiątkowej płaskorzeźby przy wejściu.
+W latach 60. Ernst Klee z Frankfurtu, dziennikarz i naukowiec, badał tę tematykę i publikował prace badawcze. W marcu 2018 wdowa po nim Elke Klee przekazała spuściznę dziennikarską i naukową Miejscu Pamięci Hadamar.
+
+Państwowe Stowarzyszenie Opieki Społecznej Hesji, które przejęło ośrodek wykazywało niewielkie zainteresowanie badaniem zbrodni. W 1985 pracownik socjalny Gerhard Kneuker i dyrektor medyczny Wulf Steglich opublikowali raport. Książka opiera się częściowo na badaniach w głównym archiwum państwa heskiego, w szczególności na aktach procesu Hadamar z 1946/1947, a także na ich własnych rozmowach ze współczesnymi świadkami.
+
+Na początku lat osiemdziesiątych 18 studentów i dwóch profesorów założyło grupę roboczą na Uniwersytecie Nauk Stosowanych we Frankfurcie nad Menem, której celem było dokładne zbadanie morderstw na Mönchberg. Pod roboczym tytułem "Psychiatria w faszyzmie: Anhalt Hadamar 1933–1945" badacze zaczęli badać zachowane archiwa w głównym archiwum państwa Hesji dla procesu Hadamar i przeglądać wcześniej nieprzetworzone pliki w piwnicy byłego ośrodka zagłady. Do tej pory około 5000 akt pacjentów przechowywanych w piwnicy zostało pominiętych lub zarchiwizowanych. Były raczej "zakurzone i przemoczone ... nie podlegają archiwizacji" w piwnicy. Trzyletni projekt badawczy nie był wspierany przez National Welfare Association. Zostało to jasno sformułowane przez grupę badawczą wspieraną przez rząd kraju związkowego Hesji po zakończeniu pracy w przedmowie do publikacji.
+
+"Strategie niepełnosprawności […] były zasadniczo zdeterminowane motywem, aby w miarę możliwości rozładować polityczny materiał wybuchowy przechowywany w archiwach". Pomimo oporu instytucjonalno-politycznego pojawiło się pierwsze fundamentalne badanie roli instytucji Hadamar. Projekt był wspierany przez rząd państwa Hesji i Ministra Spraw Społecznych Armina Claussa. Dotychczasowe badania naukowe Roera / Henkla nie są wymienione w bibliografii Hadamar Memorial na stronach LWV, chociaż pierwsza wystawa w piwnicy Mordanstalt oparta na tych badaniach, a tym samym położyła podwaliny pod ustanowienie pomnika Hadamar. Dopiero w 2002, tym razem jednak pod auspicjami Krajowego Stowarzyszenia Opieki Społecznej Hesji, przeprowadzono podstawowe badanie roli okręgowego stowarzyszenia w kontekście akcji T4 i kolejnej drugiej fazy morderstwa medycznego. Po tym, jak pliki przechowywane wcześniej w berlińskim archiwum dla akcji T4 od połowy lat 90. są ogólnie dostępne, a zwłaszcza biografie ofiar, jest przedmiotem licznych badań.
+
+W 1953 w holu szpitala psychiatrycznego Hadamar umieszczono płaskorzeźbę. W 1964 cmentarz, na którym pochowano zmarłych w latach 1942–1945 został przekształcony i otwarty przez prezydenta Kościoła protestanckiego w Hesji i Nassau, pastora Martina Niemöllera. Pamiątkowe i symboliczne nagrobki upamiętniają ofiary.
+
+W 1983 4 uczniów z Gießen opracowało pierwszą wystawę na temat morderstw medycznych, którą pokazano w piwnicy dawnego ośrodka zagłady. Ta inicjatywa wolontariuszy jest uważana za impuls założycielski dla Pomnika Pamięci Hadamar, który nadal niechętnie jest uznawany w oficjalnej historiografii Państwowego Stowarzyszenia Opieki Społecznej Hesji.
+
+W 1991 Stowarzyszenie pomocy społecznej w Hesji zaprezentowało publiczności nowo zaprojektowaną stałą ekspozycję, która odtąd znajduje się na parterze budynku. Obsługa i utrzymanie spoczywa na National Welfare Association.
+
+Oprócz wystawy w memoriale znajduje się archiwum, biblioteka i sale seminaryjne. Stowarzyszenie wspiera prace nad Pomnikiem Pamięci. Co roku około 15 tys osób odwiedza, większość z nich w ramach ok trzygodzinnej wycieczki z przewodnikiem. Oprócz ochrony zabytków pomnik otrzymał status ochrony na wypadek wojny na podstawie konwencji haskiej. We wrześniu 2019 ogłoszono, że Pomnik Pamięci zostanie powiększony i zmodernizowany do 2025
+
+W 2007 Hadamar Memorial otrzymał nagrodę za innowację w edukacji dorosłych za "Odkrywamy naszą historię". Ludzie z trudnościami w nauce pracują na temat nazistowskich "eutanazji" w Hadamar Memorial.
+
+Od 2006 r. Dostępna jest cyfrowa baza danych ofiar, która jest najbardziej kompletna ze wszystkich 6. Z ich pomocą można wesprzeć krewnych w ujawnieniu ukrytych okoliczności śmierci.
+
+Stolpersteine
+
+Artysty Guntera Demniga są umieszczone przed ostatnim miejscu zamieszkania ofiar morderstwa i przypominają im o ofiarach.
+
+Znane ofiary śmiertelne
+Carl Langhein (1872–26 czerwca 1941), malarz i grafik
+Eduard Senz (1877–28 lutego 1941), oryginał (Neunkirchen (Saar))
+Gertrud Stockhausen (1900 do 27 maja 1941), matka kompozytora Karlheinza Stockhausena
+
+### Pirna Sonnenstein "D"
+
+Średniowieczny gród na wzniesieniu, potem renesansowa forteca. Od 1811 ośrodek psychiatryczny.
+
+1940 28 czerwca - 1941 1 wrzesień; 13720
+
+Komora gazowa w piwnicy budynku C 16
+
+Około jedna trzecia pracowników ośrodka zabijania Sonnenstein była zatrudniona w latach 1942 i 1943 w obozach zagłady Bełżec, Sobibor i Treblinka (Kurt Bolender, Kurt Franz, Heinrich Gley, Lorenz Hackenholt, Gottlieb Hering, Otto Horn, Erwin Lambert, Heinrich Matthes, Gustav Münzberger, Walter Nowak, Josef Oberhauser, Paul Rost i Friedrich Tauscher).
+
+14f13 od lata 1941 co najmniej 1031 więźniów z obozów koncentracyjnych Buchenwald, Sachsenhausen i Auschwitz.
+
+Co najmniej 14 751 osób zostało zabitych w latach 1940 i 1941. Byli to głównie chorzy i niepełnosprawni umysłowo, ale także więźniowie obozów koncentracyjnych.
+
+Dawny kompleks zamkowy i twierdza została przebudowana w 1811 na instytucję dla chorych psychicznie uważanych za potencjalnie uleczalnych, cieszących się dobrą reputacją dzięki reformistycznej koncepcji psychiatrycznej. Kierownikiem tego szpitala był Ernst Gottlob Pienitz. W latach 1855-1914 instytut został rozbudowany, powstało wiele nowych budynków. W latach 1922-39 państwowa szkoła pielęgniarska znajdowała się w Sonnenstein.
+
+W 1928 Hermann Paul Nitsche został mianowany dyrektorem Sonnenstein, który w tym czasie było ponad 700 pacjentów. Wraz z objęciem urzędu rozpoczął się nowy okres: Nitsche, który został uważany za postępowego psychiatrę dwudziestych, został nazistą i zwolennikiem systematycznego wykluczania przewlekle chorych psychicznie i niepełnosprawnych. Jako orędownik "higieny rasowej" i "eutanazji" był jednocześnie szanowanym psychiatrą w Saksonii i był konsultantem psychiatrycznym rządu Saksonii, zwolenik przymusowej sterylizacji i głodzenia wybranych grup pacjentów. W grudniu 1939 instytut został rozwiązany dekretem saksońskiego ministra spraw wewnętrznych i utworzony jako szpital rezerwowy i obóz przesiedleńczy.
+
+Ośrodek zagłady pod kierunkiem doktora Horsta Schumanna. Związani byli z nim lekarze: Kurt Borm (kryptonim "Dr. Storm"), Klaus Endruweit (kryptonim "Dr. Bader"), Ewald Wortmann (kryptonim "Dr. Friede") i Curt Schmalenbach (kryptonim "Dr. Palm"). Sam instytut nosił wewnętrzny skrót T4 D - który pojawia się również na wszystkich oficjalnych pismach jako znak rozpoznawczy.
+
+Wiosną 1940 w piwnicy budynku szpitala - budynku C 16 - zainstalowano komorę gazową i krematorium. Zespół obejmujący cztery budynki został otoczony ogrodzeniem od strony Łaby i parku, częściowo wciąz istniejącą, a na pozostałych odcinkach wysokim drewnianym płotem, aby ukryć wydarzenia w środku.
+
+28 czerwca 1940 rozpoczęła się eksterminacja. Tego dnia dziesięciu pacjentów Heil- und Pflegeanstalt Waldheim zostało zagazowanych. W latach 1940/41 ponad 100 pracowników pracowało tutaj jako lekarze, pielęgniarki, kierowcy, pielęgniarki, pracownicy biurowi i policjanci. Kilka razy w tygodniu pacjenci z domów opieki i opieki byli przywożeni autobusem. Po przejściu przez bramę ośrodka strzeżoną przez oddział policji pielęgniarki na parterze domu C 16 wprowadziły ofiary osobno do pokoju przyjęć dla mężczyzn i kobiet. W innym pokoju zostali indywidualnie przedstawieni dwóm lekarzom, którzy tworzyli fałszywą przyczynę zgonu dla późniejszego aktu zgonu. Po "badaniu" musieli się rozebrać pod nadzorem sióstr i opiekunów w innym pokoju. Następnie od 20 do 30 osób zabrano do piwnicy pod pretekstem, że pójdą do łazienki. Tam zostali wprowadzeni do komory gazowej, która została zaprojektowana jako kabina prysznicowa z kilkoma głowicami prysznicowymi na suficie. Następnie zamkano stalowe drzwi. Lekarz odkręcał zawór gazu na butli z tlenkiem węgla i obserwował proces zabijania, który trwał od 20 do 30 minut.
+
+Po około 20 minutach i wyczerpaniu się gazu palacze wyciągali ciała z komory gazowej i spalali w dwóch piecach koksowniczych dzbudowanych przez berlińską firmę Kori. Wcześniej pacjentów wskazanym przez lekarza usuwano złote zęby. Prochy ofiar wyrzucano na wysypisko lub wrzucano do Łaby.
+
+"Urząd stanu Sonnenstein" przesyłał rodzinie ofiary akt zgonu z fałszywą przyczyną śmierci oraz znormalizowany "list pocieszenia". Kobiety i mężczyźni w każdym wieku, a nawet dzieci zostały zamordowane na Sonnenstein, w tym z "Katharinenhof" w mieście Großhennersdorf i z państwowego instytutu Chemnitz-Altendorf. Pacjenci zamordowani na Sonnenstein pochodzili z Saksonii, Turyngii, Śląska, Prus Wschodnich, Prus Zachodnich, Sudetów i części Bawarii. Do 24 sierpnia 1941 w sumie 13 720 osób chorych psychicznie i upośledzonych umysłowo zostało zabitych w Pirna-Sonnenstein. Pośrednimi instytucjami Sächsische dla Sonnenstein były instytucje państwowe Arnsdorf, Großschweidnitz, Waldheim i Zschadraß.
+
+Latem 1941 w 14f13 w Pirna-Sonnenstein zamordowano także ponad tysiąc więźniów z obozów koncentracyjnych. W tym czasie obozy koncentracyjne nie miały własnych komór gazowych. Zakres transportu więźniów do Sonnenstein nie jest jeszcze całkowicie znany. Były transporty z obozów koncentracyjnych Sachsenhausen, Buchenwald i Auschwitz. Masowe gazowanie 575 więźniów w obozie koncentracyjnym Auschwitz pod koniec lipca 1941 było wstępem do zakończenia 14f13.
+
+W pierwszej połowie 1942 gł we wschodniej Polsce, w ramach akcji Reinhardt utworzono obozy w celu eksterminacji Żydów. Korzystano z doświadczeń Akcji T4. Około jedna trzecia pracowników ośrodka zabijania w Sonnenstein była zatrudniona w latach 1942 i 1943 w obozach zagłady Bełżec, Sobibor i Treblinka: Kurt Bolender, Kurt Franz, Heinrich Gley, Lorenz Hackenholt, Gottlieb Hering, Otto Horn, Erwin Lambert, Heinrich Matthes, Gustav Münzberger, Walter Nowak, Josef Oberhauser, Paul Rost i Friedrich Tauscher.
+
+Latem 1942 ośrodek w Sonnenstein został rozwiązany. Komora gazowa i krematorium rozebrano. Po starannym zatarciu śladów zbrodni budynki były używane od końca 1942 jako szpital Wehrmachtu. W tak zwanym Drezdeńskim Procesie Lekarzy latem 1947 część osób odpowiedzialnych za Akcję T4m została pociągnięta do odpowiedzialności. Sąd w Dreźnie skazał na śmierć Hermanna Paula Nitschego, który był jednym z dyrektorów medycznych T4 od wiosny 1940 oraz dwóch opoekunów z Sonnenstein.
+
+W Pirnie prawie nie rozmawiano o popełnionych tu przestępstwach. Na cztery dekady zapadło milczenie.
+
+W ciągu 15 miesięcy między czerwcem 1940 a 1 września 1941 w komorze gazowej zamordowano 13 720 osób:
+
+1940
+Czerwiec lipiec sierpień wrzesień październik listopad grudzień
+1116 1221 1150 10 801 947 698
+1941
+Styczeń luty marzec .. suma kwiecień maj czerwiec lipiec sierpień
+608 760 273 365 1330 1297 2537 607 13720
+
+Podczas Akcji T4 pod kryptonimem specjalnego traktowania 14f13 począwszy od lata 1941 zamordowano w Sonnenstein co najmniej 1031 więźniów z obozów koncentracyjnych Buchenwald, Sachsenhausen i Auschwitz.
+
+Do najbardziej znanych ofiar akcji T4 w Sonnenstein należą drezdeńska malarka Elfriede Lohse-Wächtler oraz pisarz i dramaturg Hermann von Boetticher. Wśród ofiar akcji 14f13 prawnik kościelny Martin Gauger, który został przywieziony z obozu koncentracyjnego Buchenwald do Sonnenstein.
+
+Krzyż pamiątkowy dla 13 720 zamordowanych osób w murze pamięci
+Po zakończeniu morderstw w 1941 założono "Adolf Hitler School Gau Saxony", Reichsverwaltungsschule i szpital Wehrmachtu. Po zakończeniu II wojny światowej do 1949 mieścił się tu obóz dla uchodźców, obóz kwarantanny dla zwolnionych żołnierzy Wehrmachtu, części starostwa i szkoły policyjnej (do 1954).
+
+W latach 1954–1991 znaczna część terenu wykorzystywana była głównie przez fabrykę turbin lotniczych. W 1977 na terenie zamku utworzono "Okręgowe Centrum Rehabilitacji Pirna". W 1991 warsztaty dla osób niepełnosprawnych zorganizowane przez Arbeiterwohlfahrt.
+
+Od jesieni 1989 coraz częściej mówiono o historii tego miejsca. 1 września 1989 protestanckie centrum kultury Pirna-Sonnenstein z okazji 50. rocznicy rozpoczęcia Akcji T4 zaprezentowało małą wystawę historyka Götza Aly'ego na jej temat. Ta wystawa spotkała się z dużym zainteresowaniem. Rezultatem była inicjatywa obywatelska polegająca na stworzeniu godnego pomnika ofiar zbrodni. W czerwcu 1991 powstaje Kuratorium Gedenkstätte Sonnenstein e. V.
+
+Po archiwalnych i architektonicznych badaniach archeologicznych w latach 1992-94 piwnice domu C 16 zostały zrekonstruowane od 1995 i przygotowane jako zabytek (dziś: budynek Schlosspark 11). Dzisiejsza stała wystawa dokumentacji zbrodni znajduje się na poddaszu tego samego budynku. Stiftung Sächsische Gedenkstätten sstworzyła tę wystaœ ku pamięci ofiar tyranii politycznej, została zaprezentowana 9 czerwca 2000.
+
+Projekt pomnika
+
+Tor pamięci 14 751 zamordowanych osób
+
+System znaków przydrożnych składający się z 16 paneli prowadzi od dworca kolejowego Pirna przez centrum miasta do pomnika Sonnensteina. Drogowskazy zostały zaprojektowane przez berlińskiego artystę Heike Ponwitz i są częścią pomnika "przeszłość jest obecna". Wszystkie panele mają motyw Twierdzy Sonnenstein, namalowany przez malarza Sądu Wyborczego Bernarda Bellotto (1722-1780). Każdy panel zawiera element zbrodni narodowej socjalizmu T4, na przykład: transport zbiorowy, list pocieszenia, specjalne traktowanie, łazienka.
+
+Projekt Heike Ponwitz wyłonił się z konkursu na budowę pomnika dla 15 000 osób.
+
+Ponadto pamiątkowy szlak kolorowych krzyży łączy miejsce Pirna z miejscem zbrodni nazistowskich. Każdy krzyż przypomina ofiarę. W 2013 Pomnik liczył 10 927 osób.
+
+### Hartheim
+
+Zamek wzmiankowany w XIII wieku, później przebudowany na renesansową rezydencję, jeden z ważniejszych pałaców renesansowych w Austrii. Później kilka razy przebudowany i raczej w stanie upadku.
+
+W ostatniej dekadzie XIX przywrócono formy renesansowe. 1898 Camillo Heinrich Fürst Starhemberg przekazał budynek pałacowy, zaplecze i część terenów Górnoaustriackiemu Stowarzyszeniu Dobroczynności (niem. Oberösterreichischen Landeswohltätigkeitsverein), stworzono tzw. Idioten-Anstalt. 1900-1910 przebudowano na nowoczesny szpital psychiatryczny.
+
+Na parterze wschodniego skrzydła zbudowano komorę gazową, kostnicę i krematorium.
+
+Działalność 1940 maj - 1941 1 wrzesień; liczba ofiar: 18269 w okresie fazy scentralizowanej, łącznie do grudnia 1944 ok 30 tys.
+
+1943 przeniesienie do pałacu centrali Akcji T4. Hartheim uznano za bezpieczne miejsce.
+
+W czerwcu 1945 amerykańscy śledczy odnaleźli w dokumentach dokładne dane statystyczne morderstw Akcji T4 przeprowadzanych w sześciu ośrodkach zagłady, oprócz dokładnych liczb ofiar prezentowały również wyliczone pieczołowicie oszczędności.
+
+### Bernburg (Saale)
+
+Landes-Heil- und Pflegeanstalt) in Bernburg
+
+Kontynuacja Brandennburg.
+
+1940 21 listopada - 1941 sierpień; 9385
+
+Wiosną 1942 zabito 1400 kobiet z KL Ravensbrück.
+
+Ośrodek zagłady Bernburg znajdował się między 21 listopada 1940 a 30 lipca 1943 w oddzielnej części domu pomocy społecznej i domu opieki w Bernburg an der Saale (Saksonia-Anhalt). W Akcji T4 9385 osób chorych i niepełnosprawnych z 38 ośrodków opieki społecznej oraz około 5000 więźniów z sześciu obozów koncentracyjnych zostało zamordowanych w komorze gazowej tlenkiem węgla. Zastąpiło zamknięty 28 października 1940 ośrodek w Brandnburg. Większość pracowników przeniosła się do zakładu w Bernburgu. Po jej zamknięciu T4 została zdecentralizowana tzw akcja Brandta.
+
+Dziś znajduje się tam Pomnik Pamięci.
+
+Pochodzenie ofiar
+Pochodzenie ofiar ośrodka zabijania w Bernburgu zostało jasno określone w obszarze który mu podlegał. Obejmował domy opieki w pruskich prowincjach Brandenburgii, Saksonii i Szlezwiku-Holsztynu, landach Anhalt, Braunschweig i Meklemburgii oraz miastach Berlin i Hamburg, z których transportowano bezpośrednio do niektórych, częściowo za pośrednictwem tzw. instytucji pośrednich niepełnosprawnych i chorych do Bernburga.
+
+Instytucje posrednie
+
+Oznaczenie stary Oznaczenie dzisiaj Miejsce Zamordowani pacjenci
+
+- Wojewódzkie szpitale Jerichów AWO-Fachkrankenhaus Jerichow 390
+- State Hospital Uchtspringe Specjalistyczna klinika Uchtspringe Uchtspringe, Stendal County 864
+- Landesheilanstalt Altscherbitz Saxon Hospital Altscherbitz Altscherbitz, dziś Schkeuditz. 1385
+- Asklepios Specialist Clinic Brandenburg Görden koło Brandenburgii 1110
+- Państwowa instytucja psychiatryczna Neuruppin Neuruppin 1497
+- National Institution Teupitz Teupitz, Kreis Teltow 1564
+- Landesheil- und Pflegeanstalt Königslutter AWO Psychiatry Centre Königslutter 423
+
+Liczba ofiar w pierwszej fazie zabijania
+od 9 listopada 1940 do sierpnia 1941 zamordowano 9385 osób w Bernburg. Pierwszy transport z 25 pacjentami dotarł do Bernburga 21 listopada 1940 z Neuruppin.
+
+1940 listopad grudzień 1941 styczeń luty marzec .. suma kwiecień maj czerwiec lipiec sierpień
+(784) 397 387 (8601) 788 939 1004 1084 1316 1406 1426 638 (9385)
+
+W Bernburgu działali jako Tötungsärzte:
+
+Kierownik: Irmfried Eberl ("Dr. Schneider"): od listopada 1940 do sierpnia 1941
+Zastępca: Heinrich Bunke ("Dr. Keller"): od listopada 1940 do sierpnia 1941
+
+31 stycznia 1941 Joseph Goebbels napisał w swoim dzienniku: "Omówiono pytanie Bouhlera o milczącą likwidację pacjentów umysłowych. 40000 zniknęło, 60000 wciąż musi odejść. To trudna, ale konieczna praca. I musi być teraz zrobione. Bouhler jest właściwym człowiekiem do tego." Wspomniany tutaj cel planowania 100 000 ofiar nie został zrealizowany zgodnie z powyższymi statystykami Hartheimera, a zapis w dzienniku jest cytowany jako dowód, że akcja T4 została przedwcześnie zakończona.
+
+Kontrowersyjne jest to, czy liczne publiczne protesty wysokiego duchowieństwa i innych dostojników, wiedza publiczna lub zrzucanie angielskich ulotek na temat zabójstw osób chorych i niepełnosprawnych były decydującym czynnikiem zakończenia fazy morderstwa gazowego i kontynuacji formy zdecentralizowanej "eutanazji" poprzez pozbawienie żywności lub leki. Dwa ośordki zagłady kontynuowały dziłalność: Bernburg i Hartheim pod Linzem.
+
+Akcja 14f13 służyła do wybierania i mordowania więźniów, którzy nie byli już w stanie pracować lub byli w inny sposób niechciani. Ofiarami byli żydowscy mężczyźni i kobiety, Cyganie, homoseksualiści, aspołeczni, Świadkowie Jehowy i robotnicy przymusowi. Akcja rozpoczęła się wiosną 1941 i dotyczyła więźniów niezdolnych do pracy. System T4 był jedynym w tym czasie systemem obiektów umożłiwiającym masowe mordowanie ludzi. Dlatego komisje medyczne T4 odwiedziły obóz koncentracyjny. Zaledwie kilka miesięcy później został on rozszerzony na inną grupę wyżej wymienionych więźniów, którzy nie byli prześladowani z powodu niezdolności do pracy, ale przede wszystkim z powodu rasowych i religijnych. Transporty z obozów koncentracyjnych Buchenwald, Groß-Rosen, Flossenbürg, Neuengamme, Ravensbrück, Sachsenhausen. Wczesnym latem 1943 zwłoki z obozu zewnętrznego Wernigerode obozu koncentracyjnego Buchenwald zostały spalone w Bernburgu. Następnie nastąpiło zamknięcie instytucji, a w sierpniu 1943 powrót budynku do instytucji szpitala.
+
+Akcja Reinhardt
+Irmfried Eberl był dyrektorem medycznym Brandenburg, a następnie w Bernburgu. Od lata 1942 Eberl był dowódcą obozu zagłady Treblinka w ramach akcji Reinhardt w Polsce.
+
+We wczesnych latach NRD temat "eutanazji" był poruszany w Bernburgu, ale dopiero w latach 80. pracownicy szpitala zaczęli planować upamiętnienie. Po Zjednoczeniu otwarto pomnik, który w 1994 przeszedł na własność państwową. Dyrektorem Pomnika Pamięci jest Ute Hoffmann. Od 1 stycznia 2007 zajmuje się nim Stiftung Gedenkstätten Sachsen-Anhalt.
