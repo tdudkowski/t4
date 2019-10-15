@@ -1,8 +1,11 @@
 - [Faza scentralizowana](#faza-scentralizowana)
-  - [Brandenburg](#brandenburg)
   - [Grafeneck](#grafeneck)
+  - [Brandenburg](#brandenburg)
   - [Hadamar](#hadamar)
-
+  - [Pirna Sonnenstein "D"](#pirna-sonnenstein-d)
+  - [Hartheim](#hartheim)
+  - [Bernburg (Saale)](#bernburg-saale)
+  
 ## Faza scentralizowana
 
 W lutym 1940 ustalono listę 6 głównych ośrodków zagłady, oznaczono je literami: A, B, Be, C, D, E.
@@ -339,10 +342,124 @@ W ostatniej dekadzie XIX przywrócono formy renesansowe. 1898 Camillo Heinrich F
 Na parterze wschodniego skrzydła zbudowano komorę gazową, kostnicę i krematorium.
 
 Działalność 1940 maj - 1941 1 wrzesień; liczba ofiar: 18269 w okresie fazy scentralizowanej, łącznie do grudnia 1944 ok 30 tys.
+14f13 12 tys
 
 1943 przeniesienie do pałacu centrali Akcji T4. Hartheim uznano za bezpieczne miejsce.
 
 W czerwcu 1945 amerykańscy śledczy odnaleźli w dokumentach dokładne dane statystyczne morderstw Akcji T4 przeprowadzanych w sześciu ośrodkach zagłady, oprócz dokładnych liczb ofiar prezentowały również wyliczone pieczołowicie oszczędności.
+
+W czerwcu 1945 w rozbitym sejfie znaleziono podczas dochodzenia amerykańskiego śledczego Charlesa Damerona 39-stronicowa broszura opracowana przez Edmunda Brandta na wewnętrzne potrzeby Akcji T4, z miesięcznymi statystykami egzekucji w komorach gazowych (zwanych "dezynfekcjami") w sześciu centrach zabijania T4. Pracownik administracyjny przyznał się w 1968 i 1970 jako świadek, że zebrał dane pod koniec 1942. Do statystyk Hartheim dołączono także arkusz, na którym obliczono, że "70 273 zdezynfekowanych" w ciągu 10 lat zjadłoby żywność warta 147 775 573,80.
+
+Według tych statystyk w Hartheim w ciągu 16 miesięcy od maja 1940 do1 września 1941 w komorze gazowej zamordowano 18 269 osób:
+
+1940 1941 Ogółem
+Maj czerwiec lipiec sierpień wrzesień październik listopad grudzień styczeń luty października br. Marzec kwiecień maj czerwiec lipiec sierpień
+982 1449 1740 633 1123 1400 1396 947 943 1178 974 1123 1106 1364 735 1176 18269
+
+Ta statystyka dotyczy tylko pierwszej fazy zabójstwa akcji T4, zakończonej 24 sierpnia 1941 na polecenie lidera.
+
+Ogólną liczbę zamordowanych w zamku Hartheim szacuje się na ponad 30 000. Wśród zamordowanych byli ludzie niepełnosprawni lub chorzy, więźniowie obozów koncentracyjnych i zagraniczni robotnicy przymusowi. Zabijano tlenkieme wegla.
+
+14f13
+Zaledwie trzy dni po formalnym zakończeniu akcji T4 przybył transport z Mauthausen z 70 żydowskimi więźniami i zostali tam zabici. Ośrodek zagłady zajmuje szczególną pozycję wśród innych nie tylko dlatego, że tam zabito największą liczbę ludzi w ramach Akcji /T4; również w 14f13 największa liczba zamordowanych więźnióœ obozów koncentracyjnych. Ich liczbę szacuje się na 12 000.
+
+W dużej częci byli to więźniowie z Mauthausen niezdolni do pracy w kamnieniołomie. Mordowano również wrogów politycznych, w dokumentach była dnotacja "wyjazd urlopowy" (niem. Erholungsurlaub), wśród skazanców byli głównie wrogowie Niemiec (niem. Deutschenhasser), komuniści i Polacy (niem. Polenfanatiker). Od 1944 r. Więźniowie nie byli już wybierani przez lekarzy T4; chodziło o jak najszybsze zwaknianie miejsc w obozie Mauthausen. Dalsze transporty przybyły z Gusen i prawdopodobnie również z Ravensbrück. Ostatnim transport więźniów do Hartheim 11 grudnia 1944 zakończył akcję 14f13.
+
+Od grudnia 1944 do stycznia 1945 więźniowie KL Mauthausen zlikwidowali obiekty i w dużym stopniu przywrócili stan z 1939
+Od marca 1945 w zamku mieściła się "Gauhilfsschule".
+
+W Hartheim działali jako Tötungsärzte:
+
+Rudolf Lonauer, od 1 kwietnia 1940 dokwietnia 1945 kierownik
+Georg Renno, od maja 1940 do lutego 1945 jako zastępca dyrektora
+
+W październiku 1940 pewien ojciec zgłosił tajemniczą śmierć syna w Hartheim w prokuraturze. Władze Oberdonau zwróciły się do prokuratora generalnego Ferdynanda Eypeltauera w Linzu o przerwanie postępowania. Eypeltauer postanowił inaczej, nakazał przesłuchanie odpowiedzialnego lekarza czyli Georga Renno jako oskarżonego. We wrześniu 1941 Eypeltauer otrzymał nakaz zawieszenia postępowania. Zamknął postępowanie.
+
+Przekształcenie strukturalne zamku w ośrodek zagłady miało miejsce wiosną 1940. W ciągu kilku tygodni, dokonano przebudowy i zanstalowano komorę gazową i krematorium w dwóch pomiesszczeniach we wschodniej części budynku.
+
+Ośrodek pośredni Niedernhart
+Wie;e ofiar zabito w państwowym szpitalu psychiatrycznym Niedernhart w Linzu, gdzie lekarzem był Rudolf Lonauer (dyrektor w Hartheim). Zabijano gł niedożywieniem i przedawkownaiem leków. Systematycznie przeprowadzano selekcje u wysyłano transporty do Hertheim.
+
+Na początku używnao małych autobusów, które mogły wjechać bezpośrednio na dziedziniec przez bramę zamku od strony południowej. Następnie zastąpiono je większymi autobusami, które musiały zatrzyma się po zachodniej stronie zamku. W tym miejscu wzniesiono drewnianą szopę, dla ochrony przed świadkami i zamknięcia obszaru przed zamkiem, żeby ofiary nie mogły się wymknąć, prowadzono ludzi wąskim bocznym wejściem do północno-zachodniego rogu wyznaczonej części dziedzińca zamkowego.
+
+Szopa została rozebrana w trakcie działań rozbiórkowych pod koniec 1944 roku. W ramach projektu artystycznego wykonano symboliczną replikę w postaci szklanych i metalowych płyt. Na szklanych płytach zaznaczono miejsca początkowe transportów.
+
+Podcienie po północnej stronie zamku były w latach 1940-44 wydzielona drewnianym płotem z dziedzińca. Ofiary nie mogły wejść na wewnętrzny dziedziniec zamku. Konstrukcja ułatwiła wprowadzenie ludzi do kolejnych pomieszczeń. Pierwszym była garderoba 
+
+Szopa została symbolicznie odtworzona w ramach artystycznej transformacji zamku Hartheim w miejsce pamięci ze stalowymi panelami. W pierwszym polu podcienia zaaranżowano odpowiednio zaprojektowane panele o numerze 1940, jest to rok, w którym rozpoczęły się egzekucje, za pomocą kodu kreskowego. W dawnej garderobie znajdduje się teraz dokumentacja poszczególnych ofiar i sprawców.
+
+W pokoju badań (niem. Untersuchungsraum) lekarz ustalał tożsamość osoby, sprawdznao czy ma złote zęby, które potem miał zebrać palacz zwłok. ludzie ci byli oznaczani krzyżem na plecach. Osoby, które z punktu widzenia lekarzy prezentowały specjalne przypadki anatomiczne, były sfotografowane w pokoju fotograficznym, niektóryjm pobierano organy.
+
+Obecnie istniejący Pomnik Pamięci upamiętnia 30 tys ofiar, każda osoba którą można było zidentyfikować jest na szklanych płytach, ich dane personalne celowo są umiezczone -przypadkowo żeby nie nadawać temu porządku. Znajdują się tu też rzeczy osobiste, które odnalezione w trakcie wykopalisk archeologicznych po wschodniej stronie zamku. Zostały zakopane przez personel w latach 1940–1944. Znajdowały się tam także prochy i resztki kości z krematorium. Odkryto je w trakcie układania rury ciepłowniczej. Części znalezisk eksponowana jest w takiej formie jak je znaleziono. Szczątki ludzkie i pozostałości krematorium zostały umieszczone w sarkofagu po wschodniej stroniee zamku w 2002, te znalezione później w 2009.
+
+Wyjście przez kładkę prowdząca do następnych pokojów, jest podobna do oryginału ma udostępnić inne pomieszczenia do obejrzenia, ale przy tym pozwolić zachować ich pierwotny stan
+
+Komora gazowa
+Pomieszczenie techniczne, w którym przechowywane były butle z gazem
+Kostnica, w której przechowywano zwłoki ofiar
+
+Komora za gazoszczelnymi stalowymi drzwiami. Na suficie były trzy prysznice. Od strony dziedzińca wizjer, przez który można było obserwować proces zabijania. Zabijano zwykle od 30 do 60 osób wprowadzając tlenek węgla perforowaną rurą przy podłodze. Zawór otwieran y był zwykle przez lekarza, w wyjątkowych przypadkach "palacze". Po dziesięciu do piętnastu minutach ludzie w małym pokoju o powierzchni około 25 metrów kwadratowych byli martwi. Po godzinie od spuszczenia gazu palacz przenosił zwłoki do kostnicy.
+
+Dziś do dawnej komory gazowej można dostać się za pośrednictwem pomostu, który zaczyna się w byłym pokoju badań.
+
+W sąsiednim małym pomieszczeniu technicznym tlenek węgla w butlach gazowych sprzedawanych przez firmę I.G. Farben z Ludwigshafen związane. Pmost udostępnia Pokój techniczny i kostnicę.
+
+Po egzekucji gaz wypuszczano, a następnie palacz przenosił zwłoki ofiar w tzw. kostnicy. Tam czasem trzymano je kilka dni zanim wszyystkie mogły zotsać spalone w krematorium. 1947 stracony w Landsberg am Lech za swoje działania "Brenner" Vinzenz Nohel opisał w makabrycznym zeznaniu szczegóły tego procesu.
+
+Piec krematorium miał dwie komory spalania, w których jednocześnie można było spalić do ośmiu osób. Piec jest opalany koksem. Ponieważ nie spalał dokładnie całego ciała, używano również elektrycznego młyna do mielenia kości zmarłych. Prochami wypełniano worki i początkowo transportowano furgonetką na Dunaj oddalony o około cztery kilometry. Później popiółu pozbywano się w ogrodzie zamkowym, gdzie został znaleziony w 2001 w ramach wykopalisk archeologicznych. Część prochów została również wysłana w urnach do krewnych. Wypełniane były w przypadkowy sposób.
+
+Pomost umożliwiający obejrzenie wszystckich pomieszczeń kończy się w dawnej sali krematorium. Ponieważ w trakcie rozbiórki pod koniec 1944 piec został usunięty tylko jego położenie jest wyyznaczone światłem na suficie.
+
+Siedziba T4 od sierpnia 1943 r. W Hartheim i Weißenbach am Attersee
+W związku z wojną powietrzną przeniesiono kwaterę główną Akcji T4 z Tiergartenstraße 4 w Berlinie do Ostmark, do Austrii, w tamtym czasie kpiąco nazywanej schronem przeciwlotniczym Rzeszy. Zapewniło dalszą realizację Akcji T4. Statystyki Hartheim, jak również akta Paula Nitsche - korespondencja, notatki i raporty - prawdopodobnie przybyły w ramach przeniesienia siedziby T4 do Hartheim (dział biurowy, biuro podziału kosztów) i do domu opieki "Schoberstein" w pobliżu Weißenbach am Attersee (dział medyczny).
+
+Znane ofiary śmiertelne
+Richard Aspöck (1919–1941), austracki pomocnik ogrodnika
+Teodor Drapiewski (1880–1942), polski ksiądz katolicki
+Erwin Hanslik (1880–1940), austriacko-polski geograf geograf, historyk i publicysta
+Bernhard Heinzmann (1903–1942), niemiecki ksiądz katolicki
+Friedrich Karas (1895–1942), austriacki ksiądz katolicki
+Jan Kowalski (1871–1942), polski biskup starokatolickiego kościoła mariawitów
+Friederike (Friedl) Roth, ur. Reichler (1900–1940), żona pisarza Josepha Rotha
+Ida Maly (1894–1941), malarz austriacki
+Gottfried Neunhäuserer (1882–1941), austriacki ksiądz benedyktyński
+Werner Sylten (1893–1942), teolog ewangelicki
+Aloisia Veit (1891–1940), odległa krewna Adolfa Hitlera
+
+W sumie zamordowano 310 polskich, siedmiu niemieckich, sześciu czeskich, czterech luksemburskich, trzech holenderskich i dwóch belgijskich księży. Wielu z nich zostało przewiezionych (ewakuowanych) z bloku parafialnego (niem. Pfarrerblock) obozu w Dachau Duchowny Hermann Scheipers został również przeniesiony do Invalidenblock w celu zabrania go do Hartheim. Jego siostra - która miała kontakt z bratem - zwróciła się do dr. Bernsdorf, pracownika RSHA Berlin-Oranienburg, odpowiedzialnego za kapłanów w bloku parafialnym. Podobno stawiała mu czoła, w Münsterland było tajemnicą, że uwięzieni księża zostali wysłani do gazu. Bernsdorf ponoć się zdenerwował podczas rozmowy i zadzwonił do komendanta Dachau. Scheipers informuje, że tego samego dnia, 13 sierpnia 1942 doszło do reakcji: on i trzej inni niemieccy duchowni zostali przeniesieni z Invalidenblock (gdzie SS zbierało więźniów do transportu) do bloku parafialnego.
+
+Zakres odpowiedzialności personelu Hartheim i jego osądzenie
+
+Grupa osób, które w zamku Hartheim w latach 1940–1944 w zależności od zadania mniej lub bardziej obciążonego poczuciem winy, liczyła około 60–70 osób.
+
+lekarze
+Dwaj lekarze byli upoważnieni do otwarcia zaworu gazu i dlatego byli odpowiedzialni za proces zabijania. Ale formalnie byli też na najwyższym poziomie w hierarchii ośrodka zagłądy. Kolejnym zadaniem lekarzy było ustalenie przyczyny zgonu i prowadzenie dokumentacji medycznej. Osoby ze złotymi zębami miały być przez nich odpowiednio oznaczone, a także osoby, których narządy miały ozstaćpobrane. Reprezentacja instytutu na zewnątrz była również jednym z jego zadań.
+
+Lekarze:
+
+- Rudolf Lonauer był starszym lekarzem NS ds. Eutanazji w Hartheim, w państwowym szpitalu psychiatrycznym Niedernhart w Linz oraz w ośrodku pośredbim Schloss Gschwendt w Neuhofen an der Krems. Zarówno w Niedernhart, jak i Schloss Gschwendt zabijał pacjentów, podając truciznę. Wraz ze swoim zastępcą Renno dokonywał selekcji więźniów w obozie koncentracyjnym Gusen. Po tym jak zamordował swoje dzieci, popełnił samobójstwo wraz z żoną 5 maja 1945 w Neuhofen an der Krems, unikając w ten sposób postępowania karnego.
+- Georg Renno był zastępcą Rudolfa Lonauera, a także wyposażony w uprawnienia nazistowskiego lekarza eutanazji. Po wojnie Renno mógł zejść do podziemia, po tym jak ponownie użył swojego prawdziwego nazwiska w 1955. W 1961 został aresztowany w Niemczech. W trakcie przygotowań do procesu prokurator generalny we Frankfurcie nad Menem stworzył tak zwaną "ustawę Renno", która zawierała wiele informacji w formie dokumentów lub zeznań. W 1967 rozpoczął się proces przeciwko Georgowi Renno, który wielokrotnie próbował opóźniać to taktyką negocjacyjną. Po zapaleniu wyrostka robaczkowego proces zawieszono. Z powodu dalszych prawdziwych lub fałszywych chorób ostateczne zaprzestano ścigania w 1975. Zmarł w 1997 nie okazując wyrzutów sumienia w szczegółowym wywiadzie na krótko przed śmiercią.
+  
+opiekunowie:
+
+Zadaniem personelu pielęgniarskiego było prowadzenie osób przywiuiezionych autobusem do szatni. Tam ofiary musiały się rozebrać, pielęgniarki pomagały, zbierały i rejestrowały odzież i rzeczy ludzkie. Następnie nagie osoby została zabrana przez personel pielęgniarski do pokoju recepcyjnego, gdzie czekał już lekarz prowadzący. Ofiary, które miały być fotografowane, często musiały być wspierane przez dwóch sanitariuszy. Po zakończeniu wszystkich procedur personel pielęgniarski zabierał ludzi do komory gazowej.
+
+Ponieważ na początku akcji T4 w połowie maja 1940 było zbyt mało pracowników po konsultacji z pracownikami biura w celu realizacji tych zadań. Pomocnicy transportu i opiekunowie tacy jak Karl Harrer i Kurt Steubl, którzy zajmowali się transportami z Niedernhart, również pomagali w tych operacjach w pierwszej fazie operacji
+
+Pierwsi członkowie personelu pielęgniarskiego, pielęgniarka Gertrude Blanke i Hermann Wentzel, przybyli do Hartheim zaledwie kilka tygodni przed rozpoczęciem akcji zabijania. Sytuacja kadrowa nie uległa złagodzeniu do połowy października 1940 przydzielono jedenaście pielęgniarek z personelu zakładu opieki zdrowotnej Ybbs nad Dunajem. Wśród nich był Franz Sitter, który po dziesięciu dniach poprosił o natychmiastowe zwolnienie z obowiązku świadczenia usługi, po tym, jak dowiedział się o zadaniu, które ma zostać wykonane w Schloss Hartheim. Jako powód stwierdził, że chce się zaręczyć (einrücken). W rzeczywistości życzenie to zostało spełnione w lutym 1941
+
+W instytucjach Hartheim, Niedernhart i Gschwend zatrudniono następujące pielęgniarki i pielęgniarze:
+
+- Johann Baumgartner, ur. 9 stycznia 1896 jako starszy pielęgniarz w Niedernhart był odpowiedzialny za organizacje pracy personelu pielęgniarskiego. Przeciwko niemu wszczęto wstępne śledztwo w 1948 Ale postępowanie zostało wstrzymane w maju 1948. przez prokuratora. ?
+- Gertruda Blanke, pochodząca z Berlina, była pierwszym członkiem personelu pielęgniarskiego, który służył w Hartheim od kwietnia 1940, później została szefową personelu pielęgniarskiego i przebywała w 1944 w Hartheim. Prokurator przerwał śledztwo w dniu 25 lutego 1947 ponieważ nie znaleziono jej.
+- Karl Harrer, ur. 14 grudnia 1893 r. pracował jako pielęgniarz w Niedernhart, dyrektor szpitala Rudolf Lonauer zlecił mu zajmowanie się transportem pacjentów z Niedernhart do Hartheim. W swoim procesie Harrer opisał działania we wczesnej fazie akcji T4 i swoją pomoc dla Lonauera w zabijaniu pacjentów w Niederhart. Został skazany 3 lipca 1948 na 66 miesięcy więzienia.
+- Leopold Lang, ur. 30 października 1899 pracował jako dozorca w Niedernhart i prawdopodobnie nigdy nie był nawet w zamku Hartheim. Ponieważ asystował szefowi kliniki Niedernhart Rudolfowi Lonauerowi w zabijaniu pacjentów, Lang został skazany 3 lipca 1948 na 36 miesięcy więzienia.
+- Karl Steubel, ur. 25 października 1910 pielęgniarz w Niedernhart, a od 1939 do 1942 odpowiedzialny za transporty między pracą a Hartheim. W trakcie akcji Reinhardt członek straży SS w obozie zagłady w Sobiborze, gdzie więźniowie uważali go za sadystycznego i nieczułego. W trakcie postępowania sądowego w sprawie zbrodni w zamku Hartheim wszczęto przeciwko niemu wstępne dochodzenia. Ponieważ popełnił samobójstwo 21 września 1945 prokurator zakończył 25 lutego 1947 sprawę.
+- Anton Schrottmayer, ur. 11 marca 1899 r. pracował jako dozorca w Ybbs na Dunaju i był jednym z jedenastu pielęgniarzy przydzielonych do Hartheim w październiku 1940. Podczas akcji T4 pracował jako pomocnik transportu. W 1942 został przeniesiony do biura terenowego Gschwendt, gdzie w imieniu Lonauera podawał śmiertelne zastrzyki. Przyznał się do tych morderstw w 3 sierpnia 1946 przed sądem rejonowym Ybbs na Dunaju, dzień po tym, jak popełnił samobójstwo w więzieniu sądu rejonowego. Następnie prokurator wszczął 25 lutego 1947 sprawę przeciwko niemu.
+
+Pozostali członkowie personelu pielęgniarskiego to Anna Griessenberger, Franz Gindl, Hermine Gruber, Margarethe Haider, Maria Hammelsböck, Maria Lambert, Hermann Merta, Maria Raab, Maria Wittmann i Hermann Wentzl, którzy byli odpowiedzialni za patologa przy pobieraniu organów na zlecenie Lonauera i Renno. Niektórzy (Anna Griessenberger i Margarethe Haider) wróciły po przerwaniu akcji T4 z powrotem do swojej dawnej pracy do Ybbs na Dunaju.
+
+Maria Hammelsböck i Maria Lambert złożyły wniosek o opiekę medyczną na froncie wschodnim. Niepewną sytuację zimą 1941–1942 spowodował Viktor Brack, jeden ze współorganizatorów Akcji T4, z pielęgniarkami z centrów zabijania i około 150 autobusami w Mińsku i Smoleńsku na terenie Army Group Center oraz w Peipussee na terenie Army Group North aby pomóc wielu rannym. Akcja odbyła się w ramach organizacyjnych Organizacji Todt, dlatego Maria Hammelsböck i Maria Lambert zostały ubrane w grudniu 1941 r. W Berlinie jako siostry Organizacji Todt. Podczas kolejnej służby medycznej, która odbyła się między styczniem a marcem 1942 r., Obaj szoferowie z Hartheim, Franz Mayrhuber i Johann Lothaller, byli obecni z autobusami.
 
 ### Bernburg (Saale)
 
