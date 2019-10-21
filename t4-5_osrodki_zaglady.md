@@ -1,11 +1,11 @@
 - [Faza scentralizowana](#faza-scentralizowana)
-  - [Grafeneck](#grafeneck)
-  - [Brandenburg](#brandenburg)
-  - [Hadamar](#hadamar)
-  - [Pirna Sonnenstein "D"](#pirna-sonnenstein-d)
-  - [Hartheim](#hartheim)
-  - [Bernburg (Saale)](#bernburg-saale)
-  
+ - [Grafeneck](#grafeneck)
+ - [Brandenburg](#brandenburg)
+ - [Hadamar](#hadamar)
+ - [Pirna Sonnenstein "D"](#pirna-sonnenstein-d)
+ - [Hartheim](#hartheim)
+ - [Bernburg (Saale)](#bernburg-saale)
+ 
 ## Faza scentralizowana
 
 W lutym 1940 ustalono listę 6 głównych ośrodków zagłady, oznaczono je literami: A, B, Be, C, D, E.
@@ -25,9 +25,90 @@ W 1941 ośrodki w Bernburg i Sonenstein zwiększyły działalność podczas kied
 
 Poza nimi działały nieoficjalne ośrodki zagłady (czasem nazywanej "dziką eutanazją"), głównie na terenie kraju Warty. Zabijano w nich także dzieci.
 
+Na terytorium Rzeszy Niemieckiej w latach 1939–1941 zbudowano sześć centrów zabijania eutanazji. Częściowo dokonano licznych zabójstw nawet po ogłoszeniu 24 sierpnia 1941. "Zatrzymania eutanazji". W tym procesie przedawkowano narkotyki i celowo stosowano niedożywienie; Ponadto więźniowie niezdolni do pracy zostali zabici w ramach akcji 14f13.
+T4-Kötungsanstalt Lokalizacja Dzisiejszy okres federalny
+Grafeneck Gomadingen Baden-Württemberg 20 stycznia 1940 do grudnia 1940 r
+Brandenburg Brandenburg on the Havel Brandenburg 8 lutego 1940 do października 1940 r
+Hartheim Alkoven koło Linzu w Górnej Austrii 6 maja 1940 do grudnia 1944 r
+Sunstone Pirna Saxony od czerwca 1940 do września 1942 r
+Bernburg Bernburg (Saale) Saksonia-Anhalt od 21 listopada 1940 do 30 lipca 1943 r
+Hadamar Hadamar niedaleko Limburg Hesse od stycznia 1941 do 31 lipca 1942 r
+Bernuteńska instytucja "Eutanazja" zastąpiła jesienią 1940 r. Hadamar - instytucję zabijającą Grafeneck.
+
+Organizatorzy T4 Viktor Brack i Werner Heyde zarządzili, aby zabicie pacjenta mogło odbywać się wyłącznie przez personel medyczny, ponieważ pismo upoważniające Hitlera z 1 września 1939 dotyczyło tylko lekarzy. W poszczególnych ośrodkach zabijania NS pracowali następujący lekarze:
+
+T4 centrum zabijanie zabijanie lekarze Funkcja Okres
+Grafeneck Horst Schumann
+Ernst Baumhard
+Günther Hennecke Head
+Zastępca, od maja 1940 r
+Zastępca stycznia 1940 do listopada 1940 r
+Od stycznia 1940 do kwietnia 1940 r
+25 kwietnia 1940 do grudnia 1940 r
+
+Brandenburg Irmfried Eberl
+Aquilin Ullrich
+Heinrich Bunke Head
+zastępca
+Zastępca 1 lutego 1940 do listopada 1940 r
+15 marca 1940 do listopada 1940 r
+Od sierpnia 1940 do listopada 1940 r
+Hartheim Rudolf Lonauer
+Georg Renno Head
+Zastępca 1 kwietnia 1940 do kwietnia 1945 r
+Od maja 1940 do sierpnia 1941
+Sunstone Horst Schumann
+Curt Schmalenbach
+Klaus Endruweit
+Kurt Borm Head
+zastępca
+zastępca
+Zastępca czerwca 1940 do sierpnia 1941
+Od jesieni 1940 do grudnia 1940 r
+Od grudnia 1940 do kwietnia 1941
+Od grudnia 1940 do sierpnia 1941
+Bernburg Irmfried Eberl
+Heinrich Bunke Head
+Zastępca listopada 1940 do sierpnia 1941
+Od listopada 1940 do sierpnia 1941
+Hadamar Ernst Baumhard
+Friedrich Berner
+Curt Schmalenbach
+Adolf Wahlmann
+Günther Hennecke
+Dyrygent Bodo Gorgaß
+głowa
+głowa
+głowa
+zastępca
+Zastępca stycznia 1941 do czerwca 1941
+Od czerwca 1941 do sierpnia 1941
+Od grudnia 1941 do lipca 1942 r
+Od 5 sierpnia 1942 do kwietnia 1945 r
+13 stycznia 1941 do czerwca 1941
+18 czerwca 1941 do sierpnia 1941
+
+Dane statystyki Hartheimera do liczb ofiar 1940–1941
+Zachowane wewnętrzne statystyki T4, tak zwane statystyki Hartheimera, przekazały zagazowanych w instytucjach zabijania między 1940 a 1 września 1941 roku.
+
+Instytucja 1940 1941 Ogółem
+A (Grafeneck) 9.839 - 9.839
+B (Brandenburgia) 9 772 - 9 772
+Be (Bernburg) - 8,601 8,601
+C (Hartheim) 9670 8599 18 269
+D (kamień słoneczny) 5943 7777 13 720
+E (Hadamar) - 10 072 10 072
+Razem 35224 35049 70273
+
+Jednak według muzeum Grafeneck w okresie od stycznia do grudnia 1940 r. W Grafeneck zamordowano od 10 500 do 11 000 osób. Liczba 10,654 została powołana w 1949 r. Przez jury z Tybingi w procesie, który przeprowadzono przeciwko niewielkiej liczbie sprawców.
+
+W okresie od 13 stycznia do 24 sierpnia 1941 r. W pomniku Hadamar wymienia się łącznie 10 122 ofiar w komorze gazowej Hadamar. W ramach "drugiej fazy morderstwa" ponownie przejęły dawne szpitale państwowe Hadamar ponownie funkcję instytucji zabijającej: od sierpnia 1942 r. Do 26 marca 1945 r. Zmarło kolejne 4 411 ofiar.
+
 ### Grafeneck
 
 Zamek koło Gomadingen w powiecie Reutlingen w Badenii-Wirtembergii. Zbudowany w miejscu późnogotyckiego zamku w 1560 pałac myśliwski książąt Württemberg. 1762-72 przebudowany na barok. W 1929 kupiony przez Samariter Stift Grafeneck, która założyła dom dla niepełnosprawnych. Rok później powstał cmentarz.
+
+Na początku października 1939 r. Herbert Linden z Ministerstwa Spraw Wewnętrznych Rzeszy odwiedził szefa Württembergischen Gesundheitsdienstes w Ministerstwie Spraw Wewnętrznych, Eugena Stähle, i otworzył przed nim plany rządu Rzeszy dotyczące zmniejszenia liczby dziedzicznych i szalonych pacjentów hospitalizowanych, wraz z żądaniem wyznaczenia odpowiedniej instytucji w Wirtembergii można przeprowadzić "eutanazję" wspomnianej grupy pacjentów. Stähle zaproponował Samariteranstalt Grafeneck w pobliżu Marbach, dzielnicy Gomadingen. Został skonfiskowany 12 października 1939 r., Oczyszczony przez wszystkich pacjentów, a wkrótce potem odbudowany zgodnie z jego przeznaczeniem. Oprócz pomieszczeń biurowych i pracowniczych w drewnianym baraku 300 metrów od zamku urządzono gazoszczelną salę do zabijania. Oprócz koszar zainstalowano trzy ruchome piece kremacyjne, a budowę osłonięto drewnianym płotem. Z najbliższego sąsiedztwa instytucję zabezpieczały posterunki SS. W styczniu 1940 r. Centrum zabijania Grafeneck rozpoczęło swoją "działalność".
 
 MSW Wirtembergii w Stuttgarcie, współpracujące z berlińskim biurem T4 zaproponowało Samariter Stift Grafeneck, ponieważ spełniał większość wymagań: jest to teren położony z dala od innych zabudowań, otoczony lasem i ma tylko dwie drogi dojazdowe, sam zamek zapewniał wygodną bazę mieszkaniowa dla personelu.
 
@@ -101,8 +182,8 @@ Przy wejściu do miejsca pamięci znajduje się próg kamienny, który upamiętn
 Grafeneck prowadzi centrum dokumentacyjne od października 2005: od tego czasu dostępna jest wystawa stała "Grafeneck 1940 - Pielęgniarstwo w ramach narodowego socjalizmu". Od 15 do 20 tys osób rocznie.
 
 <ul>
-  <li><a href="https://www.lebenshaus-alb.de/magazin/aktionen/009879.html">"Führung in der Gedenkstätte Grafeneck"</a></li>
-  <li><a href="https://www.leo-bw.de/detail-gis/-/Detail/details/DOKUMENT/lpb_gedenkstaetten/468/Gedenkstätte+Grafeneck">Gedenkstätte Grafeneck – Dokumentationszentrum</a></li>
+ <li><a href="https://www.lebenshaus-alb.de/magazin/aktionen/009879.html">"Führung in der Gedenkstätte Grafeneck"</a></li>
+ <li><a href="https://www.leo-bw.de/detail-gis/-/Detail/details/DOKUMENT/lpb_gedenkstaetten/468/Gedenkstätte+Grafeneck">Gedenkstätte Grafeneck – Dokumentationszentrum</a></li>
 </ul>
 
 ### Brandenburg
@@ -166,7 +247,7 @@ Od stycznia 1941 do marca ok 25 tys niepełnosprawnych i chorych psychicznie zos
 
 Ośrodek został umieszczony w obecnym budynku kliniki Vitos psychiatrii i psychoterapii Hadamar na Mönchberg.
 
-W skrzydle głównego budynku Państwowych Szpitali Hadamar w listopadzie 1940 dla prowincji Hesse-Nassau utworzono szósty ośrodek zagłądy Aksji T4. Prezydent prowincji Hessen-Nassau wydzierżawił część szpitala na rzecz Fundacji Charytatywnej dla Opieki  Instytucjonalnej, organizacji odpowiedzialnej za T4.
+W skrzydle głównego budynku Państwowych Szpitali Hadamar w listopadzie 1940 dla prowincji Hesse-Nassau utworzono szósty ośrodek zagłądy Aksji T4. Prezydent prowincji Hessen-Nassau wydzierżawił część szpitala na rzecz Fundacji Charytatywnej dla Opieki Instytucjonalnej, organizacji odpowiedzialnej za T4.
 
 W 1940 wysłannik Kancelarii używający pseudonimu Hase pierwsze przygotowania do stworzenia ośrodka zagłady. Oprócz organizacji pomieszczeń biurowych, sypialnych i socjalnych dla nowego personelu, zbudowano komorę gazową upozorowną na prysznic i tuż obok krematorium. Pwinice przebudował Fritz Schwerwing, szwagier radnego prowincji Fritz Bernotat, resztę budowlańców wybrano specjalnie spoza regionu. Na krótko przed Bożym Narodzeniem specjalnie dobrany personel Akcji T4, składający się z lekarzy, pielęgniarek i opiekunów, a także trzy szare omnibusy, dotarli do Hadamar. Pozostali pracownicy szpitala zostali zobowiązani do zachowania tajemnicy.
 
@@ -254,7 +335,7 @@ Oprócz wystawy w memoriale znajduje się archiwum, biblioteka i sale seminaryjn
 
 W 2007 Hadamar Memorial otrzymał nagrodę za innowację w edukacji dorosłych za "Odkrywamy naszą historię". Ludzie z trudnościami w nauce pracują na temat nazistowskich "eutanazji" w Hadamar Memorial.
 
-Od 2006 r. Dostępna jest cyfrowa baza danych ofiar, która jest najbardziej kompletna ze wszystkich 6. Z ich pomocą można wesprzeć krewnych w ujawnieniu ukrytych okoliczności śmierci.
+Od 2006 dostępna jest cyfrowa baza danych ofiar, która jest najbardziej kompletna ze wszystkich 6. Z ich pomocą można wesprzeć krewnych w ujawnieniu ukrytych okoliczności śmierci.
 
 Stolpersteine
 
@@ -272,6 +353,7 @@ Gertrud Stockhausen (1900 do 27 maja 1941), matka kompozytora Karlheinza Stockha
 1940 28 czerwca - 1941 1 wrzesień; 13720
 
 Komora gazowa w piwnicy budynku C 16
+W piwnicy budynku na zamku Sonnenstein w Pirnej w latach 1940/41 13 720 osób z upośledzeniem umysłowym i chorobami psychicznymi oraz co najmniej 1031 więźniów z obozów koncentracyjnych zostało zabitych gazem.
 
 Około jedna trzecia pracowników ośrodka zabijania Sonnenstein była zatrudniona w latach 1942 i 1943 w obozach zagłady Bełżec, Sobibor i Treblinka (Kurt Bolender, Kurt Franz, Heinrich Gley, Lorenz Hackenholt, Gottlieb Hering, Otto Horn, Erwin Lambert, Heinrich Matthes, Gustav Münzberger, Walter Nowak, Josef Oberhauser, Paul Rost i Friedrich Tauscher).
 
@@ -439,7 +521,7 @@ Lekarze:
 
 - Rudolf Lonauer był starszym lekarzem NS ds. Eutanazji w Hartheim, w państwowym szpitalu psychiatrycznym Niedernhart w Linz oraz w ośrodku pośredbim Schloss Gschwendt w Neuhofen an der Krems. Zarówno w Niedernhart, jak i Schloss Gschwendt zabijał pacjentów, podając truciznę. Wraz ze swoim zastępcą Renno dokonywał selekcji więźniów w obozie koncentracyjnym Gusen. Po tym jak zamordował swoje dzieci, popełnił samobójstwo wraz z żoną 5 maja 1945 w Neuhofen an der Krems, unikając w ten sposób postępowania karnego.
 - Georg Renno był zastępcą Rudolfa Lonauera, a także wyposażony w uprawnienia nazistowskiego lekarza eutanazji. Po wojnie Renno mógł zejść do podziemia, po tym jak ponownie użył swojego prawdziwego nazwiska w 1955. W 1961 został aresztowany w Niemczech. W trakcie przygotowań do procesu prokurator generalny we Frankfurcie nad Menem stworzył tak zwaną "ustawę Renno", która zawierała wiele informacji w formie dokumentów lub zeznań. W 1967 rozpoczął się proces przeciwko Georgowi Renno, który wielokrotnie próbował opóźniać to taktyką negocjacyjną. Po zapaleniu wyrostka robaczkowego proces zawieszono. Z powodu dalszych prawdziwych lub fałszywych chorób ostateczne zaprzestano ścigania w 1975. Zmarł w 1997 nie okazując wyrzutów sumienia w szczegółowym wywiadzie na krótko przed śmiercią.
-  
+ 
 opiekunowie:
 
 Zadaniem personelu pielęgniarskiego było prowadzenie osób przywiuiezionych autobusem do szatni. Tam ofiary musiały się rozebrać, pielęgniarki pomagały, zbierały i rejestrowały odzież i rzeczy ludzkie. Następnie nagie osoby została zabrana przez personel pielęgniarski do pokoju recepcyjnego, gdzie czekał już lekarz prowadzący. Ofiary, które miały być fotografowane, często musiały być wspierane przez dwóch sanitariuszy. Po zakończeniu wszystkich procedur personel pielęgniarski zabierał ludzi do komory gazowej.
@@ -459,7 +541,7 @@ W instytucjach Hartheim, Niedernhart i Gschwend zatrudniono następujące pielę
 
 Pozostali członkowie personelu pielęgniarskiego to Anna Griessenberger, Franz Gindl, Hermine Gruber, Margarethe Haider, Maria Hammelsböck, Maria Lambert, Hermann Merta, Maria Raab, Maria Wittmann i Hermann Wentzl, którzy byli odpowiedzialni za patologa przy pobieraniu organów na zlecenie Lonauera i Renno. Niektórzy (Anna Griessenberger i Margarethe Haider) wróciły po przerwaniu akcji T4 z powrotem do swojej dawnej pracy do Ybbs na Dunaju.
 
-Maria Hammelsböck i Maria Lambert złożyły podanie o służbę medyczną na froncie wschodnim. Niepewną sytuację zimą 1941–1942 spowodowała że Viktor Brack, jeden ze współorganizatorów Akcji T4, był z pielęgniarkami z ośrodków zagłady i około 150 autobusami w Mińsku i Smoleńsku na terenie Grupy Armii Śroodek oraz w Peipussee na terenie Grupy Armii Północ pomagając rannym. W ramach organizacyjnych Organizacji Todt, dlatego Maria Hammelsböck i Maria Lambert w grudniu 1941 r. W Berlinie nosiły stroje pielęgniarek Organizacji Todt. Podczas kolejnej tury służby medycznej, która odbyła się między styczniem a marcem 1942 kierowcy z Hartheim, Franz Mayrhuber i Johann Lothaller, byli z autobusami.
+Maria Hammelsböck i Maria Lambert złożyły podanie o służbę medyczną na froncie wschodnim. Niepewną sytuację zimą 1941–1942 spowodowała że Viktor Brack, jeden ze współorganizatorów Akcji T4, był z pielęgniarkami z ośrodków zagłady i około 150 autobusami w Mińsku i Smoleńsku na terenie Grupy Armii Śroodek oraz w Peipussee na terenie Grupy Armii Północ pomagając rannym. W ramach organizacyjnych Organizacji Todt, dlatego Maria Hammelsböck i Maria Lambert w grudniu 1941. W Berlinie nosiły stroje pielęgniarek Organizacji Todt. Podczas kolejnej tury służby medycznej, która odbyła się między styczniem a marcem 1942 kierowcy z Hartheim, Franz Mayrhuber i Johann Lothaller, byli z autobusami.
 
 Rola personelu administracyjnego w akcji T4 była zróznicowana. Dyrektorem specjalnego urzędu stanu cywilnego, fałśzywe akty zgonu.
 Rodzina ofiary była informaowana o przeniesieniu chorego z kilkudniowym opóźnieniem. W tym czasie chory był juz zabity. 10 do 20 dni później wysyłano list o zgonie z aktem zgonu.
@@ -478,7 +560,7 @@ Franz Stangl, zastępca kierownika biura
 Po zakończeniu działania T4 w ramach operacji Reinhardt potrzebna była wiedza specjalistyczna personelu administracyjnego. Niektórzy urzędnicy administracyjni Hartheim pracowali później w obozach zagłady w Generalnym Gubernatorstwie. Potem cześć z nich znalazła się ponownie w Operacji Specjalnej Departamentu R (niem. Sonderabteilung Einsatz R), gdzie kontynuowali działalność w Strefie Operacyjnej Regionu Wybrzeża Adriatyku.
 
 - Franz Reichleitner: funkcjonariusz policji kryminalnej i urzędnik gestapo z Linz. W Hartheim był zastępcą Franza Stangla, po anulowaniu akcji T4 powstał w ramach operacji Reinhardta dowódcy obozu zagłady Sobibor. 3 stycznia 1944 r. Został zastrzelony przez Rijekę von Partisanen w trakcie pracy w "wydziale specjalnym Einsatz R.".
-- Franz Stangl: policjant kryminalny i oficer gestapo. W zamku Hartheim był następcą Christiana Wirtha jako kierownik biura. Podczas operacji Reinhardt został dowódcą obozu zagłady Sobibor i Treblinka. Następnie pracował również w "Dziale Specjalnym Einsatz R". Po wojnie uciekł z Gustavem Wagnerem, z powodu procesów Hartheim w Linzu, w 1948 r. Najpierw do Syrii, w 1951 r. Wyemigrował do Brazylii. Z inicjatywy Simona Wiesenthala w 1967 aresztowany i ekstradycja do Niemiec. W 1970  Sąd okręgowy w Düsseldorfie skazał go na dożywocie w trzecim procesie w Treblince. Odwołał się od wyroku i zmarł z powodu niewydolności serca w areszcie w 1971.
+- Franz Stangl: policjant kryminalny i oficer gestapo. W zamku Hartheim był następcą Christiana Wirtha jako kierownik biura. Podczas operacji Reinhardt został dowódcą obozu zagłady Sobibor i Treblinka. Następnie pracował również w "Dziale Specjalnym Einsatz R". Po wojnie uciekł z Gustavem Wagnerem, z powodu procesów Hartheim w Linzu, w 1948 r. Najpierw do Syrii, w 195 1. Wyemigrował do Brazylii. Z inicjatywy Simona Wiesenthala w 1967 aresztowany i ekstradycja do Niemiec. W 1970 Sąd okręgowy w Düsseldorfie skazał go na dożywocie w trzecim procesie w Treblince. Odwołał się od wyroku i zmarł z powodu niewydolności serca w areszcie w 1971.
 - Gustav Wagner: urzędnik administracyjny w zamku Hartheim. W trakcie operacji Reinhardt był zastępcą dowódcy obozu zagłady Sobibor. Następnie pracował również w "Dziale Specjalnym Einsatz R". Po wojnie Wagner wraz z Franzem Stanglem uciekł do Syrii, a następnie wyemigrował do Brazylii jak Stangl. Simon Wiesenthal był w stanie go wyśledzić. Aresztowanie 1978 wg jego prawnika, dwa lata później odebrał sobie życie.
 
 Christian Wirth: Detektyw Inspektor i kierownik pierwszego biura w Schloss Hartheim. Później został mianowany inspektorem wszystkich ośrodków zagłady Akcji T4. W ramach operacji Reinhardt był pierwszym dowódcą obozu zagłady Bełżec, od sierpnia 1942 Inspektorem obozów zagłady. Prawdopodobnie od września 1943 kierował "Departamentem Specjalnym Einsatz R". 26 maja 1944 został zastrzelony przez partyzantów.
@@ -487,7 +569,7 @@ Jako menedżerowie biznesowi pracowali w Schloss Hartheim:
 
 - Friedrich Vollmann, pierwszy dyrektor handlowy zamku Hartheim (do grudnia 1940)
 - Hans-Heinrich Lenz, jako następca firmy Vollmann, pozostawał do końca 1944 w Hartheim
-- Arthur Walther, dyrektor biznesowy. Prawdopodobnie był aktywny w tej funkcji od początku 1942 dokońca 1944 w Hartheim. Działalność tę przerwał  urlop (Urlaubsvertretung,) we wrześniu 1942 w jednym z obozów zagłady
+- Arthur Walther, dyrektor biznesowy. Prawdopodobnie był aktywny w tej funkcji od początku 1942 dokońca 1944 w Hartheim. Działalność tę przerwał urlop (Urlaubsvertretung,) we wrześniu 1942 w jednym z obozów zagłady
 
 Po zakończeniu akcji T4 nadal pozostało kilku pracowników biurowymi w zamku Hartheim. Niektórzy wrócili do centrali w Berlinie, inni znaleźli zatrudnienie w aparacie NSDAP lub w agencjach rządowych, takich jak Gauleitung (Gertraud Dirnberger), Gauschatzamt (Karoline Burner) lub Gaufürsorgeamt (Maria Hirsch). Jednak pracownicy ci nadal pozostawali na liście płac centrali T4, ponieważ istniała możliwość powrotu do poprednich działań, dlatego chciano zatrzymać sprawdzonych pracowników pozatym byli to posiadacze tajemnicy (niem. Geheimnisträger).
 
@@ -552,7 +634,7 @@ W sumie trzy procesy, dwa przeprowadzono w Austrii, a jeden w Niemczech, podjęt
 Ponieważ niektórzy sprawcy pełnili ważne role na okupowanych terytoriach na wschodzie po zakończeniu akcji T4 w ramach operacji Reinhardt i gdzie straty wielokrotnie przewyższały straty w Hartheim, niektórzy zostali popełnieni za te zbrodnie, podczas gdy ich Morderstwo w Hartheim pozostało bezkarne.
 
 Procesy przed Sądem Ludowym w Linz w 1947 i 1948
-Sądy ludowe utworzone po drugiej wojnie światowej w Austrii. 2 procesy w Linz 1947 i 1948  masowymi zbrodniami w trzech instytucjach.
+Sądy ludowe utworzone po drugiej wojnie światowej w Austrii. 2 procesy w Linz 1947 i 1948 masowymi zbrodniami w trzech instytucjach.
 
 Pierwsza rozprawa zakończyła się 26 listopada 1947 wyrokami skazującymi dwóch pielęgniarzy; odpowiednio na 3 i 2,5 roku za udział w zabójstwie i złym traktowaniu. Sześć pielęgniarzy, których działalność została uznana przez sąd za "nie wykraczające poza opbowiązki" (notdienstverpflichtet), zostali uniewinnieni.
 

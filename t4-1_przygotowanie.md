@@ -1,6 +1,7 @@
 - [Intro](#intro)
 - [Eugenika do 1938](#eugenika-do-1938)
 - [Przygotowanie propagandowe](#przygotowanie-propagandowe)
+- [Do zrobienia](#do-zrobienia)
 
 ## Intro
 
@@ -14,9 +15,15 @@ Na potrzeby Akcji T4 opracowano techniki i procedury masowego zabijania, po raz 
 
 Sama nazwa Akcji T4 powstała po wojnie. Pochodzi od adresu pożydowskiej willi w Berlinie, przy Tiergartenstraße 4, gdzie mieściły się biura kierownictwa Akcji. W hitlerowskiej nomenklaturze używano nazw Euthanasie (eutanazja) i Gnadentod (łaskawa śmierć). W użyciu były również Ballastexistenzen, desinfiziert, unnütze Esser.
 
+W zachowanych ówczesnych źródłach nie znaleziono terminu akcja T4. Używano terminu Aktion - albo skrótowo eutanazji (Eu-Aktion bzw. nur E-Aktion). W starożytnej Grecji starożytne greckie słowo εὐθανασία euthanasía (od εὖ eu "dobra, właściwa, łatwa, piękna" i deathνατος thanatos "śmierć") oznaczało "dobrą śmierć" bez wcześniejszej długiej choroby.
+
 Podlegali ludzie chory, wymagający pomocy: schizofrenia, niektóre postacie padaczki, otępienie, pląsawicę Huntingtona, stany po zapaleniu mózgowia, uznani za niepoczytalnych, przebywający w zakładach opiekuńczych ponad 5 lat, oraz ludzie z niektórymi wrodzonymi zaburzeniami rozwojowymi.
 
+Heil- und Pflegeanstalten (przed 1934 zwyczajowa nazwa: "Irrenanstalt“ zakład dla obłakanych)
+
 Dla uzasadnienia zbrodni podawano wiele powodów, przede wszystkim dobro zbiorowości: "higienę rasową", czyli eugenikę. Mówiono też o współczuciu, redukcji cierpienia i niebagatelnych oszczędnościach. Tak naprawdę tylko ten ostatni powód się liczył w państwie narodowo socjalistycznym. Nieoficjalna kontynuacja do końca 1941 doprowadziła do 91521 "opróżnionych łóżek"
+
+Cześć stopniowej realizacji głównych celów nazistowskiej ideologii, "Aufartung" lub "Aufnordung" narodu niemieckiego. Obejmowały one różne środki - od nieszkodliwych, takich jak pożyczki małżeńskie, alimenty, ulgi podatkowe, po przydzielanie osiedli osadniczych i Erbhöfen w celu promowania pożądanego rasowo licznego potomstwa. (Beeinträchtigung des deutschen Volkskörpers) miało zapobiegać prawnie regulowany zakaz reprodukcji osób z prawdziwą lub domniemaną dziedziczną chorobą oraz osób społecznie i rasowo niepożądanych. Środkiem do zakończenia tego było w ostatecznej formie unicestwienie "życia niegodnego życia". "Uzdrowienie lub anihilacja" (Heilen oder Vernichten) były uzupełniającymi się częściami ideologii narodowo-socjalistycznej. Za ustawodawstwo dotyczące tego celu odpowiadał minister spraw wewnętrznych Rzeszy Wilhelm Frick.
 
 ## Eugenika do 1938
 
@@ -26,9 +33,16 @@ Poparcie dla eugeniki w społeczeństwie niemieckim wzrosło w czasie Wielkiego 
 
 30 stycznia 1933 Adolf Hitler zostaje mianowany kanclerzem przez prezydenta. Powstaje rząd hitlerowski, który tak szybko jak to jest możliwe zmierza do dyktatury. Otwarcie mówią, że następne wybory przypadające na marzec będą ostatnie. W niecały miesiąc po utworzeniu rządu hitlerowskiego w wyniku podpalenia płonie Reichstag. Daje to hitlerowcom znakomity pretekst do wprowadzenia stanu wyjątkowego, oskarżają KPD o wywołanie pożaru i zamach stanu, to że oskarżeń nie da się dowieźć niczego nie zmienia. KPD zostaje zdelegalizowana, niezależna prasa zakneblowana. Działacze opozycji zatrzymani, zastraszani, terroryzowani.
 
-Przełomem dla dyktatury jest marzec. 5 marca wybory, 6 marca delegalizacja KPD. Już dwa tygodnie później powstają pierwsze obozy koncentracyjne. 21 marca powstaje duży - późniejszy modelowy - obóz koncentracyjny w Dachau. Dwa dni później z pomocą katolickiej Partii Centrum wprowadzono tzw. ustawę o pełnomocnictwach (niem. Ermächtigungsgesetz) - dawała ona niezależnej od sił parlamentarnych władzy wykonawczej nieograniczoną władze rządzenia za pomocą dekretów, ważnych nawet jeżeli są niezgodne z konstytucją. Od tej chwili nie sitnieją już żadne prawne ograniczenia dla tyranii.
+Przełomem dla dyktatury jest marzec. 5 marca wybory, 6 marca delegalizacja KPD. Już dwa tygodnie później powstają pierwsze obozy koncentracyjne. 21 marca powstaje duży - późniejszy modelowy - obóz koncentracyjny w Dachau. Dwa dni później z pomocą katolickiej Partii Centrum wprowadzono tzw. ustawę o pełnomocnictwach (niem. Ermächtigungsgesetz) - dawała ona niezależnej od sił parlamentarnych władzy wykonawczej nieograniczoną władze rządzenia za pomocą dekretów, ważnych nawet jeżeli są niezgodne z konstytucją. Od tej chwili nie istnieją już żadne prawne ograniczenia dla tyranii.
 
-Wkrótce potem przeprowadzają pierwszą operację eugeniczną. Kopiują rozwiązania amerykańskie, wzorcem staje się Kalifornia, w której przymusowa sterylizacja dokonywana jest na masową skalę od 1927. Już 14 lipca 1933 wprowadzono przymusową sterylizację osób upośledzonych i kalekich "Prawo o zapobieganiu rozprzestrzeniania się chorób dziedzicznych" (niem. Gesetz über die Verhütung erbkranken Nachwuchses). Na kilka sposobów przypomina później przeprowadzoną Akcję T4:
+Wkrótce potem przeprowadzają pierwszą operację eugeniczną. Kopiują rozwiązania amerykańskie, wzorcem staje się Kalifornia, w której przymusowa sterylizacja dokonywana jest na masową skalę od 1927. Akty prawne:
+
+- Rozwój zapoczątkowano ""Prawo o zapobieganiu rozprzestrzeniania się chorób dziedzicznych" ("Gesetz zur Verhütung erbkranken Nachwuchses“) z 14 lipca 1933 r. (RGB1 1933 I, 529), która przewidywała przymusową sterylizację osób z rzekomo dziedzicznymi chorobami. W sumie do 400 000 mężczyzn i kobiet zostało przymusowo wysterylizowanych, a ponad 6000 osób zmarło.
+- "Ustawa zmieniająca ustawę o zapobieganiu potomstwom chorym genetycznie" (Gesetz zur Änderung des Gesetzes zur Verhütung erbkranken Nachwuchses) z dnia 26 czerwca 1935 r. (RGB1. 1935 I, 773) zalegalizowała aborcję w przypadku zdiagnozowanej choroby dziedzicznej. Oprócz już istniejącego wskazania medycznego w 1938 r. Istniało wskazanie rasowe, aw 1943 r. Wskazanie etyczne.
+- Małżeństwo i stosunek pozamałżeński z ludźmi urodzonymi za granicą było zabronione przez "Ustawę o ochronie niemieckiej krwi i niemieckiego honoru" (Gesetz zum Schutz des deutschen Blutes und der deutschen Ehre) z dnia 15 września 1935 r. (RGBI 1935 I, 1146, również pod hasłem hańba rasowa (Rassenschande)).
+- W kolejnym kroku "Ustawa o ochronie zdrowia dziedzicznego narodu niemieckiego - ustawa o małżeństwie" (Gesetz zum Schutze der Erbgesundheit des deutschen Volkes – Ehegesundheitsgesetz) z 18 października 1935 r. (RGBl 1935 I, 1246) małżeństwo osób z chorobą dziedziczną lub niepełnosprawnością intelektualną ze zdrowymi i pełnosprawnymi osobami było zabronione.
+
+Na kilka sposobów przypomina później przeprowadzoną Akcję T4:
 
 - Podlegała pod MSW Wilhelma Fricka.
 - Sądy zdrowia dziedzicznego (niem. Erbgesundheitsgerichte) sprawdzały ośrodki opieki w poszukiwaniu osób do sterylizacji.
@@ -62,3 +76,17 @@ Ważniejsze filmy:
 - "Dziedzictwo ("Das Erbe", 1935)
 - "Ofiara przeszłości ("Opfer der Vergangenheit", 1937) miał huczną premierę w Berlinie i był pokazywany we wszystkich niemieckich kinach
 - "Oskarżam" ("Ich klage an", 1941) wg powieści Hellmutha Ungera, konsultanta dziecięcej części Akcji T4
+
+## Do zrobienia
+
+Centra zabijania na obszarach okupowanych
+Akcja Brandt
+Totungarzte
+Gaskammerbrief
+Oskarżam, film propagandowy za zabójstwa
+Dasein Ohne Leben, propagandowy film o zabójstwach (zaginiony dzisiaj, pokazany tylko wybranej grupie ludzi)
+Medycyna w narodowym socjalizmie
+Pielęgniarstwo podczas narodowego socjalizmu
+Lista lekarzy i uczestników NS przestępstw medycznych
+Lista obozów koncentracyjnych Rzeszy Niemieckiej: Lista obejmuje również akcję T4 i ilustruje kontekst czasowy "morderstw związanych z eutanazją", a następnie "eutanazji więźniów".
+Rotenburger Werke: W pracach Rotenburga w ramach misji wewnętrznej zginęło 547 kobiet i mężczyzn.

@@ -4,6 +4,14 @@
 
 ## Osądzenie sprawców
 
+Wczesne powojenne procesy przeciwko osobom odpowiedzialnym za instytucje nakazały tym, którzy nakazali lub spowodowali "morderstwa w eutanazji", karanie przez bezpośrednich sprawców, którzy następnie wykonali śmiertelne zastrzyki. Sąd uznał strategię obrony za niezgodną z prawem, że zabójstwo było oczywiście sprzeczne z prawem naturalnym. Nawet - rzekome lub udowodnione - uratowanie indywidualnych ofiar nie doprowadziło do uniewinnienia. Sądy zinterpretowały te akty jako morderstwo i wydały surowe wyroki, w tym wyroki śmierci.
+
+Od 1948/49 wyroki wykazują zmienioną interpretację prawną. Sprawcom przyznano "möglicherweise unvermeidbarer Verbotsirrtum". Jako "asystenci bez własnej woli" (Gehilfen ohne eigenen Willensentschluss“) oskarżeni otrzymali łagodniejsze kary. Podjęto już decyzję dotyczącą zabójstwa w kwaterze głównej T4, a jeśli poszczególne osoby zostały następnie zwrócone przez lekarza, mogłoby to doprowadzić do uniewinnienia. "Procesy eutanazji" z lat 50. często kończyły się drobnymi karami lub uniewinnieniami.
+
+W 1965 r. Fritz Bauer wszczął wstępne dochodzenie przeciwko szesnastu wysoko postawionym prawnikom, którzy spotkali się 23/24 kwietnia 1941 uczestniczył w spotkaniu w Berlinie. Tam oficjalnie dowiedzieli się o zabijaniu chorych psychicznie, a następnie bez sprzeciwu zastosowali się do nakazu poddania zarzutów karnych nieprzetworzonemu Ministerstwu Sprawiedliwości Rzeszy. Wstępne dochodzenia zostały zakończone w 1970
+
+Wiele procesów odbyło się pod koniec lat 70. i 80. XX wieku. Niektóre z nich zostały przywrócone z powodu niezdolności do negocjacji (np. Przeciwko Schumannowi, Bunke, Renno, Endruweit) lub sprawcy otrzymali tylko małe kary więzienia (np. Ullrich), zostali uniewinnieni (np. Borm) lub ułaskawieni po krótkim aresztowaniu (np. Gorgaß). Inni, tacy jak Eberl lub Lonauer, uciekli przed samobójstwem. Spośród 438 spraw karnych dotyczących "eutanazji" wszczętych do 1999 r. Tylko 6,8% zakończyło się wydaniem prawomocnych wyroków, w tym licznych uniewinnień
+
 W Akcję T4 było zaangażowanych wielu lekarzy (głównie psychiatrów, neurologów i pediatrów), m.in. (alfabetycznie): dr Ernst Buchalik, prof. Werner Catel, prof. Max de Crinis, dr Irmfried Eberl, Helmuth Ehrhardt, dr Valentin Faltlhauser, dr Elisabeth Hecker, prof. dr Werner Heyde, dr Herbert Linden, dr Josef Mengele, dr Friedrich Mauz, Theo Niebel, prof. Paul Nitsche, dr Friedrich Panse, dr Hermann Pfannmüller, prof. Ernst Rüdin, dr Carl Schneider, Weinier Sengenhof, dr Carl Hans Heinze Sennhenn, Hellmuth Unger, prof. Otmar Freiherr von Verschuer, prof. Werner Villinger, Erhard Wetzel.
 
 Po II wojnie światowej, przed Międzynarodowym Trybunałem Wojskowym w Norymberdze toczył się osobny proces lekarzy w wyodrębnionym procesie towarzyszącym przed Amerykańskim Trybunałem Wojskowym Nr 1 w Norymberdze. Wśród 27 sądzonych lekarzy niemieckich 7 zostało skazanych na śmierć przez powieszenie, 5 na karę dożywocia, 2 na 20 lat więzienia, jeden na 15 lat więzienia oraz jeden na 10 lat. Pozostałych lekarzy uniewinniono.
@@ -54,6 +62,42 @@ W 1946 odtworzone niemieeckie sądy osądziły personel Hadamar za zabicie prawi
 - Pomnik w Berlinie w 2014 ustawiono w Berlinie pomnik t4 w miejscu willi
 - Gedenkstatte Hadamar
 - Sonnenstein
+
+Stowarzyszenie ofiar "eutanazji" i przymusowych sterylizatorów założone przez Klarę Nowak rozpoczęło w 1987 r. Rehabilitację i rekompensatę dla ofiar i ich krewnych.
+
+Centralne centrum pamięci i informacji przy Tiergartenstraße 4 w Berlinie
+
+Richard Serra: Berlin Curves / Berlin Junction, Steel, 1986
+
+W historycznej lokalizacji Tiergartenstraße 4 w Berlin-Mitte zbudowano narodowe centrum pamięci i informacji dla ofiar morderstw narodowej socjalizmu "eutanazji". Z budynku pod tym adresem siedziba biura pod kryptonimem "T4" organizowała systematyczne morderstwa pacjentów z domów opieki i opieki w Rzeszy Niemieckiej. Pomnik został otwarty 2 września 2014.
+
+Od lat 80. XX wieku w tej lokalizacji powstało kilka pamiątkowych form i działań. Tak więc stalowa rzeźba Richarda Serry została przeprojektowana w 1988 r. Na pomnik ofiar, obok płyty pamiątkowej została osadzona w ziemi. Po latach krytyki braku widoczności miejsca pamięci niemiecki Bundestag postanowił w 2011 zmodernizować istniejący pomnik dla ofiar morderstw i odpowiednio docenić historyczne miejsce planowania i organizacji "Aktion T 4", narodowego skrzydła socjalistycznego Tiergartenstraße 4 w Berlinie.
+
+W Salzburgu (pomnik 1991); W 2014 r. Dodano 325 nazwisk ofiar
+Dalsze pomniki po 1990 roku
+Po 1990 r. Wzniesiono pomniki, które skierowane są w szczególności do lekarzy i badaczy: pomnik związany z zbrodniami narodowej socjalizmu w eutanazji w Monachium, Berlinie i Salzburgu.
+
+Na stałe umieszczona forma z mobilnego autobusu przed domem wiejskim LVR w Kolonii-Deutz.
+Od początku 2007 r. Pod patronatem Fundacji Topografia Terroru i Pomnika Pomordowanych Żydów Europy odbywa się okrągły stół, w którym biorą udział zainteresowane strony, zaangażowani obywatele, przedstawiciele różnych instytucji i właściwe organy. Grupa postawiła sobie za cel zwrócenie uwagi na obecną chorobę i promowanie dyskusji na temat odpowiedniego, godnego przeprojektowania miejsca pamięci w kontekście rozwoju urbanistycznego Kulturforum. Pierwszym rezultatem pracy była tymczasowa instalacja "Memoriał Szarych Autobusów" 18 stycznia 2008 przed Filharmonią. Pomnik ten został rozebrany 17 stycznia 2009 i został przeniesiony do różnych miast, dlatego pamięć o zabójstwie osób chorych i niepełnosprawnych w III Rzeszy również pozostaje w ruchu.
+
+Miejsca pamięci w byłych ośrodkach zabijania i klinikach psychiatrycznych
+W dawnych ośrodkach zabijania, ale także w wielu klinikach psychiatrycznych, z których wysyłano pacjentów na zabójstwa, znajdują się miejsca pamięci i wystawy częściowe lub edukacyjne z przetwarzaniem edukacyjno-dikatischer, w tym w historycznych miejscach sześciu zabójstw "eutanazji" Hadamar w Hesji, Brandenburgii nad rzeką Havel w Brandenburgii, Bernburgu w Saksonii-Anhalt, Grafeneck w Badenii-Wirtembergii, Pirna w Saksonii i Hartheim w Austrii oraz w opactwie Irsee w Bawarii. W byłej Królewskiej Saksońskiej Instytucie Uzdrowienia i Pielęgniarstwa Großschweidnitz (od 1902 r.) Od 1939/40 r. Do tysięcy morderstw deportowanych osób (nazistowskie morderstwa pacjentów, Action Brandt, początkowo jako instytucja pośrednia dla Pirny).
+
+Kaplica Treise na miejscu kliniki Warstein została rozbudowana w 1985 r. Do Miejsca Pamięci Ofiar Eutanazji, aw 2012 r. - z nazwiskami miejscowych ofiar
+Niemieckie Towarzystwo Psychiatrii
+26 listopada 2010 r. Na kongresie DGPPN odbyło się wydarzenie zatytułowane "Psychiatria w ramach narodowego socjalizmu - pamięć i odpowiedzialność". Frank Schneider wyraził się jako Prezydent Towarzystwa w sprawie odpowiedzialności poprzednich firm DGPPN w okresie nazistowskim:
+
+"W imieniu Niemieckiego Towarzystwa Psychiatrii, Psychoterapii i Neurologii proszę was, ofiary i ich krewnych, o współczucie dla cierpienia i niesprawiedliwości wyrządzonej im w czasach narodowego socjalizmu w imieniu niemieckiej psychiatrii i niemieckich psychiatrów oraz za zbyt długie milczenie, banalizację i tłumienie niemieckiej psychiatrii po jej zakończeniu. "
+
+Dalsze badania
+
+Pomnik na cmentarzu w Hadamar Memorial
+W 1948 r. Alice Ricciardi (z domu von Platen-Hallermund) opublikowała swój raport na temat częściowych wyników procesu norymberskiego: Zabijanie osób chorych psychicznie w Niemczech.
+
+W latach 70. Ernst Klee intensywnie badał akcję T4 jako osoba prywatna, jego prace upubliczniły rozprzestrzenianie się tych masowych morderstw i doprowadziły w drugiej fazie badań w latach 80. i 90. do różnych lokalnych inicjatyw. Po 1990 r. W aktach byłej MfS NRD znaleziono około 30 000 akt medycznych działu T4. Doprowadziło to do nowych impulsów do systematycznej oceny przeprowadzonej przez Deutsche Forschungsgemeinschaft, ponieważ po raz pierwszy uzyskano szeroki zakres informacji na temat ofiar.
+
+wystawy
+Wystawa Schwytanie, prześladowania, anihilaci: chorzy i niepełnosprawni w narodowym socjalizmie odbyła się w 2014 roku w niemieckim Bundestagu pod patronatem Prezydenta Federalnego Joachima Gaucka jako podróżna wystawa Niemieckiego Towarzystwa Psychiatrii i Psychoterapii, Psychosomatyki i Neurologii (DGPPN) we współpracy z Fundacją Pamięci zamordował Żydów w Europie i Fundację Topografia Terroru, która od tego czasu jest postrzegana w kraju i za granicą w wielu miejscach.
 
 ## Akcja T4 w mediach
 

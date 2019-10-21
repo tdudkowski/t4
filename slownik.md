@@ -11,6 +11,20 @@
 - Neue Ordnung nowy porządek
 - vernichtung durch Arbeit wyniszczenie przez pracę
 - Geheimnisträger znający tajemnice państwowe
+- Machtergreifung przejęcie władzy
+- Lügenpresse kłamliwa prasa
+- Entartete Kunst sztuka zdegenerowana
+- eiserner Vorhang żelazna kurtyna
+- Rassenschande hańba rasowa, związek zakazany
+
+## Wydarzenia
+
+- Nacht der langen Messer noc długich noży
+- Kristalnacht noc kryształowa
+- Hitlerputsch pucz monachijski
+- Reichstagsbrand pożar Reichstagu
+- Ermächtigungsgesetz ustawa o pełnmocnictwach
+- Nürnberger Gesetze ustawy norymberskie
 
 ## SS
 
