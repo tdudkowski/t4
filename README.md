@@ -1,7 +1,7 @@
 # Akcja T4
 
 Teksty opracowane na stronę o Akcji T4 i eugenicznych aspektach polityki hitlerowskiej. Planowany layout: [CRW Copycat](https://tdudkowski.github.io/Layouts/Layout05/)\
-Do końca października planuję zakończyć pracę nad tekstem podstawowym strony (nazwijmy to wersją 1.0). Zastrzegam się, że z powodu objętości materiału są tu nie tylko literówki i błędy stylistyczne do poprawienia. W tej chwili to ciągle jest brudnopis.
+Do końca października planuję zakończyć pracę nad tekstem podstawowym strony (nazwijmy to wersją 1.0). Listopad to opracowanie wersji finalnej. Zastrzegam się, że z powodu objętości materiału są tu nie tylko literówki i błędy stylistyczne do poprawienia. W tej chwili to ciągle jest brudnopis.
 
 Pliki:
 
@@ -35,6 +35,12 @@ W zakresie tekstu głównego na ver 1.0:
 
 - zasadniczo tekst jest zrobiony, teraz trzeba go poprawić, poprawić i poprawić. Także faktograficznie, stąd prośba o pomoc.
 - uzupełnić biogramy (~10 eugenika, ~20 T4)
+
+## Roadmap aka harmonogram
+
+- do końca października zakończyć dodawanie tekstu
+- listopad odgałęzienie finalnego tekstu i opracowanie go
+- grudzień: strona
 
 ## Odnośniki:
 

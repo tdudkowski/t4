@@ -16,6 +16,7 @@
 - Entartete Kunst sztuka zdegenerowana
 - eiserner Vorhang żelazna kurtyna
 - Rassenschande hańba rasowa, związek zakazany
+- Blutfahne krwawy sztandar
 
 ## Wydarzenia
 

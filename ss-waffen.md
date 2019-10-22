@@ -1,5 +1,7 @@
 # SS-VT (Waffen SS)
+
 - [SS-VT (Waffen SS)](#ss-vt-waffen-ss)
+  - [Początek](#początek)
   - [Wojna z Polską](#wojna-z-polską)
   - [Wojna z Francją](#wojna-z-francją)
   - [wojna na Bałkanach](#wojna-na-bałkanach)
@@ -10,6 +12,7 @@
   - [Jednostki](#jednostki)
     - [Kawaleria SS](#kawaleria-ss)
     - [Zagraniczne legiony i ochotnicy](#zagraniczne-legiony-i-ochotnicy)
+  - [Podsumowanie](#podsumowanie)
 
 W pionie wojskowym dość szybko, w trakcie wojny wprowadzono zaciąg cudzoziemski, początkowo tylko wśród narodów germańskich i romańskich, potem także wśród Słowian. Na samym początku wojny, np podczas wojny z Polską oddziały SS były gorsze od Wehrmachtu, dopiero z czasem zdobyły sobie opinię elitarnych. Od samego początku były odpowiedzialne za szereg zbrodni wojennych.
 
@@ -17,15 +20,25 @@ W 1943 powstała pierwsza dywizja pancerna SS - 1. SS-Panzer-Division Leibstanda
 
 Jednostki SS były zróżnicowane istniały także oddziały składające się z kryminalistów, np. brygada pod dowództwem oberführera Oskara Dirlewangera, czy Brygada Kamińskiego, powieszonego przez Niemców za kradzieże i samowolę.
 
+## Początek
+
+12 marca 1938 oddziały SS-Verfügungstruppe wzięły udział w przygotowaniach do ataku na Austrię. W Wiedniu powstał SS-Standard Der Führer.
+
+W październiku 1938 SS-Verfügungstruppe wzięło również udział w okupacji Sudetów, które Czechosłowacja musiała oddać Rzeszy Niemieckiej po zawarciu porozumienia monachijskiego pod koniec września.
+
+W marcu 1939 tzw "reszta Czechosłowacji" zostałą zajęta, powstał protektorat Czech i Moraw. Szef Głównego Biura Bezpieczeństwa Rzeszy Reinhard Heydrich został później zastępcą Reichsprotektora na okupowanym terytorium. W 1942 padł ofiarą zamachu, w akcie zesty dokonano zbrodni w Lidicach.
+
 ## Wojna z Polską
 
 Z wybuchem wojny SS zostało zorganizowane w ostateczną formę, składającą się z trzech głównych organizacji:
 
-* Allgemeine SS - gółwne rezerwy kadrowe, cywilna i policyjna część SS
-* SS-Totenkopfverbände - służba strażnicza w obozach koncengtracyjnych i zagłady
-* Waffen-SS - powstaly w 1934 jako SS-Verfügungstruppe (SS-VT) nazwę zmieniono w 1940; sformowało drugą niemiecką armię działająca pod komendą Wehrmachtu, nigdy nie dostali samodzielności komendy, SS-mani nigdy nie dostali się do Oberkommando i oddziały SS były zależne od armii w kwestii wyposażenia. Rózniły je od Wehrmachtu dwie zasadnicze rzeczy: SS była formacją ideologiczną o wysokim stopniu indoktrynacji, było to też wojsko ochotnicze, dlatego znalazło się tam miejsce dla cudzoziemskich ochotników. Hierarchia stopni wojskowych byłą równoległa, nie skopiowali systemu Wehrmachtu, dla podkreślenie odrębności od Wehrmachtu używali stopni pryzjętych we Feeikorpsach i SA.
+- Allgemeine SS - gółwne rezerwy kadrowe, cywilna i policyjna część SS
+- SS-Totenkopfverbände - służba strażnicza w obozach koncengtracyjnych i zagłady
+- Waffen-SS - powstaly w 1934 jako SS-Verfügungstruppe (SS-VT) nazwę zmieniono w 1940; sformowało drugą niemiecką armię działająca pod komendą Wehrmachtu, nigdy nie dostali samodzielności komendy, SS-mani nigdy nie dostali się do Oberkommando i oddziały SS były zależne od armii w kwestii wyposażenia. Rózniły je od Wehrmachtu dwie zasadnicze rzeczy: SS była formacją ideologiczną o wysokim stopniu indoktrynacji, było to też wojsko ochotnicze, dlatego znalazło się tam miejsce dla cudzoziemskich ochotników. Hierarchia stopni wojskowych byłą równoległa, nie skopiowali systemu Wehrmachtu, dla podkreślenie odrębności od Wehrmachtu używali stopni pryzjętych we Feeikorpsach i SA.
 
 Podczas inwazji na Polskę LSSAH i SS-VT były oddzielnymi pułkami piechoty. LSSAH było znane z brutalności i podpalania wiosek bez żadnego wojskowego uzasadnienia. Popełnili wiele zbrodni przeciwko ludzkości. Np. zabili 50 Żydów w Błoniach, w Złoczewie zabili bronią maszynową 200 cywilów w tym dzieci. Cywilów zabili także w: Bolesławcu, Torzeńcu, Goworowie, Mławie i Włocławku.
+
+Pierwsza misja bojowa SS miała miejsce podczas ataku na Polskę. Wehrmacht obawiał się rosnącej konkurencji ze strony SS-Verfügungstruppe, ale nie mógł zapobiec połączeniu dawnych pułków Germania, Führer, Totenkopf i Leibstandarte SS Adolf Hitler w dywizję SS. Walczące jednostki SS tej dywizji SS-VT nadal podlegały naczelnemu dowództwu Wehrmachtu i były teraz rozdzielane między różne jednostki wojskowe.
 
 Wg niektórych oficerów Wehrmachtu SS nie nadawało się do walki, niepotrzebnie ryzykowali i czasem ponosili poważne straty. Generaloberst Fedor von Bock jeszcze w kwietniu 1940 po wizytacji jednotki uważał, że dywizja SS-Totenkopf jest niewystarczająco przygotowana do walki, Hitler uznał to za typowy dla armii krytycyzm, SS wg niego wykradczało poza jak to określał przestarzałą koncepcję rycerskości. SS broniono również mówiąc, że walczyli w rozdrobnieniu i byli niedostatecznie wyposażeni przez armię.
 
@@ -36,6 +49,8 @@ Służby SS: Gestapo i SD miały pełną kontrolę nad okupowanymi terenemi do 
 Zadowolony z działań w Polsce Hitler dał zielone swiatło tworzeniu kolejnych formacji wojskowych SS, ale nakazął by działały pod ścisłą kontrolą Wehrmachtu. SS-Leibstandarte pozostało oddzielnym pułkiem ochrony Hitlera; pozostałe pułki: SS-Deutschland, SS-Germania i SS-Der Führer połączono w dywizję SS-Verfügungs-Division. Kolejna: SS-Totenkopf powstala z SS-TV czyli strażników obozów koncentracyjnych. Trzecia: SS-Polizei z ochotnikow z policji. SS miało kontrolę nad rekrutacją, logistyką i systemem zopatrzenia własnych oddziałów.
 
 ## Wojna z Francją
+
+Atakując na Francję, obecnie Waffen-SS miał już trzy dywizje (Das Reich, Totenkopf i Dywizja Policji SS) i zmotoryzowany Pułk LAH. Dywizje SS poniosły częściowo ciężkie straty na froncie. Były często używane w najbardziej niebezpiecznych miejscach, bardzo zmotywowane, z wyposażeniem zwykle przewyższającym siły Wehrmachtu. Podobnie jak w Polsce, liczne zbrodnie wojenne były popełniane przez stowarzyszenia SS podczas kampanii we Francji. Udokumentowano masakry setek żołnierzy i dużej liczby jeńców wojennych, a także "środki odwetowe" w walce z ruchem oporu. 10 czerwca 1944 krótko po lądowaniu aliantów w Normandii członkowie dywizji SS "Imperium" w Limoges dokonali masakry w Oradour, zanim sami zginęli w północnej Francji.
 
 Francję Niemcy zaatakowali 10 maja 1940. Z 89 dywizji 2 były SS.
 
@@ -75,6 +90,8 @@ Greccy Żydzi z0stali zamknięci w gettach i w większości wysłani do Auschwit
 Podczas walk na froncie wschodnim w latach 1941-42 Waffen SS poniosły poważne straty. LSSAH i Das Reich miały ponad połowę rannych i zabitych. Himmler zgodził się, że potrzeba rekruta wymagała przyjmowania do SS ludzi nie spełniających wymagań rasowych. Na początku 1942 SS-Leibstandarte, SS-Totenkopf i SS-Das Reich zostały wycofane na zachód w celu uzupełnień i zostały przeformowane na dywizje grenadierów pancernych.
 
 Korpus Pancerny SS powrócił na front w 1943 i w lutym i marcu wziął udział w trzeciej bitewie o Charków.
+
+W wojnie niemiecko-radzieckiej SS uczestniczyło w walkach na Wschodzie, takich jak dywizja Totenkopfision w przegranej bitwie o Demjańsk i jednostek pancernych w bitwie Orel-Kursk operacja Cytadela.
 
 ## Po Stalingradzie
 
@@ -132,3 +149,9 @@ Trwajaca rok okupacja krajow bałtyjskich spowodowała napływ ochotników do ł
 Legion Indyjski - oddział Wehrmachtu utworzony w sierpniu 1942 głównie z żołnierzy British Indian Army schwytanych do niewoli w płn Afryce. W sierpniu 1944 zostali oddani pod komendę Waffen SS jako Indische Freiwilligen-Legion der Waffen-SS.
 
 Francuska dywizja SS-Charlemagne, sformowana w 1944 głównie z pozostałości Legionu Francuskich Ochotników i Francuskiej Sturmbrigade.
+
+## Podsumowanie
+
+Wartość bojowa Waffen-SS nie jest jednolita. Podczas gdy dowódcy Wehrmachtu podczas kampanii we Francji nie byli zachwyceni swoimi jednostkami, ponieważ brak szkolenia i odważne walki doprowadziły do ​​ciężkich strat, później okazały się lepsze, ale nie jednolite. Elitarne związki i źle formowane oddziały. Waffen-SS był bardziej ideologizowany niż Wehrmacht, został poinstruowany przez biuro szkoleniowe SS. Nie bez znaczenia była także rola SS, ale także udział SS w zbrodni - ich żołnierze wiedzieli, że w zniewoleniu wojennym musieli się spodziewać zemst.
+
+Od 1943 poborowych Niemców i ludzi z północno-zachodniej Europy wcielono do dywizji SS-VT, aby walczyć u boku żołnierzy Wehrmachtu na froncie, a później jednostek SS z innych krajów, np. Albania. W rezultacie około połowa z około 900 tys żołnierzy Waffen SS nie przybyła z terytorium Rzeszy: "SS Waffen stali w całkowitej sprzeczności z własną ideologią armii wieloetnicznej". Jednak nie-niemieckie jednostki SS miały mieszaną wartość, np albańska dywizja SS "Skanderbeg" rozpadła się przed pierwszą misją bojową, podczas gdy członkowie dywizji SS Charlemagne 1945 byli jednymi z ostatnich obrońców Berlina.
