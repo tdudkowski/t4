@@ -1,12 +1,10 @@
 # Eugenika
+
 - [Eugenika](#eugenika)
   - [Co to jest eugenika?](#co-to-jest-eugenika)
   - [Starożytność](#starożytność)
   - [Galton](#galton)
-  - [UK](#uk)
-  - [Szwecja](#szwecja)
-  - [Polska](#polska)
-  - [Japonia](#japonia)
+  - [Historia eugeniki](#historia-eugeniki)
   - [TODO](#todo)
 
 ## Co to jest eugenika?
@@ -33,7 +31,9 @@ Co interesujące oba powyższe przykłady: zarówno państwo spartańskie jak i 
 
 Twórcą nowożytnej idei eugeniki był Francis Galton (1822-1911) angielski naukowiec epoki wiktoriańskiej. To on wprowadził w użycie słowo eugenika, które po raz pierwszy pojawiło się w wydanej w 1883 "Inquiries into Human Faculty and Its Development". On też podzielił eugenikę na negatywną i pozytywną. Zadaniem pozytywnej eugeniki była promocja zachowań prozdrowotnych, edukacja seksualna, zwalczanie alkoholizmu i patologii społecznych a także świadome rodzicielstwo. Tym co wzbudza kontrowersje i jest tematem tej strony jest eugenika negatywna, która za cel stawia sobie zmniejszenie udziału w populacji lub nawet wyeliminowanie "złych genów", a więc w sposób nieunikniony również i "złych ludzi". Jakkolwiek nie opakować tej idei, przyciąga ona rasistów i suprematystów.
 
-Warto uświadomić sobie kontekst tamtych czasów. Po pierwsze: rasizm był normą, powszechne było wówczas wartościowanie ludzi, narodów i populacji, zarówno według cech morfologicznych (rasowych) jak i  pochodzenia społecznego. Świat, przynajmniej w Europie i USA, był o wiele bardziej brutalny i mniej egalitarny. Nie tylko zwyczajowe spojrzenie na ludzkość było bardziej rasistowskie, także podglądy wprost rasistowskie były o wiele bardziej społecznie akceptowalne.
+## Historia eugeniki
+
+Warto uświadomić sobie kontekst tamtych czasów. Po pierwsze: rasizm był normą, powszechne było wówczas wartościowanie ludzi, narodów i populacji, zarówno według cech morfologicznych (rasowych) jak i pochodzenia społecznego. Świat, przynajmniej w Europie i USA, był o wiele bardziej brutalny i mniej egalitarny. Nie tylko zwyczajowe spojrzenie na ludzkość było bardziej rasistowskie, także podglądy wprost rasistowskie były o wiele bardziej społecznie akceptowalne.
 
 Ponadto koniec XIX wieku i początek XX to czas ogromnych kontrastów społecznych: slumsy, tysiące dzieci żyjących na ulicy, przepełnione i pozbawione urządzeń sanitarnych kwartały kamienic, niewyobrażalna bieda i patologia społeczna. Życie dużej części społeczeństwa Europy i USA przebiegało w warunkach, które dzisiaj byśmy określili jako niewyobrażalne i skandaliczne. Pamiętajmy, że aż do połowy XX wieku gruźlica i choroby weneryczne były nieuleczalne. Można było zobaczyć te warunki jako problem i tak powstała idea nowoczesnej urbanistyki, miast ogrodów, modernistycznej architektury. Można też było widzieć problem w ludziach i szukać sposobów na izolację części populacji uznanej za chorą. To drugie podejście stworzyło ideologiczną i psychologiczną podstawę do zbrodni Akcji T4 i Holokaustu.
 
@@ -50,46 +50,6 @@ Słowa te były odpowiedzią na masowo wówczas przeprowadzaną w USA przymusow�
 1932 22-23 sierpnia odbył się Third International Eugenics Congress. Dotychczasowy dorobek eugeniki podsumowany został w "A Decade of Progress in Eugenics". Powstaje International Federation of Eugenics Organizations. Zdecydowano również o organizacji czwartego kongresu, ale nigdy się nie odbył. Wkrótce potem następuje koniec zorganizowanego, międzynarodowego ruchu eugenicznego. IFEO zorganizowało dwie mniejsze imprezy, pierwszą w Zurychu w 1934 i drugą w Hadze w 1936. W tym czasie prezesem IFEO był Torsten Sjögren powiązany z nazistami, budziło to coraz większe kontrowersje, towarzystwo brytyjskie rozważało wycofanie się z Federacji i z powodu braku porozumienia Federacja przestała istnieć wkrótce potem.
 
 Lata 30. to czas radykalizacji eugeniki i nasilenia się rasistowskiej dogmatyki, zarówno w hitlerowskich Niemczech jak i w USA.
-
-## UK
-
-W 1907 powstaje jedna  z pierwszych na świecie organizacji eugenicznych, brytyjskie Eugenics Education Society z siedzibą w Londynie. Jej zadaniem była promocja eugeniki i rozwój badań w tej dziedzinie. W 1926 zmienia nazwę na Eugenics Society (czasem dla odróżnienia od innych organizacji eugenicznych British Eugenics Society). Największą popularność zyskali w latach 30. W latach 1909-1968 publikowali The Eugenics Review. W 1989 zmienili nazwę na Galton Institute.
-
-Dla uczczenia pierwszej rocznicy śmierci Galtona zorganizowali First International Eugenics Congress. Odbył się 24–29 lipca 1912. Udział wzięło 400 gości, w tym szczególnie liczna reprezentacją z USA. Następny miał się odbyć za trzy lata w Nowym Jorku.
-
-Z opóźnieniem wynikającym z wojny, udało się go zorganizować dopiero 25-27 września 1921 i jest wielkim sukcesem. Dzięki niemu powstaje American Eugenics Society.
-
-## Szwecja
-
-W maju 1921 Riksdag pod wpływem rasistowskich teorii nordyzmu przyjął ustawę o powołaniu Państwowego Instytutu Higieny Rasy (Statens institut för rasbiologi) w Uppsali, kierowanego kolejno przez Hermana Lundborga i Gunnara Dahlberga.
-
-W latach 1934–1975 wysterylizowano ponad 60 tys. osób "nieprzydatnych" lub "niedostosowanych społecznie". Połowę z tego przymusowo. W 1997 powstała komisja, która w 1999 zdecydowała o przyznaniu odszkodowań.
-
-## Polska
-
-1922 powstaje Polskie Towarzystwo Eugeniczne. W latach 30. liczyło ok. 10 tys. członków, m.in. lekarzy i naukowców. Jego twórcą był Leon Wernic – lekarz i działacz społeczny, inicjator powołania Ministerstwa Zdrowia Publicznego. Współtwórcą oraz prezesem Towarzystwa Eugenicznego był Leon Drożyński. Innymi osobami, które należąc do ruchu eugenicznego pełnili funkcje państwowe, byli: Witold Chodźko, Tomasz Janiszewski, Stefan Kramsztyk, Edward Loth.  W latach 1934-1938 Towarzystwo usiłowało przeforsować ustawy wprowadzające przymusową sterylizację, m.in. alkoholików i epileptyków.
-
-Związany ze Stronnictwem Narodowym profesor Karol Stojanowski, antropolog. Opublikował w 1927 "Rasowe podstawy eugeniki". Nie należał do PTE, ale jego zaangażowanie i książkę pochwalił w 1929 Wiernic. Stojanowski był zdeklarowanym antysemitą:
-
-> "Jest bowiem ta sprawa centralnym zagadnieniem polskiego życia, decydującym wprost o dalszych naszych możliwościach utrzymania się nie tylko jako państwo, ale też jako naród. […] Na czoło kwestii żydowskiej w Polsce wysuwa się fakt największego zażydzenia naszego kraju w całym świecie";
-> "kwestia żydowska w Polsce należy do centralnych zagadnień eugeniki polskiej";
-> "asymilacja Żydów jest ze względów eugenicznych niepożądaną. Muszą oni bądź to wyemigrować, bądź to ograniczywszy swój przyrost naturalny, po prostu wymrzeć".
-
-W 1947 reaktywowano Polskie Towarzystwo Eugeniczne. Włączono je do PAN, więc nie mogło prowadzić samodzielnej działalności. Rozwiązano w 1952, m.in. z powodu sprzeczności z założeniami łysenkizmu.
-
-## Japonia
-
-Yamanouchi Shige (1876–1973), cytolog japoński sprowadził idee eugeniki z USA.
-
-Prawa o zapobieganiu trądowi z 1907, 1931 oraz 1953 roku pozwalały na segregację pacjentów w sanatoriach (gdzie częste były przymusowe aborcje i sterylizacje) oraz karanie pacjentów „naruszających porządek”.
-
-Ikeda Shigenori dziennikarz wysłany do Niemiec w 1926 stworzył czasopismo "Ruch eugeniczny" (Yūsei-undō). Od 1928 promował 21 grudnia jako "dzień czystości krwi". W latach 30. popularne w japońskich pismach były kwestionariusze "małżeństw eugenicznych", które zawierając zarówno kwestie zdrowotne jak i społeczne określały potencjalną zgodność partnerów. Wprowadziły pojęcia eugeniki do dyskusji społecznej.
-
-1934-1938 prace nad Ustawą o eugenicznej ochronie rasy. Po dołączeniu do projektu czterech poprawek, ogłoszono go w 1940 roku jako "Prawo eugeniczne". Według Yoko Matsubary, naukowca z Ritsumeikan University, w latach 1940-1945 na podstawie tego prawa sterylizacji poddano 454 osoby.
-
-Na podstawie "Prawa o ochronie eugenicznej" z 1948 roku przymusowej sterylizacji mogli być poddani przestępcy z "genetycznymi predyspozycjami do popełniania przestępstw", chorzy na takie choroby genetyczne jak hemofilia, albinizm czy ichtioza oraz od 1952 zaburzenia psychiczne: schizofrenię, zaburzenia afektywno dwubiegunowe.
-
-Dopiero w 1996 zniesiono wszystkie przepisy eugeniczne, przede wszystkim te pozwalające na przymusową lub wymuszoną sterylizację. Od 2019 ofiarom przyznano odszkodowanie.
 
 ## TODO
 
