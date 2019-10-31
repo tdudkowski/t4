@@ -17,6 +17,7 @@
       - [T4 artykuły](#t4-artykuły)
     - [Inne](#inne)
     - [Artykuły](#artykuły)
+    - [Inne](#inne-1)
 
 ## Książki
 
@@ -173,4 +174,10 @@ Linki do filmów na YT są opisane nawiasami kwadratowymi: [YT "Tytuł filmu" [c
 <li>Welt: <a href="https://www.welt.de/geschichte/article193263635/Landtagswahlen-1929-In-Sachsen-begann-der-Siegeszug-der-NSDAP.html">"In Sachsen begann der Siegeszug der NSDAP"</a></li>
 <li>Zeit: <a href="https://www.zeit.de/wissen/geschichte/2018-07/ns-geschichte-mutter-kind-beziehung-kindererziehung-nazizeit-adolf-hitler">"Warum Hitler bis heute die Erziehung von Kindern beeinflusst"</a></li>
 <li>SD: <a href="https://www.sueddeutsche.de/politik/hohenzollern-entschaedigung-geschichte-nationalsozialismus-kolumne-1.4565010">"Die Hohenzollern deuten ihre Geschichte brachial um"</a></li>
+</ul>
+
+### Inne
+
+<ul>
+  <li><a href="https://www.spiegel.de/geschichte/romeo-spione-in-der-ddr-todesstrafe-fuer-gaensebluemchen-a-1292753.html">Casanova-Spione in der DDR - Todesstrafe für Gänseblümchen</a> | <a href="https://www.spiegel.de/geschichte/willy-brandt-lichtgestalt-mit-dunklen-seiten-a-1292313.html">Bundeskanzler Brandt - Mehr Willy wagen - der Übervater der Sozialdemokraten</a></li>
 </ul>
