@@ -20,7 +20,7 @@ Tu będzie samo tylko kalendarium, tu będe dodawał kolejne wydarzenia.
 
 ## 1920
 
-24 luty Nationalsozialistische Deutsche Arbeiterpartei;  25-Punkte-Programm\
+24 luty Nationalsozialistische Deutsche Arbeiterpartei; 25-Punkte-Programm\
 13-18 marca Pucz Kappa-Lutwitza\
 25 grudnia nabycie Völkischer Beobachter
 
@@ -138,6 +138,7 @@ lipiec założenie Sachsenhausen\
 
 20 lutego Konferencja w Wannsee\
 27 maja Reinhard Heydrich zamach w Praga Libeň\
+3 października pierwsza udana próba V2 na Peenemünde, rakieta wzniosła się na 84,5 km\
 23 października - 11 listopada druga bitwa pod El-Alamein
 
 ## 1943
@@ -145,6 +146,8 @@ lipiec założenie Sachsenhausen\
 2 lutego koniec bitwy o Stalingrad\
 kwiecień obóz jeniecki Stalag XI-B do D Bergen-Belsen przekształcony w obóz koncentracyjny\
 5 lipca - 23 sierpnia bitwa na łuku kurskim\
+17/18 sierpnia nocne bombardowanie Peenemünde, Operation Hydra\
+3-4 listopada Aktion Erntefest\
 28 listopada - 1 grudnia Teheran
 
 ## 1944

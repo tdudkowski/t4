@@ -119,6 +119,7 @@ Linki do filmów na YT są opisane nawiasami kwadratowymi: [YT "Tytuł filmu" [c
 
 <ul>
   <li><a href="http://eugenicsarchive.ca">Eugenics Archive</a></li>
+  <li><a href="https://wellnessintheworld.home.blog/2019/11/02/eugenics-intelligence-and-superiority-how-quantifying-human-value-created-a-history-of-invisible-violence/">"Eugenics, intelligence, and superiority: How quantifying human value created a history of invisible violence"</a></li>
 </ul>
 
 ### Akcja T4
@@ -145,6 +146,7 @@ Linki do filmów na YT są opisane nawiasami kwadratowymi: [YT "Tytuł filmu" [c
     <li><a href="http://www.stiftung-bg.de">Stiftung Brandenburgische Gedenkstätten</a></li>
 <li><a href="http://www.erinnern.at/bundeslaender/">Österreich - Erinnern: Nationalsozialismus Und Holocaust</a></li>
   <li><a href="http://www.ns-gedenkstaetten.de">Arbeitskreis der NS-Gedenkstätten in NRW e.V.</a></li>
+  <li><a href="https://pogrome1938-niedersachsen.de">Die Novemberpogrome 1938 im Deutschen Reich</a></li>
 
 </ul>
 
@@ -179,5 +181,7 @@ Linki do filmów na YT są opisane nawiasami kwadratowymi: [YT "Tytuł filmu" [c
 ### Inne
 
 <ul>
-  <li><a href="https://www.spiegel.de/geschichte/romeo-spione-in-der-ddr-todesstrafe-fuer-gaensebluemchen-a-1292753.html">Casanova-Spione in der DDR - Todesstrafe für Gänseblümchen</a> | <a href="https://www.spiegel.de/geschichte/willy-brandt-lichtgestalt-mit-dunklen-seiten-a-1292313.html">Bundeskanzler Brandt - Mehr Willy wagen - der Übervater der Sozialdemokraten</a></li>
+  <li><a href="https://www.spiegel.de/geschichte/romeo-spione-in-der-ddr-todesstrafe-fuer-gaensebluemchen-a-1292753.html">Casanova-Spione in der DDR - Todesstrafe für Gänseblümchen</a> | <a href="https://www.spiegel.de/geschichte/willy-brandt-lichtgestalt-mit-dunklen-seiten-a-1292313.html">Bundeskanzler Brandt - Mehr Willy wagen - der Übervater der Sozialdemokraten</a> | <a href="https://www.spiegel.de/geschichte/stasi-chef-mielke-a-946470.html">"Der brutale Kaiser der DDR"</a> | <a href="https://www.spiegel.de/panorama/leute/hohenzollern-kronprinz-wilhelm-soll-hitler-gegner-gewesen-sein-a-1294398.html">"War Kronprinz Wilhelm ein NS-Sympathisant - oder wollte er Hitler verhindern?"</a> | <a href="https://www.spiegel.de/geschichte/propagandawaffe-agfacolor-goebbels-farbenlehre-a-947072.html">"Propagandawaffe Agfacolor Goebbels' Farbenlehre"</a></li>
+  <li><a href="https://www.faz.net/aktuell/wirtschaft/welche-rolle-spielte-ludwig-erhard-im-dritten-reich-16462271.html">"Welche Rolle spielte Erhard im Dritten Reich?"</a></li>
+  <li><a href="https://oko.press/czarny-obraz-promil-polakow-ratowal-zydow-przepedzano-bezpanskie-psy-rabowano-zabijano-mowi-badaczka-okupacyjnego-bilgoraju/">"„Czarny jest ten obraz. Promil Polaków ratował Żydów. Przepędzano ich jak bezpańskie psy, rabowano, zabijano” – mówi badaczka okupacyjnego Biłgoraju"</a> | <a href="https://oko.press/rzad-rp-i-ak-patrzyly-na-zaglade-z-obojetnoscia-ksiazka-historyka-zmuszonego-do-odejscia-z-ipn/">"Rząd RP i AK patrzyły na Zagładę z obojętnością. Książka historyka zmuszonego do odejścia z IPN"</a></li>
 </ul>
