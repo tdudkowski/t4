@@ -17,6 +17,7 @@
       - [T4 artykuły](#t4-artykuły)
     - [Inne](#inne)
     - [Artykuły](#artykuły)
+    - [Holokaust](#holokaust-1)
     - [Inne](#inne-1)
 
 ## Książki
@@ -158,6 +159,7 @@ Linki do filmów na YT są opisane nawiasami kwadratowymi: [YT "Tytuł filmu" [c
   <li><a href="https://en.wikipedia.org/wiki/Glossary_of_Nazi_Germany">Glossary of Nazi Germany</a></li>
   <li>Das Bild-, Ton- und Dokumentenarchiv über Clemens: <a href="http://www.galen-archiv.de/index.php?option=com_content&view=article&id=8&Itemid=12">Predigt vom 13. Juli 1941</a> | <a href="http://www.galen-archiv.de/index.php?option=com_content&view=article&id=9&Itemid=17">Predigt vom 20. Juli 1941</a> | <a href="http://www.galen-archiv.de/index.php?option=com_content&view=article&id=4&Itemid=18">Predigt vom 3. August 1941</a></li>
   <li><a href="http://historiajarocina.pl/artykuly/herbert-lange-tajemniczy-komisarz-gestapo/">Herbert Lange – tajemniczy komisarz Gestapo</a></li>
+  <li>Holocaust Memorial Day Trust <a href="https://www.hmd.org.uk/learn-about-the-holocaust-and-genocides/nazi-persecution/disabled-people/">Disabled People</a></li>
 </ul>
 
 ### Inne
@@ -172,16 +174,29 @@ Linki do filmów na YT są opisane nawiasami kwadratowymi: [YT "Tytuł filmu" [c
 ### Artykuły
 
 <ul>
+<li><a href="https://www.goodnewsnetwork.org/worlds-largest-holocaust-archive-available-on-the-internet/">"World’s Largest Holocaust Archive is Now Making Their Records Available to Everyone on the Internet"</a></li>
  <li>Der Spiegel: <a href="https://www.spiegel.de/einestages/ns-elite-in-gefangenschaft-hotel-der-kriegsverbrecher-a-948559.html">"NS-Elite in Gefangenschaft Hotel der Kriegsverbrecher"</a> | <a href="https://www.spiegel.de/geschichte/antisemitismus-opfer-philipp-auerbach-der-verhasste-nazi-jaeger-a-951063.html">"Antisemitismus-Opfer Philipp Auerbach; Der unerwünschte Nazi-Jäger"</a> | <a href="https://www.spiegel.de/geschichte/nazi-starpilotin-hanna-reitsch-a-947526.html">"Für Hitler flog sie durch die Hölle"</a> | <a href="https://www.spiegel.de/geschichte/musik-im-dritten-reich-a-947055.html">"Musik im "Dritten Reich" Der Dirigent von Görings Gnaden"</a> | <a href="https://www.spiegel.de/geschichte/kriegsdienstverweigerer-hinrichtung-von-august-dickmann-zeuge-jehovas-a-1286598.html">"An den Zeugen Jehovas verzweifelten die Nazis"</a> | <a href="https://www.spiegel.de/geschichte/mauerschuetzen-prozesse-brachten-den-rechtsstaat-an-seine-grenzen-a-1000949.html">"Die Grenze des Rechtsstaats"</a> | <a href="https://www.spiegel.de/geschichte/ns-erbe-a-948366.html">"Der Wahn von der Autobahn"</a> | <a href="https://www.spiegel.de/geschichte/mythos-tempelhof-a-946892.html">"Mythos Tempelhof"</a></li>
 <li>Welt: <a href="https://www.welt.de/geschichte/article193263635/Landtagswahlen-1929-In-Sachsen-begann-der-Siegeszug-der-NSDAP.html">"In Sachsen begann der Siegeszug der NSDAP"</a></li>
 <li>Zeit: <a href="https://www.zeit.de/wissen/geschichte/2018-07/ns-geschichte-mutter-kind-beziehung-kindererziehung-nazizeit-adolf-hitler">"Warum Hitler bis heute die Erziehung von Kindern beeinflusst"</a></li>
 <li>SD: <a href="https://www.sueddeutsche.de/politik/hohenzollern-entschaedigung-geschichte-nationalsozialismus-kolumne-1.4565010">"Die Hohenzollern deuten ihre Geschichte brachial um"</a></li>
 </ul>
 
+### Holokaust
+
+<ul>
+  <li><a href="https://paper.li/ShoahMemory#/">Memory of the Shoah</a></li>
+  <li><a href="https://www.bbc.com/news/world-europe-50329597">"Italy Holocaust survivor Liliana Segre under guard amid death threats"</a></li>
+</ul>
+
 ### Inne
 
 <ul>
-  <li><a href="https://www.spiegel.de/geschichte/romeo-spione-in-der-ddr-todesstrafe-fuer-gaensebluemchen-a-1292753.html">Casanova-Spione in der DDR - Todesstrafe für Gänseblümchen</a> | <a href="https://www.spiegel.de/geschichte/willy-brandt-lichtgestalt-mit-dunklen-seiten-a-1292313.html">Bundeskanzler Brandt - Mehr Willy wagen - der Übervater der Sozialdemokraten</a> | <a href="https://www.spiegel.de/geschichte/stasi-chef-mielke-a-946470.html">"Der brutale Kaiser der DDR"</a> | <a href="https://www.spiegel.de/panorama/leute/hohenzollern-kronprinz-wilhelm-soll-hitler-gegner-gewesen-sein-a-1294398.html">"War Kronprinz Wilhelm ein NS-Sympathisant - oder wollte er Hitler verhindern?"</a> | <a href="https://www.spiegel.de/geschichte/propagandawaffe-agfacolor-goebbels-farbenlehre-a-947072.html">"Propagandawaffe Agfacolor Goebbels' Farbenlehre"</a></li>
+  <li><a href="https://www.spiegel.de/geschichte/romeo-spione-in-der-ddr-todesstrafe-fuer-gaensebluemchen-a-1292753.html">Casanova-Spione in der DDR - Todesstrafe für Gänseblümchen</a> | <a href="https://www.spiegel.de/geschichte/willy-brandt-lichtgestalt-mit-dunklen-seiten-a-1292313.html">Bundeskanzler Brandt - Mehr Willy wagen - der Übervater der Sozialdemokraten</a> | <a href="https://www.spiegel.de/geschichte/stasi-chef-mielke-a-946470.html">"Der brutale Kaiser der DDR"</a> | <a href="https://www.spiegel.de/panorama/leute/hohenzollern-kronprinz-wilhelm-soll-hitler-gegner-gewesen-sein-a-1294398.html">"War Kronprinz Wilhelm ein NS-Sympathisant - oder wollte er Hitler verhindern?"</a> | <a href="https://www.spiegel.de/geschichte/propagandawaffe-agfacolor-goebbels-farbenlehre-a-947072.html">"Propagandawaffe Agfacolor Goebbels' Farbenlehre"</a> | <a href="https://www.spiegel.de/geschichte/75-jahre-machtergreifung-a-948018.html">75 Jahre "Machtergreifung" Das Haken-Kreuz mit den Wahlen</a> | <a href="https://www.spiegel.de/geschichte/reichstagsbrand-1933-gestaendnis-des-sa-manns-wenig-wert-a-1298961.html">"Reichstagsbrand 1933 Aufsehenerregendes Geständnis des SA-Manns wohl nur wenig wert"</a></li>
   <li><a href="https://www.faz.net/aktuell/wirtschaft/welche-rolle-spielte-ludwig-erhard-im-dritten-reich-16462271.html">"Welche Rolle spielte Erhard im Dritten Reich?"</a></li>
   <li><a href="https://oko.press/czarny-obraz-promil-polakow-ratowal-zydow-przepedzano-bezpanskie-psy-rabowano-zabijano-mowi-badaczka-okupacyjnego-bilgoraju/">"„Czarny jest ten obraz. Promil Polaków ratował Żydów. Przepędzano ich jak bezpańskie psy, rabowano, zabijano” – mówi badaczka okupacyjnego Biłgoraju"</a> | <a href="https://oko.press/rzad-rp-i-ak-patrzyly-na-zaglade-z-obojetnoscia-ksiazka-historyka-zmuszonego-do-odejscia-z-ipn/">"Rząd RP i AK patrzyły na Zagładę z obojętnością. Książka historyka zmuszonego do odejścia z IPN"</a></li>
+  <li><a href="https://fakty.interia.pl/prasa/odkrywca/news-krzyz-wessela-nazistowska-propaganda-w-karkonoszach,nId,3307978,via,1"></a></li>
+  <li><a href="https://www.telegraph.co.uk/news/2019/11/21/centuries-christian-anti-semitism-led-holocaust-landmark-church/">"Centuries of Christian anti-Semitism led to Holocaust, landmark Church of England report concludes"</a></li>
+  <li><a href="https://ehri-project.eu/collection-digital-tool-guides">EHRI Collection of Digital Tools Guides</a></li>
+  <li><a href="https://www.nytimes.com/aponline/2019/11/19/world/europe/ap-eu-germany-holocaust-archive.html">"German Archive Uploads Details of Millions of Nazi Victims"</a></li>
+  <li><a href="https://www.derstandard.at/story/2000111581421/was-tunmit-digitalisiertem-ns-material">"Was tun mit digitalisiertem NS-Material?"</a></li>
 </ul>

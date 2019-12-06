@@ -291,6 +291,8 @@ Usuwanie śladów w Treblince:
 
 > W roku 1943 zaczęto wyciągać trupy z dołów i spalać je na specjalnym ruszcie, ułożonym na placu. Koparka znowu pracowała i wyciągała po kilka trupów na raz (…). Fetor rozchodzi się po całym terenie. Ogień palił się bezustannie przez całą dobę. Początkowo podlewano benzyną lub ropą, a później okazało się, że trupy same się dobrze palą (…). Tłuszcz topił się i ściekał pod ruszt, palił się doskonale. Z dołów koparka wyciągała i wyrzucała na ziemię, więźniowie nosili na drabinkach i kładli na ogień.
 
+W 1942 roku do Niemców zaczęły docierać informacje, że świat dowiaduje się o ich ludobójczej polityce na okupowanych terenach. Ruszyła Aktion 1005 - rozkopywano groby i palono zwłoki, by w ten sposób zatrzeć ślady masowych mordów. Wpływ na to miała mieć również sytuacja z Katyniem.
+
 #### Eichmann Sonderkommando
 
 Oddział dowodzony przez Adolfa Eichmanna, który przybył do Budapesztu 19 marca 1944, w dniu zajęcia Węgier przez armię niemiecką. Jego zadaniem była deportacja Żydów węgierkisch bezpośrednio do Auschwitz - Birkenau. Slużyli tam też Węgrzy: antysemicko nastawiona żandarmeria i proniemiecka adminsitracja z węgierskiego MSW. Łapanki zaczęły się 16 kwietnia i do 14 maja każdego dnia do Auschwitz odjeżdżały 4 składy po 3 tys Żydów, dla przyspieszenia procesu mordowania zbudowano nową rampę, od której do komór gazowych było tylko kilkasem metrów. 10-25% każdego transportu wybierano do wyniszczającej pracy, reszta była zabijana w komorach gazowycj. Pod naciskiem miedzynarodowym węgierski rząd wstrzymał deportacje 6 lipca, do tego czasu zginęło 437 tys z 725 tys węgierkich Żydów.

@@ -124,7 +124,9 @@ lipiec założenie Sachsenhausen\
 10 maja - 25 czerwca kampania francuska\
 4 lipca Neuengamme samodzielnym obozem\
 10 lipca - 31 października Bitwa o Anglię\
-2 sierpnia utworzenie Gross-Rosen jako podobozu Sachsenhausen
+2 sierpnia utworzenie Gross-Rosen jako podobozu Sachsenhausen\
+12 listopada wizyta komisarza ludowego Wiaczesława Mołotowa u ministra spraw zagranicznych Rzeszy Joachima von Ribbentropa\
+16 listopada zamknięcie getta warszawskiego 450 tys ludzi
 
 ## 1941
 
@@ -139,7 +141,8 @@ lipiec założenie Sachsenhausen\
 20 lutego Konferencja w Wannsee\
 27 maja Reinhard Heydrich zamach w Praga Libeň\
 3 października pierwsza udana próba V2 na Peenemünde, rakieta wzniosła się na 84,5 km\
-23 października - 11 listopada druga bitwa pod El-Alamein
+23 października - 11 listopada druga bitwa pod El-Alamein\
+15 listopada konspiracyjny zespół badawczo-dokumentacyjny Oneg Szabat, powstały z inicjatywy Emanuela Ringelbluma, przygotował dla rządu RP w Londynie oraz rządów państw sprzymierzonych raport "Likwidacja żydowskiej Warszawy"; wywieziony przez Jana Karskiego
 
 ## 1943
 
@@ -153,7 +156,8 @@ kwiecień obóz jeniecki Stalag XI-B do D Bergen-Belsen przekształcony w obóz 
 ## 1944
 
 20 lipca zamach Stauffenberg\
-22 lipca 1944 wyzwolenie Lublina i Majdanku
+22 lipca 1944 wyzwolenie Lublina i Majdanku\
+12 listopada zatopienie Tirpitza
 
 ## 1945
 
