@@ -17,7 +17,7 @@
       - [T4 artykuły](#t4-artykuły)
     - [Inne](#inne)
     - [Artykuły](#artykuły)
-    - [Holokaust](#holokaust-1)
+    - [Shoa](#shoa)
     - [Inne](#inne-1)
 
 ## Książki
@@ -179,24 +179,34 @@ Linki do filmów na YT są opisane nawiasami kwadratowymi: [YT "Tytuł filmu" [c
 <li>Welt: <a href="https://www.welt.de/geschichte/article193263635/Landtagswahlen-1929-In-Sachsen-begann-der-Siegeszug-der-NSDAP.html">"In Sachsen begann der Siegeszug der NSDAP"</a></li>
 <li>Zeit: <a href="https://www.zeit.de/wissen/geschichte/2018-07/ns-geschichte-mutter-kind-beziehung-kindererziehung-nazizeit-adolf-hitler">"Warum Hitler bis heute die Erziehung von Kindern beeinflusst"</a></li>
 <li>SD: <a href="https://www.sueddeutsche.de/politik/hohenzollern-entschaedigung-geschichte-nationalsozialismus-kolumne-1.4565010">"Die Hohenzollern deuten ihre Geschichte brachial um"</a></li>
+<li><a href="https://fakty.interia.pl/raporty/raport-zbrodnia-bez-kary/historie/news-generalplan-ost-polacy-sa-najniebezpieczniejsi-ze-wszystkich,nId,4219024">"Generalplan Ost. "Polacy są najniebezpieczniejsi ze wszystkich obcoplemieńców""</a></li>
+<li><a href="https://blogs.loc.gov/loc/2019/12/the-nazi-war-atlas-of-operation-barbarossa/">"The Nazi War Atlas of Operation Barbarossa"</a></li>
+<li><a href="https://orf.at/stories/3148964/">"Mehr als 60 Prozent der Häftlinge in Auschwitz identifiziert"</a></li>
+<li><a href="https://grecjawogniu.info/?p=25550&fbclid=IwAR0VqQHKFPO4FMH-_92a4qXe--BKPBpG--tmn7Fdz8eXhA0Js6T2c7M8WU0">„Obóz Polska”- rządowy antysemityzm II RP</a></li>
 </ul>
 
-### Holokaust
+### Shoa
 
 <ul>
+<li><a href="https://www.hdot.org">Holocaust Denial on Trial</a></li>
+<li>Spiegel: <a href="https://www.spiegel.de/geschichte/der-touristik-group-haelt-ns-geschichte-unter-verschluss-a-1300090.html">"Reiseunternehmen verdiente offenbar Millionen an Deportation von Juden"</a></li>
   <li><a href="https://paper.li/ShoahMemory#/">Memory of the Shoah</a></li>
-  <li><a href="https://www.bbc.com/news/world-europe-50329597">"Italy Holocaust survivor Liliana Segre under guard amid death threats"</a></li>
+  <li><a href="http://auschwitz.net/essential-books-about-the-holocaust/">"Reads Against Oblivion: 13 Essential Books About the Holocaust"</a></li>
+  <li><a href="https://www.bbc.com/news/world-europe-50329597">"Italy Holocaust survivor Liliana Segre under guard amid death threats"</a></li>  
 </ul>
 
 ### Inne
 
 <ul>
-  <li><a href="https://www.spiegel.de/geschichte/romeo-spione-in-der-ddr-todesstrafe-fuer-gaensebluemchen-a-1292753.html">Casanova-Spione in der DDR - Todesstrafe für Gänseblümchen</a> | <a href="https://www.spiegel.de/geschichte/willy-brandt-lichtgestalt-mit-dunklen-seiten-a-1292313.html">Bundeskanzler Brandt - Mehr Willy wagen - der Übervater der Sozialdemokraten</a> | <a href="https://www.spiegel.de/geschichte/stasi-chef-mielke-a-946470.html">"Der brutale Kaiser der DDR"</a> | <a href="https://www.spiegel.de/panorama/leute/hohenzollern-kronprinz-wilhelm-soll-hitler-gegner-gewesen-sein-a-1294398.html">"War Kronprinz Wilhelm ein NS-Sympathisant - oder wollte er Hitler verhindern?"</a> | <a href="https://www.spiegel.de/geschichte/propagandawaffe-agfacolor-goebbels-farbenlehre-a-947072.html">"Propagandawaffe Agfacolor Goebbels' Farbenlehre"</a> | <a href="https://www.spiegel.de/geschichte/75-jahre-machtergreifung-a-948018.html">75 Jahre "Machtergreifung" Das Haken-Kreuz mit den Wahlen</a> | <a href="https://www.spiegel.de/geschichte/reichstagsbrand-1933-gestaendnis-des-sa-manns-wenig-wert-a-1298961.html">"Reichstagsbrand 1933 Aufsehenerregendes Geständnis des SA-Manns wohl nur wenig wert"</a></li>
+  <li><a href="https://www.spiegel.de/geschichte/romeo-spione-in-der-ddr-todesstrafe-fuer-gaensebluemchen-a-1292753.html">Casanova-Spione in der DDR - Todesstrafe für Gänseblümchen</a> | <a href="https://www.spiegel.de/geschichte/willy-brandt-lichtgestalt-mit-dunklen-seiten-a-1292313.html">Bundeskanzler Brandt - Mehr Willy wagen - der Übervater der Sozialdemokraten</a> | <a href="https://www.spiegel.de/geschichte/stasi-chef-mielke-a-946470.html">"Der brutale Kaiser der DDR"</a> | <a href="https://www.spiegel.de/panorama/leute/hohenzollern-kronprinz-wilhelm-soll-hitler-gegner-gewesen-sein-a-1294398.html">"War Kronprinz Wilhelm ein NS-Sympathisant - oder wollte er Hitler verhindern?"</a> | <a href="https://www.spiegel.de/geschichte/propagandawaffe-agfacolor-goebbels-farbenlehre-a-947072.html">"Propagandawaffe Agfacolor Goebbels' Farbenlehre"</a> | <a href="https://www.spiegel.de/geschichte/75-jahre-machtergreifung-a-948018.html">75 Jahre "Machtergreifung" Das Haken-Kreuz mit den Wahlen</a> | <a href="https://www.spiegel.de/geschichte/reichstagsbrand-1933-gestaendnis-des-sa-manns-wenig-wert-a-1298961.html">"Reichstagsbrand 1933 Aufsehenerregendes Geständnis des SA-Manns wohl nur wenig wert"</a> | <a href="https://www.spiegel.de/geschichte/phantom-der-fussballgeschichte-a-946646.html">"Phantom der Fußballgeschichte - Die Bomben-Mannschaft"</a> | <a href="https://www.spiegel.de/geschichte/heiligabend-in-der-k1-a-949701.html">"Heiligabend in der K1 "Weihnachten war was für Spießer""</a></li>
   <li><a href="https://www.faz.net/aktuell/wirtschaft/welche-rolle-spielte-ludwig-erhard-im-dritten-reich-16462271.html">"Welche Rolle spielte Erhard im Dritten Reich?"</a></li>
+  <li><a href="https://www.deutschlandfunk.de/gesellschaftliche-vielfalt-psychologin-lilli-gast-neid.2850.de.html">"Psychologin Lilli Gast: Neid steht am Beginn jeder Verfolgung von Minderheiten"</a></li>
+  <li><a href="https://wielkahistoria.pl/donosicielstwo-w-okupowanej-polsce-oficjalne-stanowisko-panstwa-podziemnego/">Rafał Kuzak "Donosicielstwo w okupowanej Polsce. Oficjalne stanowisko Państwa Podziemnego"</a></li>
   <li><a href="https://oko.press/czarny-obraz-promil-polakow-ratowal-zydow-przepedzano-bezpanskie-psy-rabowano-zabijano-mowi-badaczka-okupacyjnego-bilgoraju/">"„Czarny jest ten obraz. Promil Polaków ratował Żydów. Przepędzano ich jak bezpańskie psy, rabowano, zabijano” – mówi badaczka okupacyjnego Biłgoraju"</a> | <a href="https://oko.press/rzad-rp-i-ak-patrzyly-na-zaglade-z-obojetnoscia-ksiazka-historyka-zmuszonego-do-odejscia-z-ipn/">"Rząd RP i AK patrzyły na Zagładę z obojętnością. Książka historyka zmuszonego do odejścia z IPN"</a></li>
   <li><a href="https://fakty.interia.pl/prasa/odkrywca/news-krzyz-wessela-nazistowska-propaganda-w-karkonoszach,nId,3307978,via,1"></a></li>
   <li><a href="https://www.telegraph.co.uk/news/2019/11/21/centuries-christian-anti-semitism-led-holocaust-landmark-church/">"Centuries of Christian anti-Semitism led to Holocaust, landmark Church of England report concludes"</a></li>
   <li><a href="https://ehri-project.eu/collection-digital-tool-guides">EHRI Collection of Digital Tools Guides</a></li>
   <li><a href="https://www.nytimes.com/aponline/2019/11/19/world/europe/ap-eu-germany-holocaust-archive.html">"German Archive Uploads Details of Millions of Nazi Victims"</a></li>
   <li><a href="https://www.derstandard.at/story/2000111581421/was-tunmit-digitalisiertem-ns-material">"Was tun mit digitalisiertem NS-Material?"</a></li>
+  <li><a href="https://www.spiegel.de/lebenundlernen/uni/stasi-offiziere-roland-jahn-will-doktortitel-kennzeichnen-lassen-a-1302756.html">"Jahn will Stasi-Doktortitel kennzeichnen lassen"</a></li>
 </ul>
