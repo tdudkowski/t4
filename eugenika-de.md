@@ -51,6 +51,8 @@ Eugen Fischer profesor medycyny i antropologii, współtwórca teorii o wyższo�
 
 Fritz Lenz, genetyk i jeden z twórców niemieckiej eugeniki był uczniem Fischera. W 1909 wstępuje do Niemieckiego Towarzystwa Higieny Rasowej i tam poznaje Ploetza. W 1913 zostaje redaktorem naczelnym "Archiv für Rassen-und Gesellschaftsbiologie" i jest nim przez następne 20 lat. Wyznawał teorię rasy biologicznej jako naczelnej wartości i wyższości rasy nordyjskiej. Miało się to przekładać wprost na historię. Za rewolucję 1918 miały być odpowiedzialne elementy gorsze rasowo, a wszyscy Słowianie, szczególnie Polacy są zagrożeniem dla Niemców bo dominując liczebnie popsują krew niemiecką.
 
+[Namibia, historia niemieckiej kolonii](https://www.arte.tv/pl/videos/081667-000-A/namibia-historia-niemieckiej-kolonii/)
+
 ## Republika Weimarska
 
 W 1920 ukazała się kontrowersyjna praca "Likwidacja istot (żyć) niewartych życia - jej zakres i forma" (niem. "Die Freigabe der Vernichtung Lebensunwerten Lebens - ihr Mass und ihre Form"). Jej autorami byli ludzie wykształceni należący do elity niemieckiego społeczeństwa: Karl Binding emerytowany prawnik z uniwersytetu lipskiego i Alfred Hoche psychiatra na uniwersytecie we Fryburgu Bryzgowijskim. Punktem wyjścia dla autorów była koncepcja, że najlepsza część populacji zginęła podczas wojny, a geny tych którzy nie walczyli (czyli najgorsze) rozpowszechniają sie bez przeszkód przyspieszając biologiczną i kulturową degeneracje. Fraza "życie niewarte życia" zostaje później wykorzystana przez hitlerowców.

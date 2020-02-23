@@ -174,6 +174,7 @@ Linki do filmów na YT są opisane nawiasami kwadratowymi: [YT "Tytuł filmu" [c
 ### Artykuły
 
 <ul>
+<li><a href="https://fakty.interia.pl/raporty/raport-zbrodnia-bez-kary/historie/news-generalplan-ost-polacy-sa-najniebezpieczniejsi-ze-wszystkich,nId,4219024">"Generalplan Ost. "Polacy są najniebezpieczniejsi ze wszystkich obcoplemieńców""</a></li>
 <li><a href="https://www.goodnewsnetwork.org/worlds-largest-holocaust-archive-available-on-the-internet/">"World’s Largest Holocaust Archive is Now Making Their Records Available to Everyone on the Internet"</a></li>
  <li>Der Spiegel: <a href="https://www.spiegel.de/einestages/ns-elite-in-gefangenschaft-hotel-der-kriegsverbrecher-a-948559.html">"NS-Elite in Gefangenschaft Hotel der Kriegsverbrecher"</a> | <a href="https://www.spiegel.de/geschichte/antisemitismus-opfer-philipp-auerbach-der-verhasste-nazi-jaeger-a-951063.html">"Antisemitismus-Opfer Philipp Auerbach; Der unerwünschte Nazi-Jäger"</a> | <a href="https://www.spiegel.de/geschichte/nazi-starpilotin-hanna-reitsch-a-947526.html">"Für Hitler flog sie durch die Hölle"</a> | <a href="https://www.spiegel.de/geschichte/musik-im-dritten-reich-a-947055.html">"Musik im "Dritten Reich" Der Dirigent von Görings Gnaden"</a> | <a href="https://www.spiegel.de/geschichte/kriegsdienstverweigerer-hinrichtung-von-august-dickmann-zeuge-jehovas-a-1286598.html">"An den Zeugen Jehovas verzweifelten die Nazis"</a> | <a href="https://www.spiegel.de/geschichte/mauerschuetzen-prozesse-brachten-den-rechtsstaat-an-seine-grenzen-a-1000949.html">"Die Grenze des Rechtsstaats"</a> | <a href="https://www.spiegel.de/geschichte/ns-erbe-a-948366.html">"Der Wahn von der Autobahn"</a> | <a href="https://www.spiegel.de/geschichte/mythos-tempelhof-a-946892.html">"Mythos Tempelhof"</a></li>
 <li>Welt: <a href="https://www.welt.de/geschichte/article193263635/Landtagswahlen-1929-In-Sachsen-begann-der-Siegeszug-der-NSDAP.html">"In Sachsen begann der Siegeszug der NSDAP"</a></li>
@@ -183,22 +184,26 @@ Linki do filmów na YT są opisane nawiasami kwadratowymi: [YT "Tytuł filmu" [c
 <li><a href="https://blogs.loc.gov/loc/2019/12/the-nazi-war-atlas-of-operation-barbarossa/">"The Nazi War Atlas of Operation Barbarossa"</a></li>
 <li><a href="https://orf.at/stories/3148964/">"Mehr als 60 Prozent der Häftlinge in Auschwitz identifiziert"</a></li>
 <li><a href="https://grecjawogniu.info/?p=25550&fbclid=IwAR0VqQHKFPO4FMH-_92a4qXe--BKPBpG--tmn7Fdz8eXhA0Js6T2c7M8WU0">„Obóz Polska”- rządowy antysemityzm II RP</a></li>
+<li><a href="https://dzismis.com/2020/01/05/zydzi-na-madagaskar-rzad-ii-rp-na-serio-chcial-ich-tam-wyslac/">"Żydzi na Madagaskar. Rząd II RP na serio chciał ich tam wysłać"</a></li>
+<li><a href="https://atlasnienawisci.pl/">Atlas nienawiści</a> "wolne od LGBT"</li>
 </ul>
 
 ### Shoa
 
 <ul>
 <li><a href="https://www.hdot.org">Holocaust Denial on Trial</a></li>
+<li><a href="https://yahadmap.org/">The map of Evidence - Holocaust by Bullets</a></li>
 <li>Spiegel: <a href="https://www.spiegel.de/geschichte/der-touristik-group-haelt-ns-geschichte-unter-verschluss-a-1300090.html">"Reiseunternehmen verdiente offenbar Millionen an Deportation von Juden"</a></li>
   <li><a href="https://paper.li/ShoahMemory#/">Memory of the Shoah</a></li>
   <li><a href="http://auschwitz.net/essential-books-about-the-holocaust/">"Reads Against Oblivion: 13 Essential Books About the Holocaust"</a></li>
-  <li><a href="https://www.bbc.com/news/world-europe-50329597">"Italy Holocaust survivor Liliana Segre under guard amid death threats"</a></li>  
+  <li><a href="https://www.bbc.com/news/world-europe-50329597">"Italy Holocaust survivor Liliana Segre under guard amid death threats"</a></li>
+  <li><a href="https://www.theguardian.com/world/2019/may/08/instagram-holocaust-diary-evastories-sparks-debate-in-israel">"Instagram Holocaust diary Eva.Stories sparks debate in Israel"</a></li>
 </ul>
 
 ### Inne
 
 <ul>
-  <li><a href="https://www.spiegel.de/geschichte/romeo-spione-in-der-ddr-todesstrafe-fuer-gaensebluemchen-a-1292753.html">Casanova-Spione in der DDR - Todesstrafe für Gänseblümchen</a> | <a href="https://www.spiegel.de/geschichte/willy-brandt-lichtgestalt-mit-dunklen-seiten-a-1292313.html">Bundeskanzler Brandt - Mehr Willy wagen - der Übervater der Sozialdemokraten</a> | <a href="https://www.spiegel.de/geschichte/stasi-chef-mielke-a-946470.html">"Der brutale Kaiser der DDR"</a> | <a href="https://www.spiegel.de/panorama/leute/hohenzollern-kronprinz-wilhelm-soll-hitler-gegner-gewesen-sein-a-1294398.html">"War Kronprinz Wilhelm ein NS-Sympathisant - oder wollte er Hitler verhindern?"</a> | <a href="https://www.spiegel.de/geschichte/propagandawaffe-agfacolor-goebbels-farbenlehre-a-947072.html">"Propagandawaffe Agfacolor Goebbels' Farbenlehre"</a> | <a href="https://www.spiegel.de/geschichte/75-jahre-machtergreifung-a-948018.html">75 Jahre "Machtergreifung" Das Haken-Kreuz mit den Wahlen</a> | <a href="https://www.spiegel.de/geschichte/reichstagsbrand-1933-gestaendnis-des-sa-manns-wenig-wert-a-1298961.html">"Reichstagsbrand 1933 Aufsehenerregendes Geständnis des SA-Manns wohl nur wenig wert"</a> | <a href="https://www.spiegel.de/geschichte/phantom-der-fussballgeschichte-a-946646.html">"Phantom der Fußballgeschichte - Die Bomben-Mannschaft"</a> | <a href="https://www.spiegel.de/geschichte/heiligabend-in-der-k1-a-949701.html">"Heiligabend in der K1 "Weihnachten war was für Spießer""</a></li>
+  <li><a href="https://www.spiegel.de/geschichte/romeo-spione-in-der-ddr-todesstrafe-fuer-gaensebluemchen-a-1292753.html">Casanova-Spione in der DDR - Todesstrafe für Gänseblümchen</a> | <a href="https://www.spiegel.de/geschichte/willy-brandt-lichtgestalt-mit-dunklen-seiten-a-1292313.html">Bundeskanzler Brandt - Mehr Willy wagen - der Übervater der Sozialdemokraten</a> | <a href="https://www.spiegel.de/geschichte/stasi-chef-mielke-a-946470.html">"Der brutale Kaiser der DDR"</a> | <a href="https://www.spiegel.de/panorama/leute/hohenzollern-kronprinz-wilhelm-soll-hitler-gegner-gewesen-sein-a-1294398.html">"War Kronprinz Wilhelm ein NS-Sympathisant - oder wollte er Hitler verhindern?"</a> | <a href="https://www.spiegel.de/geschichte/propagandawaffe-agfacolor-goebbels-farbenlehre-a-947072.html">"Propagandawaffe Agfacolor Goebbels' Farbenlehre"</a> | <a href="https://www.spiegel.de/geschichte/75-jahre-machtergreifung-a-948018.html">75 Jahre "Machtergreifung" Das Haken-Kreuz mit den Wahlen</a> | <a href="https://www.spiegel.de/geschichte/reichstagsbrand-1933-gestaendnis-des-sa-manns-wenig-wert-a-1298961.html">"Reichstagsbrand 1933 Aufsehenerregendes Geständnis des SA-Manns wohl nur wenig wert"</a> | <a href="https://www.spiegel.de/geschichte/phantom-der-fussballgeschichte-a-946646.html">"Phantom der Fußballgeschichte - Die Bomben-Mannschaft"</a> | <a href="https://www.spiegel.de/geschichte/heiligabend-in-der-k1-a-949701.html">"Heiligabend in der K1 "Weihnachten war was für Spießer""</a> | <a href="https://www.spiegel.de/geschichte/rudolf-augstein-so-wurden-wir-angefangen-70-jahre-spiegel-a-1131352.html">Rudolf Augstein über den SPIEGEL-Beginn "So wurden wir angefangen"</a></li>
   <li><a href="https://www.faz.net/aktuell/wirtschaft/welche-rolle-spielte-ludwig-erhard-im-dritten-reich-16462271.html">"Welche Rolle spielte Erhard im Dritten Reich?"</a></li>
   <li><a href="https://www.deutschlandfunk.de/gesellschaftliche-vielfalt-psychologin-lilli-gast-neid.2850.de.html">"Psychologin Lilli Gast: Neid steht am Beginn jeder Verfolgung von Minderheiten"</a></li>
   <li><a href="https://wielkahistoria.pl/donosicielstwo-w-okupowanej-polsce-oficjalne-stanowisko-panstwa-podziemnego/">Rafał Kuzak "Donosicielstwo w okupowanej Polsce. Oficjalne stanowisko Państwa Podziemnego"</a></li>
@@ -207,6 +212,7 @@ Linki do filmów na YT są opisane nawiasami kwadratowymi: [YT "Tytuł filmu" [c
   <li><a href="https://www.telegraph.co.uk/news/2019/11/21/centuries-christian-anti-semitism-led-holocaust-landmark-church/">"Centuries of Christian anti-Semitism led to Holocaust, landmark Church of England report concludes"</a></li>
   <li><a href="https://ehri-project.eu/collection-digital-tool-guides">EHRI Collection of Digital Tools Guides</a></li>
   <li><a href="https://www.nytimes.com/aponline/2019/11/19/world/europe/ap-eu-germany-holocaust-archive.html">"German Archive Uploads Details of Millions of Nazi Victims"</a></li>
+  <li><a href="https://www.timesofisrael.com/the-first-auschwitz-transport-was-of-997-young-slovakian-jewish-women-and-teens/">"First transport of Jews to Auschwitz was 997 young Slovak women and teens"</a></li>
   <li><a href="https://www.derstandard.at/story/2000111581421/was-tunmit-digitalisiertem-ns-material">"Was tun mit digitalisiertem NS-Material?"</a></li>
   <li><a href="https://www.spiegel.de/lebenundlernen/uni/stasi-offiziere-roland-jahn-will-doktortitel-kennzeichnen-lassen-a-1302756.html">"Jahn will Stasi-Doktortitel kennzeichnen lassen"</a></li>
 </ul>
