@@ -177,7 +177,7 @@ kwiecień obóz jeniecki Stalag XI-B do D Bergen-Belsen przekształcony w obóz 
 2 maja kapitulacja Berlina; Czerwony Krzyż przejmuje Theresienstadt\
 3 maja wyzwolenie Neuengamme\
 4 maja kapitulacja niemieckiego Wehrmachtu\
-9 maja wyzwolenie Stuthof\
+9 maja wyzwolenie Stutthof\
 17 lipca - 2 sierpnia Poczdam
 
 ## 1946
