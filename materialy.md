@@ -1,7 +1,7 @@
 # Materiały
 
-- [Materiały](#materiały)
-  - [Książki](#książki)
+- [Materiały](#materia%c5%82y)
+  - [Książki](#ksi%c4%85%c5%bcki)
     - [Hitleryzm](#hitleryzm)
     - [SS](#ss)
     - [Akcja T4](#akcja-t4)
@@ -9,14 +9,14 @@
     - [Holokaust](#holokaust)
     - [Auschwitz](#auschwitz)
   - [Filmy](#filmy)
-  - [Odnośniki](#odnośniki)
+  - [Odnośniki](#odno%c5%9bniki)
     - [Eugenika](#eugenika)
     - [Akcja T4](#akcja-t4-1)
-      - [Gedenkstätten](#gedenkstätten)
-      - [Pozostałe](#pozostałe)
-      - [T4 artykuły](#t4-artykuły)
+      - [Gedenkstätten](#gedenkst%c3%a4tten)
+      - [Pozostałe](#pozosta%c5%82e)
+      - [T4 artykuły](#t4-artyku%c5%82y)
     - [Inne](#inne)
-    - [Artykuły](#artykuły)
+    - [Artykuły](#artyku%c5%82y)
     - [Shoa](#shoa)
     - [Inne](#inne-1)
 
@@ -218,4 +218,13 @@ Linki do filmów na YT są opisane nawiasami kwadratowymi: [YT "Tytuł filmu" [c
   <li><a href="https://www.timesofisrael.com/the-first-auschwitz-transport-was-of-997-young-slovakian-jewish-women-and-teens/">"First transport of Jews to Auschwitz was 997 young Slovak women and teens"</a></li>
   <li><a href="https://www.derstandard.at/story/2000111581421/was-tunmit-digitalisiertem-ns-material">"Was tun mit digitalisiertem NS-Material?"</a></li>
   <li><a href="https://www.spiegel.de/lebenundlernen/uni/stasi-offiziere-roland-jahn-will-doktortitel-kennzeichnen-lassen-a-1302756.html">"Jahn will Stasi-Doktortitel kennzeichnen lassen"</a></li>
+  <li><a href="https://kobieta.wp.pl/johanna-langefeld-esesmanka-ktora-uratowaly-wiezniarki-5982771542774913a">"Johanna Langefeld. Esesmanka, którą uratowały więźniarki"</a></li>
+  <li><a href="https://historia.uwazamrze.pl/artykul/1149224/biale-autobusy">"Białe autobusy"</a></li>
+  <li><a href="https://www.dw.com/pl/historyk-w-nrd-stasi-wykorzystywała-byłych-esesmanów-jako-tajnych-agentów/a-47250666">"Historyk: W NRD Stasi wykorzystywała byłych esesmanów jako tajnych agentów"</a></li>
+  <li><a href="https://www.wprost.pl/tygodnik/7926/Bekarty-Lebensborn.html">"Bękarty Lebensborn. Wstydliwa karta historii Norwegii"</a></li>
+  <li><a href="https://www.tagesspiegel.de/berlin/wiederaufbau-nach-dem-zweiten-weltkrieg-die-erzaehlung-von-den-truemmerfrauen-war-nie-realitaet/25800546.html">"Die Erzählung von den Trümmerfrauen war nie Realität"</a></li>
+  <li><a href="https://www.wp.pl/?s=https%3A%2F%2Fopinie.wp.pl%2Fniemieckie-obozy-pracy-w-norwegii-podczas-ii-wojny-swiatowej-6126038458538113a">"Niemieckie obozy pracy w Norwegii podczas II wojny światowej"</a></li>
+  <li><a href="http://www.mysl-polska.pl/node/51">"Banderowcy w KL Auschwitz"</a></li>
+  <li><a href="https://www.rmf24.pl/fakty/swiat/news-niemieccy-biskupi-nasi-poprzednicy-byli-wspolwinni-ii-wojny-,nId,4467734">"Niemieccy biskupi: Nasi poprzednicy byli współwinni II wojny światowej"</a></li>
+  <li><a href="https://krytykapolityczna.pl/kultura/czytaj-dalej/na-posterunku-jan-grabowski-fragment-ksiazki/">"„Bez żadnego udziału Niemców”. jak polska granatowa policja mordowała Żydów"</a></li>
 </ul>
