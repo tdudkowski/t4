@@ -227,4 +227,19 @@ Linki do filmów na YT są opisane nawiasami kwadratowymi: [YT "Tytuł filmu" [c
   <li><a href="http://www.mysl-polska.pl/node/51">"Banderowcy w KL Auschwitz"</a></li>
   <li><a href="https://www.rmf24.pl/fakty/swiat/news-niemieccy-biskupi-nasi-poprzednicy-byli-wspolwinni-ii-wojny-,nId,4467734">"Niemieccy biskupi: Nasi poprzednicy byli współwinni II wojny światowej"</a></li>
   <li><a href="https://krytykapolityczna.pl/kultura/czytaj-dalej/na-posterunku-jan-grabowski-fragment-ksiazki/">"„Bez żadnego udziału Niemców”. jak polska granatowa policja mordowała Żydów"</a></li>
+   <li><a href="https://encyclopedia.ushmm.org/en">Holocaust Encyclopedia</a></li>
+ <li><a href="https://wienerlibrary.co.uk">The Wiener Holocaust Library</a></li>
+ <li><a href="https://www.sueddeutsche.de/politik/hitler-widerstand-1.2426802">"Ermordete Widerstandskämpfer gegen Hitler und die Nazis" - Politik - SZ.de</a></li>
+<li><a href="https://www.sueddeutsche.de/muenchen/weltkriegsende-muenchen-christian-weber-1.4895173">"Christian Weber - Der Tyrann von München" - München - SZ.de</a></li>
+<li><a href="https://www.sueddeutsche.de/bayern/altoetting-zweiter-weltkrieg-morde-1.4891038">"Kriegsende in Bayern: Letzte Gräueltaten in Altötting" - Bayern - SZ.de</a></li>
+<li><a href="https://www.sueddeutsche.de/muenchen/dachau/dachau-kz-befreieung-gedenken-1.4895859">"Befreiung des KZ Dachau - Erinnern gegen den Hass" - Dachau - SZ.de</a></li>
+<li><a href="https://www.sueddeutsche.de/muenchen/landkreismuenchen/haar-psychatrie-nationalsozialismus-1.4759913">"Psychiatrie im Nationalsozialismus" - Landkreis München - SZ.de</a></li>
+<li><a href="https://plus.polskatimes.pl/prawda-o-dzieciach-zbrodniarzy-hitlerowskich/ar/12089877">Andrzej Dworak "Prawda o dzieciach zbrodniarzy hitlerowskich"</a></li>
+<li><a href="https://www.warhistoryonline.com/war-articles/a-strange-and-lonely-hero-ss-officer-kurt-gerstein-who-tried-to-save-jews.html">"A strange and lonely hero, SS Officer Kurt Gerstein who tried to save Jews"</a></li>
+<li><a href="http://historia-swidnica.pl/lager-122-i-220-w-strzegomiu-cz-i/">"Lager 122 i 220 w Strzegomiu (cz. I)"</a></li>
+<li><a href="http://ludziezeznakiemp.pl/">Nieobecni. Ludzie ze znakiem “P” - strona poświęcona polskim robotnikom przymusowym w III Rzeszy, związanym z Dolnym Śląskiem i Wrocławiem</a></li>
+<li><a href="https://www.welt.de/kultur/article8792870/Wo-der-Schlaechter-von-Polen-herrschte.html">"Wo der "Schlächter von Polen" herrschte"</a> Hans Frank</li>
+<li><a href="https://www.sueddeutsche.de/politik/voelkermord-sinti-roma-rassismus-interview-1.4775586">"NS-Verbrechen an Sinti und Roma: "Alle Versuche, die Täter zur Rechenschaft zu ziehen, wurden vereitelt""</a></li>
+<li><a href="https://wielkahistoria.pl/sady-w-iii-rzeszy-jak-hitler-przejal-kontrole-nad-wymiarem-sprawiedliwosci/">"Sądy w III Rzeszy. Jak Hitler przejął kontrolę nad wymiarem sprawiedliwości?"</a></li>
+<li><a href="https://fakty.interia.pl/deutsche-welle/news-mit-czystych-rak-wehrmachtu-trzeba-przyznac-sie-do-winy,nId,4485998">"Mit czystych rąk Wehrmachtu. "Trzeba przyznać się do winy""</a></li>
 </ul>

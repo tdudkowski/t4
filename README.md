@@ -1,12 +1,12 @@
 # Akcja T4
 
 Teksty opracowane na stronę o Akcji T4 i eugenicznych aspektach polityki hitlerowskiej. Planowany layout: [CRW Copycat](https://tdudkowski.github.io/Layouts/Layout05/)\
-Do końca października planuję zakończyć pracę nad tekstem podstawowym strony (nazwijmy to wersją 1.0). Listopad to opracowanie wersji finalnej. Zastrzegam się, że z powodu objętości materiału są tu nie tylko literówki i błędy stylistyczne do poprawienia. W tej chwili to ciągle jest brudnopis.
+Zastrzegam się, że z powodu objętości materiału są tu nie tylko literówki i błędy stylistyczne do poprawienia. W tej chwili to ciągle jest brudnopis.
 
 Pliki:
 
 - najważniejsze są oczywiście pliki z nazwą **t4.md**, w którym zawarta jest cała informacja o Akcji T4
-- źródła czyli książki i odnośniki zawarte są w **materialy.md**;
+- źródła, czyli książki i odnośniki zawarte są w **materialy.md**;
 - co do reszty, tak samo jak w powyższych przykładach nazwy plików opisują ich zawartość.
 
 ## Co możesz zrobić?
@@ -38,9 +38,11 @@ W zakresie tekstu głównego na ver 1.0:
 
 ## Roadmap aka harmonogram
 
-- do końca października zakończyć dodawanie tekstu
-- listopad odgałęzienie finalnego tekstu i opracowanie go
-- grudzień: strona
+Z powodu braku czasu nie moge podać żadnych terminów, ale kolejność jest następująca:
+
+- zakończyć dodawanie tekstu
+- odgałęzienie finalnego tekstu i opracowanie go
+- strona, w pierwszej odsłonie; ponieważ będzie to tylko kilka dokumentów, prawdopodobnie zwykły HTML+CSS
 
 ## Odnośniki:
 
