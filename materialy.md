@@ -1,7 +1,7 @@
 # Materiały
 
-- [Materiały](#materia%c5%82y)
-  - [Książki](#ksi%c4%85%c5%bcki)
+- [Materiały](#materiały)
+  - [Książki](#książki)
     - [Hitleryzm](#hitleryzm)
     - [SS](#ss)
     - [Akcja T4](#akcja-t4)
@@ -9,14 +9,14 @@
     - [Holokaust](#holokaust)
     - [Auschwitz](#auschwitz)
   - [Filmy](#filmy)
-  - [Odnośniki](#odno%c5%9bniki)
+  - [Odnośniki](#odnośniki)
     - [Eugenika](#eugenika)
     - [Akcja T4](#akcja-t4-1)
-      - [Gedenkstätten](#gedenkst%c3%a4tten)
-      - [Pozostałe](#pozosta%c5%82e)
-      - [T4 artykuły](#t4-artyku%c5%82y)
+      - [Gedenkstätten](#gedenkstätten)
+      - [Pozostałe](#pozostałe)
+      - [T4 artykuły](#t4-artykuły)
     - [Inne](#inne)
-    - [Artykuły](#artyku%c5%82y)
+    - [Artykuły](#artykuły)
     - [Shoa](#shoa)
     - [Inne](#inne-1)
 
@@ -160,6 +160,7 @@ Linki do filmów na YT są opisane nawiasami kwadratowymi: [YT "Tytuł filmu" [c
   <li>Das Bild-, Ton- und Dokumentenarchiv über Clemens: <a href="http://www.galen-archiv.de/index.php?option=com_content&view=article&id=8&Itemid=12">Predigt vom 13. Juli 1941</a> | <a href="http://www.galen-archiv.de/index.php?option=com_content&view=article&id=9&Itemid=17">Predigt vom 20. Juli 1941</a> | <a href="http://www.galen-archiv.de/index.php?option=com_content&view=article&id=4&Itemid=18">Predigt vom 3. August 1941</a></li>
   <li><a href="http://historiajarocina.pl/artykuly/herbert-lange-tajemniczy-komisarz-gestapo/">Herbert Lange – tajemniczy komisarz Gestapo</a></li>
   <li>Holocaust Memorial Day Trust <a href="https://www.hmd.org.uk/learn-about-the-holocaust-and-genocides/nazi-persecution/disabled-people/">Disabled People</a></li>
+  <li><a href="https://www.timesofisrael.com/80-years-ago-lethal-nazi-t4-center-began-euthanizing-germans-with-disabilities/">"80 years ago, lethal Nazi T4 center began euthanizing Germans with disabilities"</a></li>
 </ul>
 
 ### Inne
@@ -242,4 +243,15 @@ Linki do filmów na YT są opisane nawiasami kwadratowymi: [YT "Tytuł filmu" [c
 <li><a href="https://www.sueddeutsche.de/politik/voelkermord-sinti-roma-rassismus-interview-1.4775586">"NS-Verbrechen an Sinti und Roma: "Alle Versuche, die Täter zur Rechenschaft zu ziehen, wurden vereitelt""</a></li>
 <li><a href="https://wielkahistoria.pl/sady-w-iii-rzeszy-jak-hitler-przejal-kontrole-nad-wymiarem-sprawiedliwosci/">"Sądy w III Rzeszy. Jak Hitler przejął kontrolę nad wymiarem sprawiedliwości?"</a></li>
 <li><a href="https://fakty.interia.pl/deutsche-welle/news-mit-czystych-rak-wehrmachtu-trzeba-przyznac-sie-do-winy,nId,4485998">"Mit czystych rąk Wehrmachtu. "Trzeba przyznać się do winy""</a></li>
+<li><a href="https://artdaily.com/news/123744/Auschwitz-renovation-uncovers-objects-hidden-by-prisoners">"Auschwitz renovation uncovers objects hidden by prisoners"</a></li>
+<li><a href="https://wielkahistoria.pl/bylam-sluzaca-komendanta-birkenau-relacja-polki-zmuszonej-do-pracy-w-domu-josefa-kramera/"></a></li>
+<li><a href="https://75jahrekriegsende.berlin/experience">Experience | 75 Jahre Kriegsende</a></li>
+<li><a href="https://www.berliner-zeitung.de/75-jahre/75-jahre-berliner-zeitung-das-kz-belsen-wird-niedergebrannt-wegen-seuchengefahr-li.82116">Das KZ Belsen wird niedergebrannt wegen  Seuchengefahr</a></li>
+<li><a href="https://wielkahistoria.pl/niemcy-nie-zbudowali-auschwitz-od-zera-co-wczesniej-znajdowalo-sie-na-miejscu-obozu/">"Niemcy nie zbudowali Auschwitz od zera. Co wcześniej znajdowało się na miejscu obozu?"</a></li>
+<li><a href="https://histmag.org/Ja-bym-ich-powiesil-nie-za-glowe-a-za-jezyki-zeby-meczyli-sie-dluzej-15237/">"„Ja bym ich powiesił nie za głowę, a za języki, żeby męczyli się dłużej”"</a></li>
+<li><a href="https://www.sueddeutsche.de/politik/eichmann-prozess-urteil-1.4913769">"Ankläger im Eichmann-Prozess: Ein Kämpfer namens Gabriel Bach"</a></li>
+<li><a href="https://taz.de/Angriffe-auf-KZ-Gedenkstaetten/!5684941/">"Angriffe auf KZ-Gedenkstätten: Im Visier der Neonazis"</a></li>
+<li><a href="https://ukraineverstehen.libmod.de/dossier-shoa-durch-kugeln/">"Dossier: Shoa durch Kugeln"</a></li>
+<li><a href="https://www.bbc.com/future/article/20200526-dr-gisella-perl-the-auschwitz-doctor-who-saved-lives">"The Auschwitz doctor who couldn't 'do no harm'"</a></li>
+<li><a href="https://www.dw.com/pl/mit-czystych-rąk-wehrmachtu-trzeba-przyznać-się-do-winy/a-53366584">"Mit czystych rąk Wehrmachtu. "Trzeba przyznać się do winy""</a></li>
 </ul>
