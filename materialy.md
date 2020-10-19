@@ -161,6 +161,7 @@ Linki do filmów na YT są opisane nawiasami kwadratowymi: [YT "Tytuł filmu" [c
   <li><a href="http://historiajarocina.pl/artykuly/herbert-lange-tajemniczy-komisarz-gestapo/">Herbert Lange – tajemniczy komisarz Gestapo</a></li>
   <li>Holocaust Memorial Day Trust <a href="https://www.hmd.org.uk/learn-about-the-holocaust-and-genocides/nazi-persecution/disabled-people/">Disabled People</a></li>
   <li><a href="https://www.timesofisrael.com/80-years-ago-lethal-nazi-t4-center-began-euthanizing-germans-with-disabilities/">"80 years ago, lethal Nazi T4 center began euthanizing Germans with disabilities"</a></li>
+  <li><a href="https://ciekawostkihistoryczne.pl/2018/05/25/przymusowe-sterylizacje-kto-w-iii-rzeszy-mogl-zostac-nimi-objety/">"Przymusowe sterylizacje. Kto w III Rzeszy mógł zostać nimi objęty?"</a></li>
 </ul>
 
 ### Inne
@@ -254,4 +255,39 @@ Linki do filmów na YT są opisane nawiasami kwadratowymi: [YT "Tytuł filmu" [c
 <li><a href="https://ukraineverstehen.libmod.de/dossier-shoa-durch-kugeln/">"Dossier: Shoa durch Kugeln"</a></li>
 <li><a href="https://www.bbc.com/future/article/20200526-dr-gisella-perl-the-auschwitz-doctor-who-saved-lives">"The Auschwitz doctor who couldn't 'do no harm'"</a></li>
 <li><a href="https://www.dw.com/pl/mit-czystych-rąk-wehrmachtu-trzeba-przyznać-się-do-winy/a-53366584">"Mit czystych rąk Wehrmachtu. "Trzeba przyznać się do winy""</a></li>
+<li><a href="https://www.accidentaltalmudist.org/heroes/2020/06/17/the-righteous-nazi/">"The Righteous Nazi"</a> Helmut Kleinicke was a German engineer who supervised construction projects at Auschwitz while saving Jews from the gas chambers</li>
+<li><a href="https://www.jpost.com/israel-news/culture/unearthing-the-unvarnished-truth-about-lithuanias-holocaust-631924">"Unearthing the unvarnished truth about Lithuania’s Holocaust"</a></li>
+<li><a href="https://orf.at/stories/3170087/">„Fünf Jahre KZ“ Wie Stanislaw Grzesiuk die Lager überlebte</a></li>
+<li><a href="https://thoughtcatalog.com/jim-goad/2020/02/unit731/">"Human Guinea Pigs: The Horrors Of Unit 731"</a></li>
+<li><a href="https://www.sueddeutsche.de/politik/antisemitismus-nahost-israel-nazis-1.4909779">"NS-Antisemitismus und Muslime. Eine Achse der anderen Art"</a></li>
+<li><a href="https://www.vice.com/en_us/article/g5pqk4/german-neo-nazis-are-getting-explosives-training-at-a-white-supremacist-camp-in-russia">"German Neo Nazis Are Getting Explosives Training at a White Supremacist Camp in Russia"</a></li>
+<li><a href="https://www.konflikty.pl/historia/druga-wojna-swiatowa/nieznani-sprawiedliwi-pulkownik-battel-i-major-liedtke/">Nieznani Sprawiedliwi – pułkownik Battel i major Liedtke | Konflikty.pl</a></li>
+<li><a href="https://www.sueddeutsche.de/muenchen/ellen-ammann-widerstandskaempferin-hitler-1.4952823">"Frauenführerin und Hitler-Gegnerin"</a> Ellen Ammann</li>
+<li><a href="https://orf.at/stories/3172056/">"NS-Raubkunst: US-Höchstgericht widmet sich Welfenschatz"</a></li>
+<li><a href="https://www.sueddeutsche.de/kultur/hitler-ausstellung-oesterreich-1.4952290">"Der Teenager Hitler"</a></li>
+<li><a href="https://www.tabletmag.com/sections/news/articles/gangsters-vs-nazis">"Gangsters vs. Nazis How the Jewish mob fought American admirers of the Third Reich"</a></li>
+<li><a href="https://www.spiegel.de/geschichte/spezialkommandos-im-mittelalter-muehlenbraende-und-meuchelmorde-a-890c9618-ad41-4faf-9e4f-87c2b04cd0a5?utm_source=pocket-newtab-global-de-DE">"Mühlenbrände und Meuchelmorde"</a></li>
+<li><a href="http://www.jhi.pl/blog/2020-07-09-masowe-mordy-ludnosci-zydowskiej-w-jedwabnem-radzilowie-i-innych-miejscowosciach-na-wschodnim-mazowszu-w-lecie-1941-r">"Masowe mordy ludności żydowskiej w Jedwabnem, Radziłowie i innych miejscowościach na wschodnim Mazowszu w lecie 1941 r."</a></li>
+<li><a href="https://ciekawostkihistoryczne.pl/2019/09/16/klinika-aniolow-smierci-to-tu-nazisci-torturowali-i-mordowali-niepelnosprawne-dzieci/">"Klinika aniołów śmierci. To tu naziści torturowali i mordowali niepełnosprawne dzieci"</a></li>
+<li><a href="https://www.sueddeutsche.de/politik/emser-depesche-bismarck-wilhelm-1.4968319">Emser Depesche 1870 : Die Pressemitteilung, die ein Gemetzel auslöste</a></li>
+<li><a href="https://www.theguardian.com/world/2020/aug/22/holocaust-denial-graffitied-at-site-of-nazi-massacre-in-france">"Holocaust denial graffitied at site of Nazi massacre in France"</a></li>
+<a href="http://portal-militaergeschichte.de/ganz_graeberoffiziere">"Aus der Arbeit zweier Gräberoffiziere an der Ostfront 1941–1944"</a>
+<a href="https://jungle.world/artikel/2020/33/hitler-im-hofbraeuhaus">"Hitler im Hofbräuhaus"</a>
+<a href="https://gedenken.noblogs.org">Digitale Aktionstage zum Gedenkort KZ Uckermark</a>
+<a href="https://www.theguardian.com/world/2020/aug/16/facebook-algorithm-found-to-actively-promote-holocaust-denial">"Facebook algorithm found to 'actively promote' Holocaust denial"</a>
+<a href="https://www.ralfgrabuschnig.com/eugenik/">"Die Eugenik in der Geschichte und heute"</a>
+<a href="https://interaktiv.tagesspiegel.de/lab/antisemitische-uebergriffe-so-wurde-die-gewalt-zum-flaechenbrand/">ntisemitische Übergriffe 1930-38: So wurde die Gewalt zum Flächenbrand | Tagesspiegel</a>
+<a href="https://www.nytimes.com/2020/09/04/magazine/-secret-diarist-dachau.html">"A Secret Diary Chronicled the ‘Satanic World’ That Was Dachau"</a>
+<a href="https://www.ctvnews.ca/mobile/world/most-germans-knew-holocaust-was-happening-new-film-claims-1.5091288">"Most Germans knew Holocaust was happening, new film claims"</a> "Final Account"
+<a href="https://www.obserwatorfinansowy.pl/bez-kategorii/rotator/mit-gospodarczego-sukcesu-iii-rzeszy/">Aleksander Piński "Mit gospodarczego sukcesu III Rzeszy"</a>
+<a href="https://www.sueddeutsche.de/muenchen/dachau/markt-indersdorf-ns-zwangsarbeiterinnen-kinder-1.5020773">"Kinder von NS-Arbeitssklavinnen: Geboren um zu sterben"</a>
+<a href="https://www.spiegel.de/geschichte/zweiter-weltkrieg-hinrichtung-von-marinesoldaten-1945-in-daenemark-a-2a604517-c979-451a-92f3-a41348903371">"Hinrichtung von Marinesoldaten 1945 Sie wollten nicht mehr mitspielen, der Krieg war ja aus"</a>
+<a href="https://www.spiegel.de/geschichte/juedische-emigration-a-948165.html">Jüdische Emigration Gehen oder Bleiben?</a>
+<a href="https://www.spiegel.de/geschichte/zweiter-weltkrieg-a-948921.html">"Zweiter Weltkrieg Bomben auf Bethel"</a>
+<li><a href="http://studiazydowskie.edu.pl/">Studia polsko-żydowskie</a></li>
+<li><a href="http://www.vaterland.pl">III Rzesza 1933-1945 - vaterland.pl</a></li>
+<li><a href="https://www.tagesspiegel.de/kultur/historikerverband-kritisiert-hohenzollern-kontraere-meinungen-aushalten/26216560.html">"Historikerverband kritisiert Hohenzollern Konträre Meinungen aushalten"</a></li>
+<li><a href="http://holocaust-history-archive.com">Holocaust History Archive</a></li>
+<li><a href="https://www.genocidewatch.com">genocidewatch</a></li>
+<li><a href="https://www.spiegel.de/geschichte/protokoll-der-landshut-entfuehrung-a-947933.html">"Protokoll der "Landshut"-Entführung "Wo sind die Schweine?""</a></li>
 </ul>

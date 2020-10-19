@@ -5,12 +5,12 @@
 Z wielu powodów określenie co jest obozem koncentracyjnym nie jest takie proste, ogólnie oznacza to miejsce izolacji dużych grup ludzkich z jakichś powodów politycznych uznanych za niepożądanych.
 Samo pojęcie zostało po raz pierwszy użyte w 1897 kiedy hiszpański generał Valeriano Weyler y Nicolau podczas pacyfikacji Kuby zorganizował duże obozy, w których uwięziono masę często niezwiązanych z rebelią ludzi, nazywano je campos de concentración.
 
-* Takie obozy istniały wcześniej, np. USA trzymała w nich rdzennych Amerykanów.
-* Brytyjczycy podczas Drugiej Wojny Burskiej.
-* Kolonialne oddziały Schutztruppe kajzerowskiej armii niemieckiej w Afryce Południowo-Zachodniej w latach 1904-08, najcięższy był Konzentrationslager auf der Haifischinsel vor Lüderitzbucht na Shark Island.
-* Sowieckie gułagi.
-* 1934 Bereza Kartuska.
-* Komunistyczne Chiny.
+- Takie obozy istniały wcześniej, np. USA trzymała w nich rdzennych Amerykanów.
+- Brytyjczycy podczas Drugiej Wojny Burskiej.
+- Kolonialne oddziały Schutztruppe kajzerowskiej armii niemieckiej w Afryce Południowo-Zachodniej w latach 1904-08, najcięższy był Konzentrationslager auf der Haifischinsel vor Lüderitzbucht na Shark Island.
+- Sowieckie gułagi.
+- 1934 Bereza Kartuska.
+- Komunistyczne Chiny.
 
 ## Obozy koncentracyjne w nazistowskich Niemczech 1933-39
 
@@ -24,7 +24,7 @@ Ogłoszenie prasowe:
 
 > "the first concentration camp is to be opened in Dachau with an accommodation for 5,000 people. All Communists and – where necessary – Reichsbanner and Social Democratic functionaries who endanger state security are to be concentrated there, as in the long run it is not possible to keep individual functionaries in the state prisons without overburdening these prisons."
 
-Gazety pisały o "usunięciu wszystkich przeciwników Rzeszy do obozów koncentracyjnych". 
+Gazety pisały o "usunięciu wszystkich przeciwników Rzeszy do obozów koncentracyjnych".
 
 Na początku większość uwięzionych to byli KPD, SPD, socjaldemokraci, działacze związkowi. Potem od 1934 dołączono kolejne grupy "niepożądanych" homoseksualiści (paragraf 175), Sinti i Roma, świadkowie Jehowy, oraz kategoria tzw Asoziale. W 1938 dołączono Żydów. Podczas wojny Polacy, Serbowie, kler, niepełnosprawni, jeńcy wojenni (gł sowieccy).
 
@@ -32,7 +32,7 @@ W 1941 powstają pierwsze oozy zagłady. Bardzo wyraźnie odróżnia się je od 
 
 ## WWII
 
-Po wybuchu wojny system obozów koncentracyjnych gwałtownie się rozrasta i zyskuje nowe funkcje. Miejsce uwięzienia, zniewolenia, wykorzystania  a także śmierci milionów ludzi. Obozy powstają w całej okupowanej Europie, od Francji po Rosję.
+Po wybuchu wojny system obozów koncentracyjnych gwałtownie się rozrasta i zyskuje nowe funkcje. Miejsce uwięzienia, zniewolenia, wykorzystania a także śmierci milionów ludzi. Obozy powstają w całej okupowanej Europie, od Francji po Rosję.
 
 Wg Niemieckiego Ministerstwa Sprawiedliwości na terenach kontrolowanych przez władze hitlerowskie istniało 1200 obozów i podobozów.
 Jewish Virtual Library szacuje liczbę nazistowskich obozów w całej okupowanej Europie na 15 tys, wiele z nich istniało krótko.
@@ -40,9 +40,9 @@ Encyclopedia of Camps and Ghettos, 1933–1945 United States Holocaust Memorial 
 
 Niektóre miały całą sieć podobozów:
 
-* Gross-Rosen ponad 100
-* Auschwitz 44
-* Stutthof 40
+- Gross-Rosen ponad 100
+- Auschwitz 44
+- Stutthof 40
 
 Obozy powstawały w pobliżu dużych ośrodków populacyjnych, tam gdzie było dużo Żydów, polskiej inteligencji, komunistów,Cyganów. Można tam było przesiedlić także Żydów z Niemiec.
 
@@ -54,13 +54,13 @@ Była też oddzielna kategoria więźniów stanu, trzymanych czasem w roli zakł
 
 W większości obozów więźniowie byli podzieleni na kategorie, najczęściej były to trójkąty w określonym kolorze przyszywane na rękawie:
 
-* czerwone komuniści i polityczni
-* zielony kryminaliści
-* różowe homoseksualiści
-* purpurowe świadkowie Jehowy
-* czarne Asoziale i "nieroby"
-* żółte Żydzi
-* brązowe Romani
+- czerwone komuniści i polityczni
+- zielony kryminaliści
+- różowe homoseksualiści
+- purpurowe świadkowie Jehowy
+- czarne Asoziale i "nieroby"
+- żółte Żydzi
+- brązowe Romani
 
 Fatalne warunki panujące w obozach koncentracyjnych oraz brutalne metody spowodowały okaleczenie i śmierć milionów ludzi. Więźniowie byli niedożywieni, bici, nieleczeni, przepracowani, jeśli nie byli zdolni do pracy zabijano ich.
 Transportowano ich w bydlęcych wagonach, bez wody, lub z niewielką jej ilością, przez wiele dni, czasem tygodni. Wielu zmarło w czasie transportu.
@@ -82,32 +82,32 @@ Za "Auschwitz Nazistowski obóz śmierci", Wydawnictwo Państwowego Muzeum Oświ
 
 ## Wyzwolenie
 
-* Pierwszym wyzwolonym obozem koncentracyjnym był Majdanek 23 lipca 1944.
-* Auschwitz 27 stycznia 1945
-* Buchenwald Amerykanie 11 kwietnia
-* Bergen Belsen Brytyjczycy 15 kwietnia
-* Dachau Amerykanie 29 kwietnia
-* Ravensbruck sowieci ten sam dzień
-* Matthausen Amerykanie 5 maja
-* Theresienstadt sowieci 8 maja
-* Treblinka, Sobibór i Bełżec zostały zlikwidowane jeszcze w 1943
+- Pierwszym wyzwolonym obozem koncentracyjnym był Majdanek 23 lipca 1944.
+- Auschwitz 27 stycznia 1945
+- Buchenwald Amerykanie 11 kwietnia
+- Bergen Belsen Brytyjczycy 15 kwietnia
+- Dachau Amerykanie 29 kwietnia
+- Ravensbruck sowieci ten sam dzień
+- Matthausen Amerykanie 5 maja
+- Theresienstadt sowieci 8 maja
+- Treblinka, Sobibór i Bełżec zostały zlikwidowane jeszcze w 1943
 
 Pułkownik William W. Quinn z U.S. 7th Army o Dachau: "There our troops found sights, sounds, and stenches horrible beyond belief, cruelties so enormous as to be incomprehensible to the normal mind."
-W  większości wyzwolonych przez sowietów prawie wszyscy więźniowie byli ewakuowani, a Auschwitz zostało tylko 7 tys w tym 180 dzieci z tych które przeznaczono do eksperymentów.
+W większości wyzwolonych przez sowietów prawie wszyscy więźniowie byli ewakuowani, a Auschwitz zostało tylko 7 tys w tym 180 dzieci z tych które przeznaczono do eksperymentów.
 W Bergen-Belsen brytyjska 11th Armoured Division napotkała 60 tys ludzi i 13 tys niepochowanych ciał; ponadto 10 tys zmarło z chorób i głodu już po wyzwoleniu; zmuszali SS do zbierania ciał i grzebania ich w masowych mogiłach.
 
 ## Rodzaje obozów
 
 Historycy dzielą obozy na wiele rodzajów wg przeznaczenia, struktury administracyjnej, czy składu więźniów. System obozów zmieniał się na przeciągu lat i same obozy często zmieniały charakter.
 
-* wczesne obozy tzw dzikie - powstawały wszędzie w Niemczech, jak to Himmler określił "jak grzyby po deszczu" bez żadnego nadzoru władz państwowych i partyjnych, z inicjatywy miejscowego aparatu i oddziałów paramilitarnych, w nieużywanych magazynach, barakach, piwnicach, wagonach, itp.
-* państwowe obozy: Dachau, Oranienburg, Esterwegen; strzeżone przez SA, później SS; w 1935 107 tys więźniów
-* obozy dla zakładników Geisellager, np Sint-Michielsgestel i Haaren
-* obozy pracy Arbeitslager; więźniowie zmuszani byli do ciężkiej pracy w nieludzkich warunkach, traktowani brutalnie, niektóre z nich były podobozami tzw Aussenlager wokół centralnych Stammlager, lub służyły jako "obozy operacyjne" ustanowione tymczasowo
-* obozy jenieckie Kriegsgefangenen-Mannschafts-Stammlager / Stalag schwytani żołnierze z reguły byli zmuszani do pracy Arbeitskommandos; dla oficerów Offizierslager' / Oflag; te były dla armii istniały także specjalne Marinelager / Marlag i Marineinterniertenlager / Milag dla marynarki; Kriegsgefangenen-Mannschafts-Stammlager Luftwaffe / Stalag Luft były jedynymi obozami gdzie oficerowie byli razem z resztą
-* "rehabilitacja" i "reedukacja" Polaków Arbeitserziehungslager polska inteligencja
-* zbiorcze i tranzytowe, w których więźniowie byli zbierani przed dalszym transportem Sammellager, albo tymczasowo zatrzymani Durchgangslager / Dulag a potem przewiezieni dalej
-* obozy zagłady Vernichtungslager
+- wczesne obozy tzw dzikie - powstawały wszędzie w Niemczech, jak to Himmler określił "jak grzyby po deszczu" bez żadnego nadzoru władz państwowych i partyjnych, z inicjatywy miejscowego aparatu i oddziałów paramilitarnych, w nieużywanych magazynach, barakach, piwnicach, wagonach, itp.
+- państwowe obozy: Dachau, Oranienburg, Esterwegen; strzeżone przez SA, później SS; w 1935 107 tys więźniów
+- obozy dla zakładników Geisellager, np Sint-Michielsgestel i Haaren
+- obozy pracy Arbeitslager; więźniowie zmuszani byli do ciężkiej pracy w nieludzkich warunkach, traktowani brutalnie, niektóre z nich były podobozami tzw Aussenlager wokół centralnych Stammlager, lub służyły jako "obozy operacyjne" ustanowione tymczasowo
+- obozy jenieckie Kriegsgefangenen-Mannschafts-Stammlager / Stalag schwytani żołnierze z reguły byli zmuszani do pracy Arbeitskommandos; dla oficerów Offizierslager' / Oflag; te były dla armii istniały także specjalne Marinelager / Marlag i Marineinterniertenlager / Milag dla marynarki; Kriegsgefangenen-Mannschafts-Stammlager Luftwaffe / Stalag Luft były jedynymi obozami gdzie oficerowie byli razem z resztą
+- "rehabilitacja" i "reedukacja" Polaków Arbeitserziehungslager polska inteligencja
+- zbiorcze i tranzytowe, w których więźniowie byli zbierani przed dalszym transportem Sammellager, albo tymczasowo zatrzymani Durchgangslager / Dulag a potem przewiezieni dalej
+- obozy zagłady Vernichtungslager
 
 Żadna z tych kategorii nie była niezależna od innych i wyłączna. Większość obozów stanowi połączenie wielu kategorii. Wiele z nich miało elementy obozów zagłady, ale systematyczne zabijanie natychmiast po przybyciu miało miejsce tylko w obozach zagłady.
 
@@ -155,6 +155,11 @@ Założony przez NSDAP i DNVP rozwiązana 6 lipca 1933
 
 jesienią 1939 Bach Zelewski
 1940
+
+Za "Auschwitz Nazistowski obóz śmierci", Wydawnictwo Państwowego Muzeum Oświęcim-Brzezinka 2010 s 95 "Firma Bayer, nie zadowalając się eksperymentami farmakologicznymi przeprowadzanymi w szpitalach obozowych KL Auschwitz, celem wypróbowania nowo wyprodukowanych leków odurzających zakupiła w obozie oświęcimskim 150 więźniarek, płacąc za każdą z nich 170 RM (komendantura obozu żądała początkowo 200 RM za więźniarkę, cenę tę jednak firma Bayer uznała za zbyt wygórowaną). W jednym z zachowanych pism skierowanych do zarządu obozu firma Bayer donosiła: "Transport 150 kobiet przybył w dobrym stanie. Ponieważ jednak w toku doświadczeń zmarły, nie możemy wyciągnąć wiążących wniosków. Zwracamy się więc do panów z prośbą o przesłanie nam następnej grupy kobiet w tej liczbie i po tej samej cenie"[24].
+
+--
+24 Jan Sehn, Obóz koncentracyjny Oświęcim-Brzezinka (Auschwitz-Birkenau), Warszawa 1964 s. 80, 84"
 
 ## Groß-Rosen
 
