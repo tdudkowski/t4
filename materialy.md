@@ -290,4 +290,47 @@ Linki do filmów na YT są opisane nawiasami kwadratowymi: [YT "Tytuł filmu" [c
 <li><a href="http://holocaust-history-archive.com">Holocaust History Archive</a></li>
 <li><a href="https://www.genocidewatch.com">genocidewatch</a></li>
 <li><a href="https://www.spiegel.de/geschichte/protokoll-der-landshut-entfuehrung-a-947933.html">"Protokoll der "Landshut"-Entführung "Wo sind die Schweine?""</a></li>
+<li><a href="https://www.thearticle.com/did-west-germanys-first-postwar-president-spy-for-the-us">"Did West Germany’s first postwar President spy for the US?"</a></li>
 </ul>
+
+https://www.taniaksiazka.pl/sprawcy-ofiary-swiadkowie-zaglada-zydow-33-45-hilberg-raul-p-150539.html 32,72 zł / 29,93
+https://www.taniaksiazka.pl/auschwitz-medycyna-iii-rzeszy-i-jej-ofiary-klee-ernst-p-1448134.html 37,35 zł / 31,50  2ed
+https://www.taniaksiazka.pl/nowa-psychologia-sukcesu-carol-s-dweck-p-852163.html 26,73 zł
+
+https://www.taniaksiazka.pl/lamacze-kodow-historia-kryptologii-david-kahn-p-1232061.html 107,73 zł / 113,24 
+https://www.taniaksiazka.pl/repetytorium-maturzysty-2021-matematyka-poziom-podstawowy-i-rozszerzony-ewa-galeska-p-523612.html 20,12 zł
+https://www.taniaksiazka.pl/Szukaj/q-Historia+nazistowskich+oboz%F3w+koncentracyjnych 41,93 zł / 47,32
+https://www.taniaksiazka.pl/ostateczne-rozwiazanie-losy-zydow-w-latach-1933-1949-david-cesarani-p-1184869.html 60,00 zł / 69,99
+https://www.taniaksiazka.pl/czesi-przewodnik-po-historii-narodu-i-panstwa-jokes-petr-p-1453516.html  28,12 zł
+https://www.taniaksiazka.pl/miejsca-holokaustu-w-europie-martin-winstone-p-928744.html 39,53 zł
+
+Antoni Kroh "Praga"
+Matla "Czechy poczatki panstw
+TypeScript na poważnie
+Bezpieczeństwo aplikacji webowych
+
+Burza nad Prowinz Pommern 26
+Łuny nad jeziorami, prusy wsschodnie 23
+Prusy w ogniu 14
+
+Dymy nad Gdanskieem 23
+
+https://replika.eu/tytul/w-poszukiwaniu-wunderwaffe-bronie-v-na-ziemiach-polskich/ 7.20
+https://replika.eu/tytul/szwadrony-smierci-hitlera-einsatzgruppen-i-logika-masowej-zbrodni/ 13,74
+https://replika.eu/tytul/eichmann-jego-zycie-i-zbrodnie/ 23.94
+
+https://replika.eu/tytul/doktorzy-z-piekla-rodem-3/ 29.94 zł
+https://replika.eu/tytul/tajny-pulk-kg-200-wspomnienia-pilota-luftwaffe/ 27.54 zł
+https://replika.eu/tytul/lubiaz-klasztor-mrocznych-tajemnic/ 29.94 zł
+https://replika.eu/tytul/tajni-egzekutorzy-polowanie-na-ariberta-heima-nazistowskiego-doktora-smierc/ 20.94 zł
+https://replika.eu/tytul/nikt-juz-nie-oczekiwal-litosci/ 17.94 zł
+
+
+Josef Hirtreiter, niemiecki robotnik, SS-Unterscharführer, uczestnik akcji T4, członek personelu obozów zagłady w Treblince i Sobiborze. 
+Sadysta, szczególnie lubiący mordowanie niemowląt. 
+Hirtreiter w obozie śmierci w Treblince, był obecny przy przyjmowaniu transportów i pędzeniu ludzi do komór gazowych, na każdym kroku znęcając się nad więźniami. Znany ze skrupulatnego stosunku do przestrzegania obozowego regulaminu - własnoręcznie rozstrzeliwał lub wieszał więźniów za najdrobniejsze przewinienia. Największe okrucieństwo i zezwierzęcenie przejawiał tym co robił niemowlętom, przybywającym w kolejnych transportach - chwytał je za nogi i wściekle walił nimi w ściany ciężarówek.
+Po wojnie skazany na dożywocie. Zwolniony ze względu na zły stan zdrowia, zmarł w 1978 r. w domu spokojnej starości.
+Post pochodzi z grupy Historia świata w cieniu wojen 1805-1945
+[ https://www.facebook.com/historia.1914.1945/posts/332362334910666 ]
+
+29 lipca 1941 roku SS-Obersturmbannführer Rudolf Hoess, komendant KL Auschwitz, odbył poufną rozmowę z SS- Reichsführerem Heinrichem Himmlerem. Podczas spotkania omówili sprawę technicznego rozwiązania kwestii żydowskiej. Hoess otrzymał od Himmlera rozkaz masowej zagłady Żydów w KL Auschwitz i polecenie przedstawienia do 4 tygodni dokładnego planu budowy urządzeń służących do masowego uśmiercania ludzi. Szczegóły w tej sprawie miał przekazać Hoessowi SS-Sturmbannführer Adolf Eichmann, który w niedługim czasie miał przybyć z wizytą do KL Auschwitz.

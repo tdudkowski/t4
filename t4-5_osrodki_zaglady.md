@@ -1,10 +1,10 @@
 - [Faza scentralizowana](#faza-scentralizowana)
- - [Grafeneck](#grafeneck)
- - [Brandenburg](#brandenburg)
- - [Hadamar](#hadamar)
- - [Pirna Sonnenstein "D"](#pirna-sonnenstein-d)
- - [Hartheim](#hartheim)
- - [Bernburg (Saale)](#bernburg-saale)
+  - [Grafeneck](#grafeneck)
+  - [Brandenburg](#brandenburg)
+  - [Hadamar](#hadamar)
+  - [Pirna Sonnenstein "D"](#pirna-sonnenstein-d)
+  - [Hartheim](#hartheim)
+  - [Bernburg (Saale)](#bernburg-saale)
  
 ## Faza scentralizowana
 
@@ -380,6 +380,9 @@ Latem 1941 w 14f13 w Pirna-Sonnenstein zamordowano także ponad tysiąc więźni
 W pierwszej połowie 1942 gł we wschodniej Polsce, w ramach operacji Reinhardt utworzono obozy w celu eksterminacji Żydów. Korzystano z doświadczeń Akcji T4. Około jedna trzecia pracowników ośrodka zabijania w Sonnenstein była zatrudniona w latach 1942 i 1943 w obozach zagłady Bełżec, Sobibor i Treblinka: Kurt Bolender, Kurt Franz, Heinrich Gley, Lorenz Hackenholt, Gottlieb Hering, Otto Horn, Erwin Lambert, Heinrich Matthes, Gustav Münzberger, Walter Nowak, Josef Oberhauser, Paul Rost i Friedrich Tauscher.
 
 Latem 1942 ośrodek w Sonnenstein został rozwiązany. Komora gazowa i krematorium rozebrano. Po starannym zatarciu śladów zbrodni budynki były używane od końca 1942 jako szpital Wehrmachtu. W tak zwanym Drezdeńskim Procesie Lekarzy latem 1947 część osób odpowiedzialnych za Akcję T4m została pociągnięta do odpowiedzialności. Sąd w Dreźnie skazał na śmierć Hermanna Paula Nitschego, który był jednym z dyrektorów medycznych T4 od wiosny 1940 oraz dwóch opoekunów z Sonnenstein.
+
+"28 lipca 1941 roku w KL Auschwitz miał miejsce pierwszy przypadek realizacji programu eutanazji.
+Komisja lekarska, która tego dnia przyjechała do obozu wybrała spośród więzniów 575 inwalidów, przewlekle chorych i starców, których następnie wywieziono do Sonnenstein w Saksonii i zabito tlenkiem węgla." Do sprawdzenia
 
 W Pirnie prawie nie rozmawiano o popełnionych tu przestępstwach. Na cztery dekady zapadło milczenie.
 

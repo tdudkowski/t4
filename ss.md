@@ -5,11 +5,12 @@
   - [Państwo SS](#państwo-ss)
   - [Charakterystyka](#charakterystyka)
   - [Struktura](#struktura)
-  - [Przed wojną](#przed-wojną)
+  - [Policja](#policja)
   - [Ochrona Hitlera](#ochrona-hitlera)
   - [Operacja Anthropoid](#operacja-anthropoid)
   - [Hierarchia i mundury](#hierarchia-i-mundury)
   - [Jednostki SS](#jednostki-ss)
+  - [SS-Totenkopfverbände](#ss-totenkopfverbände)
     - [SS-Sonderkommandos](#ss-sonderkommandos)
       - [Sonderkommando Lange](#sonderkommando-lange)
       - [Sonderkommando 1005](#sonderkommando-1005)
@@ -20,11 +21,13 @@
     - [Ahnenerbe](#ahnenerbe)
     - [SS-Frauenkorps](#ss-frauenkorps)
     - [SS-Mannschaften](#ss-mannschaften)
+  - [Szkoły SS](#szkoły-ss)
   - [Holokaust](#holokaust)
   - [Obozy zagłady](#obozy-zagłady)
   - [Przedsiębiorstwo Holokaust](#przedsiębiorstwo-holokaust)
+  - [Osądzenie](#osądzenie)
 
-SS (niem. Schutzstaffel SS) Sztafety (lub w innej wersji Eskadry) Ochronne: organizacja będąca w początkach swojego istnienia elitarnym zespołem ochrony przywódcy NSDAP Adolfa Hitlera, potem rozwinięta w policyjną służbę partyjną znajdująca się w strukturach SA bojówek partii, po 1934 stała się partyjnym państwem w państwie, posiadając osobny pion wojskowy, późniejsze Waffen SS, wywiad i kontrolując wszystkie służby policyjne Niemiec, wszystkie obozy koncentracyjne i cały aparat represji; dysponowała niewolniczą siłą robocza i była odpowiedzialna za realizację Holokaustu.
+SS (niem. Schutzstaffel SS) Sztafety (w innej wersji Eskadry) Ochronne: organizacja będąca w początkach swojego istnienia elitarnym zespołem ochrony przywódcy NSDAP Adolfa Hitlera, potem przekształcona w policyjną służbę partyjną w strukturach SA (bojówek partii), po 1934 stała się partyjnym państwem w państwie, posiadając osobny pion wojskowy (późniejsze Waffen SS), wywiad i kontrolując wszystkie służby policyjne Niemiec, wszystkie obozy koncentracyjne i cały aparat represji; dysponowała niewolniczą siłą robocza i była odpowiedzialna za realizację Holokaustu.
 
 Od połowy lat 30. na SS składają się:
 
@@ -34,7 +37,7 @@ Od połowy lat 30. na SS składają się:
 
 Ponosi pełną odpowiedzialność za większość niemieckich zbrodni wojennych i zbrodni przeciwko ludzkości. Międzynarodowy Trybunał Wojskowy w Norymberdze w 1947 uznał SS za organizację zbrodniczą (wyłączono z tej oceny SS-Reiterei). Ernst Kaltenbrunner najwyższy żyjący dowódca uznany za winnego zbrodni przeciw ludzkości i powieszony w 1946.
 
-SS ze względu na rozwój jest organizacją unikalną, nie da się jej opisać w jednym zdaniu w ciągu ponad 20 lat istnienia ulegała tak poważnym zmianom, że można mówić o trzech etapach istnienia, w każdym z nich była zupełnie inną organizacją.
+SS ze względu na rozwój jest organizacją unikalną, nie da się jej opisać w jednym zdaniu, w ciągu ponad 20 lat istnienia ulegała tak poważnym zmianom, że można mówić o trzech etapach istnienia, w każdym z nich była zupełnie inną organizacją.
 
 - 1923-29 ochrona osobista Hitlera - niewielki i z założenia elitarny oddział ochrony Hitlera, potem kilka takich jednostek, wreszcie jedna ze służb partyjnych realizujących utopię rasową NSDAP, formalnie i faktycznie podległa SA
 - 1929-33 policja partyjna - w styczniu 1929 szefem SS zostaje Heinrich Himmler, organizacja gwałtownie się rozrasta i zostają jej przydzielone nowe cele, powstają partyjne służby policyjne i wywiadowcze, zdobywa faktyczną niezależność od SA
@@ -50,17 +53,21 @@ W wyniku puczu monachijskiego w listopadzie 1923 zarówno NSDAP jak i Stoßtrupp
 
 W marcu 1925 następuje reaktywacją organizacji pod poprzednią nazwą. 1 kwietnia Julius Schreck otrzymał polecenie zorganizowania oddziału ochrony. 4 kwietnia ośmiu byłych członków Stoßtrupp tworzy nową jednostkę o nazwie Stabswache: Ulrich Graf, Christian Weber, Emil Maurice, Julius Schaub i Erhard Heiden, były członek Freikorps Marine-Brigade Ehrhardt. Oficjalnie jako Stoßtrupp Adolf Hitler występuje po raz kolejny 16 kwietnia 1925 podczas pogrzebu Ernsta Pöhnera, byłego komisarza policji w Monachium i uczestnika puczu monachijskiego. Z pochodniami towarzyszyli trumnie zmarłego.
 
-W sierpniu 1925 zmieniono tę nazwę na Sztafety (Eskadry) Ochronne Niemieckiej Partii Narodowosocjalistycznej (niem. Schutzstaffeln der Nationalsozialistischen Deutschen Arbeiterpartei). Pierwszym dowódcą jest Julius Schreck. Mieli mu zapewnić bezpieczeństwo także przed ewentualnym atakiem ze strony mało zdyscyplinowanych oddziałów SA. Formalnie i faktycznie podlegali SA. Przypadało 10 SS-manów na każdy Gau partyjny, za wyjątkiem Berlina gdzie było ich 20. Schreck wprowadził ścisłe zasady przynależności: niekarany, w wieku 23-35 lat, brak nałogów, dobry stan zdrowia, mieszkający w tym samym miejscu przynajmniej 5 lat.
+W sierpniu 1925 zmieniono tę nazwę na Sztafety (Eskadry) Ochronne Niemieckiej Partii Narodowosocjalistycznej (niem. Schutzstaffeln der Nationalsozialistischen Deutschen Arbeiterpartei). Nazwę tę zaproponował ówczesny szef SA, Hermann Göring, na uroczystościach poświęconych Manfredowi von Richthofenowi (stąd tłumaczenie nazwy jako Eskadry Ochronne, nawiązanie do fliegerbegleitstaffel Manfreda von Richthofena).
+
+Pierwszym dowódcą jest Julius Schreck. Mieli zapewnić Hitlerowi bezpieczeństwo także przed ewentualnym atakiem ze strony mało zdyscyplinowanych oddziałów SA. Formalnie i faktycznie podlegali SA. Przypadało 10 SS-manów na każdy Gau partyjny, za wyjątkiem Berlina gdzie było ich 20. Schreck wprowadził ścisłe zasady przynależności: niekarany, w wieku 23-35 lat, brak nałogów, dobry stan zdrowia, mieszkający w tym samym miejscu przynajmniej 5 lat.
 
 Wkrótce zaczęły powstawać podobne jednostki w innych miastach gdzie działało NSDAP, ale nosiły początkowo różne nazwy (np. Schutzkommando czy Sturmstaffel).
 
-9 listopada 1925 w drugą rocznicę puczu oficjalnie ujednolicono nazwę wszystkich oddziałów jako Schutzstaffel. Nazwę tę zaproponował ówczesny szef SA, Hermann Göring, na uroczystościach poświęconych Manfredowi von Richthofenowi (stąd tłumaczenie nazwy jako Eskadry Ochronne, nawiązanie do fliegerbegleitstaffel Manfreda von Richthofena). Julius Schreck dostaje tytuł Oberleitera (czyli nadkierownika). Rywalizacja z innymi samozwańczymi jednostkami SS i brak wsparcia ze strony SA doprowadizły do ustąpienia.
+9 listopada 1925 w drugą rocznicę puczu oficjalnie ujednolicono nazwę wszystkich oddziałów jako Schutzstaffel. Julius Schreck dostaje tytuł Oberleitera (czyli nadkierownika). Rywalizacja z innymi samozwańczymi jednostkami SS i brak wsparcia ze strony SA doprowadziły do ustąpienia.
 
 14 kwietnia 1926 szefem SS zostaje powracający z ukrycia w Austrii Joseph Berthold z oficjalnym tytułem Fuhrer der Schutzstaffeln der NSDAP. Udało mu się zalożyć 75 nowych grup i w sumie liczebność osiagnęła 100 ludzi. 4 lipca 1926 na II Zjeździe NSDAP w Weimarze uroczyście powierzono mu Blutfahne. Wprowadził tytuł Reichsführer-SS. Jest bardziej dynamiczny od Schrecka i wszystkie ograniczenia, którym podlega są dla niego przeszkodą. W wyniku intryg Philipa Bouhlera i skarbnika NSDAP Franza Schwarza został zmuszony do podania się do dymisji 1 marca 1927.
 
-W tym czasie SS niczym od SA się nie odróżnia, jest jej częścią, z punktu widzenia SA jest bardziej zdyscyplinowane, agresywne i bardziej narażone na konflitk z prawem.
+Jego następcą zostaje jego zastępca, Erhard Heiden człowiek bez inicjatywy i zdolności przywódczych. Wprowadził ścisły kodeks dyscypliny, bardziej rygorystyczny niż reguły obowiązujące w SA. W tym czasie SS niczym itotnym od SA się nie odróżnia, jest jej częścią. W porównaniu z SA jest bardziej zdyscyplinowane, agresywne i bardziej narażone na konflitk z prawem.
 
-Jego następcą zostaje jego zastępca, Erhard Heiden człowiek bez inicjatywy i zdolności przywódczych. Prawdopodobnie jedyną istotną decyzją jaką podjął było mianowanie we wrześniu 1927 na swojego zastępcę, 27-letniego członka Bund Reichskriegsflagge, Heinricha Himmlera, który do SS należał od 1925. Wprowadził ścisły kodeks dyscypliny, bardziej rygorystyczny niż reguły obowiązujące w SA. Himmler szybo okazał się umiejętnym organizatorem, udało się im utworzyć kilka nowych Gauów SS: Berlin, Berlin Brandenburg, Franken, Niederbayern, Rheinland-Süd i Sachsen. Liczebność poza Monachium zgodnie z ograniczeniami spadła do 200 ludzi. Heiden w końcu wałczył o przetrwanie organizacji. Kiedy 6 stycznia 1929 składa rezygnację (oficjalna przyczyna "względy rodzinne") i odchodzi do SA, Himmler automatycznie i z akceptacją Hitlera zostaje przywódcą SS. To w historii tej organizacji jest kamień milowy. Himmler pozostał na czele SS do końca jej istnienia.
+Prawdopodobnie jedyną istotną decyzją jaką podjął było mianowanie we wrześniu 1927 na swojego zastępcę, 27-letniego członka Bund Reichskriegsflagge, Heinricha Himmlera, który do SS należał od 1925. Himmler szybo okazał się umiejętnym organizatorem, udało się im utworzyć kilka nowych Gauów SS: Berlin, Berlin Brandenburg, Franken, Niederbayern, Rheinland-Süd i Sachsen. Liczebność poza Monachium zgodnie z ograniczeniami spadła do 200 ludzi.
+
+Tymczasem Heiden walczył o samo przetrwanie organizacji. Kiedy 6 stycznia 1929 składa rezygnację (oficjalna przyczyna "względy rodzinne") i odchodzi do SA, Himmler automatycznie i z akceptacją Hitlera zostaje przywódcą SS. To w historii tej organizacji jest kamień milowy. Himmler pozostał na czele SS do końca jej istnienia. I swojego.
 
 Szef SA rozkazał Franz von Pfeffer rozkazał przydzielić każdej nowoutworzonej eskadrze SS 5 do 10 SA-manów.
 
@@ -77,18 +84,25 @@ W 1929 Główne Biuro SS (niem. SS-Hauptamt) zostaje zreorganizowane, powstaje p
 - finansowy
 - rasowy
 
-Powstają jednostki terytorialne, tzw. SS-Oberführerbereich Ost, West i Süd.
+Powstają nadrzędne jednostki terytorialne, tzw. SS-Oberführerbereich Ost, West i Süd.
 
-Partyjnym wojskiem ulicznym jest SA. SS z oddziałów ochrony ma teraz zamienić się w policję partyjną. W rozkazie z 7 listopada 1930 Adolf Hitler: "Zadaniem SS jest przede wszystkim służba policyjna wewnątrz partii".
+Partyjnym wojskiem ulicznym jest SA. SS z oddziałów ochrony ma teraz zamienić się w policję partyjną. W rozkazie z 7 listopada 1930 Adolf Hitler: "*Zadaniem SS jest przede wszystkim służba policyjna wewnątrz partii*".
 
-W 1931 roku Ernst Röhm ograniczył nominalną siłę SS do 10% Sturmabteilung. Ponieważ siła SS wynosiła w tym czasie około 4 tys ludzi (SA liczyło ponad 88 tys), to ograniczenie było w rzeczywistości oznaczało dwukrotne zwiększenie liczebności. Röhm nakazał uzupełnić każdą nowo utworzoną eskadrę SS w 50% z SA. Możliwe były dobrowolne transfery z SA na SS. Nacisk najwyższego kierownictwa SA i Heinricha Himmlera na jednostki SA prowadził do masowej ekspansji SS, w efekcie do pierwszych konfliktów między SS i SA, które rywalizowały o najlepszych mężczyzn.
+W 1931 roku Ernst Röhm ograniczył nominalną siłę SS do 10% Sturmabteilung. Ponieważ siła SS wynosiła w tym czasie około 4 tys ludzi (SA liczyło ponad 88 tys), to ograniczenie było w rzeczywistości oznaczało dwukrotne zwiększenie liczebności. Röhm nakazał uzupełnić każdą nowo utworzoną eskadrę SS w 50% z SA. Możliwe były dobrowolne transfery z SA na SS. Nacisk najwyższego kierownictwa SA i Heinricha Himmlera na jednostki SA prowadził do masowej ekspansji SS, w efekcie do pierwszych konfliktów między SS i SA, które rywalizowały o ludzi.
 
-SS stoi w wyraźnym kontraście wobec SA, która jest potężną wielomilionową, niezdyscyplinowaną masą domagająca się rewolucji i przywilejów. Brak subordynaji i dyscypliny prowadził do buntów, jak np napaść na sztab NSDAP oddziałów pod dowództwem Walthera Stennesa. Podstawową cechą od początku istnienia jest bezpośrednia i bezwarunkowa podległość SS wobec Hitlera. Na dobrą sprawę to jest jego prywatna organizacja pod kierownictwem Himmlera. W liście z podziękowaniami dla Kurta Daluege, który odegrał kluczową rolę w konflikcie z berlińskim SS, Hitler użył słów: "SS-Mann, Deine Ehre heißt Treue!", które po tym jak Himmler się o nich dowiedział stały się motto SS już od 1931 (Meine Ehre heißt Treue! czyli Mój honor to wierność!). Składali przysięgę na wierność Hitlerowi. Coraz większa liczba stanowisk partyjnych a od 1933 także państwowych jest powierzana SS-manom. Odpowiadali tylko przed Hitlerem, stworzyli typową dla hitleryzmu formację łącząca ideologię (władze partyjne) i politykę (państwo), w której formalne struktury i reguły prawne zostały zastąpione przez zasadę wodzowską (Führerprinzip) i służbę dla Hitlera, którego wola była poza prawem.
+SS stoi w wyraźnym kontraście wobec SA, która jest potężną wielomilionową, niezdyscyplinowaną masą domagająca się rewolucji i przywilejów. Brak subordynacji i dyscypliny prowadził do buntów, jak np napaść na sztab NSDAP oddziałów pod dowództwem Walthera Stennesa.
 
-Himmler tworzy mit elitarności SS, która ma być połączeniem krzyżaków, jezuitów i samurajów. Od 1930 symbolem SS stają się charakterystyczne znak - dwóch przylegających, przypominających błyskawice białych run Sig na czarnym polu. Do końca 1933 liczebność SS osiągnęła 200 tys ludzi.
+Podstawową cechą od początku istnienia jest bezpośrednia i bezwarunkowa podległość SS wobec Hitlera. Na dobrą sprawę to jest jego prywatna organizacja pod kierownictwem Himmlera. W liście z podziękowaniami dla Kurta Daluege, który odegrał kluczową rolę w konflikcie z berlińskim SS, Hitler użył słów: "*SS-Mann, Deine Ehre heißt Treue!*", które po tym jak Himmler się o nich dowiedział stały się motto SS już od 1931 (Meine Ehre heißt Treue! czyli Mój honor to wierność!).
+
+Składali przysięgę na wierność Hitlerowi. Odpowiadali tylko przed Hitlerem.
+
+Tworzyli typową dla hitleryzmu formację łącząca ideologię (władze partyjne) i politykę (państwo), w której formalne struktury i reguły prawne zostały zastąpione przez zasadę wodzowską (niem. Führerprinzip) i służbę dla Hitlera, którego wola była poza prawem.
+
+Coraz większa liczba stanowisk partyjnych a od 1933 także państwowych jest powierzana SS-manom.
+
+Himmler tworzy mit elitarności SS, która ma być połączeniem krzyżaków, jezuitów i samurajów. Od 1930 symbolem SS staje się charakterystyczne znak - dwóch przylegających, przypominających błyskawice białych run Sig na czarnym polu. Do końca 1933 liczebność SS osiągnęła 200 tys ludzi.
 
 Walter Schellenberg we wspomnieniach opisuje, iż SS zostało zorganizowane na wzór zasad jezuitów:
-
 > Organizacja SS została zbudowana przez Himmlera na tych samych zasadach, co zakon jezuitów. Reguły zakonu, dotyczące ćwiczeń duchowych, spisane przez Ignacego Loyolę, stanowiły wzór, który Himmler usiłował starannie naśladować. Bezwzględne posłuszeństwo było prawem najwyższym. Każdy rozkaz musiał być wykonany bez sprzeciwu.
 
 Oddanie ideologii SS, swoistej mitologii zakonu NSDAP było podkreślane na każdym kroku w procesie rekrutacji i szkolenia. Powstał specjalny rytuał mający zastąpić chrześcijańskie święta, wzorowany na germańskiej symbolice i ezoteryce. Nie był obowiązkowy, ale było to dobrze widziane. W 1938 Himmler kupił zamek w Wewelsbergu, który początkowo miał być zwykłym ośrodkiem szkoleniowym, ale szybko stał się centrum mistyki SS i swego rodzaju główną świątynią zakonu.
@@ -99,15 +113,19 @@ W 1931 Heinrich Himmler rozpoczął organizację służby wywiadowczej SS - SD, 
 
 ## Państwo SS
 
-W styczniu 1933 Adolf Hitler został mianowany kanclerzem Rzeszy. Jest to kolejny przełomowy moment w historii SS, która bardzo szybko stało się najpotężniejszą organizacją w III Rzeszy.
+W styczniu 1933 Adolf Hitler został mianowany kanclerzem Rzeszy. Jest to kolejny przełomowy moment w historii SS, która bardzo szybko stało się najpotężniejszą organizacją w III Rzeszy i najważniejszym narzędziem politycznego terroru.
 
 Po przejęciu władzy przez Hitlera w 1933 roku SD otrzymało centralne biuro i specjalną strukturę organizacyjną. Terytorium Rzeszy zostało podzielone na obszary (Abschnitte i Oberabschnitte). Niezależnie od SS budżet SD był opłacany przez skarbnika NSDAP (Reichsschatzmeister).
 
-Powstaje oddzielny i niezależny pion wojskowy. Leibstandarte-SS Adolf Hitler.
+Powstaje oddzielny i niezależny pion wojskowy. Leibstandarte-SS Adolf Hitler (LSSAH).
+W ten sposób SS podzieliło się na dwa formalnie od siebie niezależne piony: cywilny i wojskowy, przy czym następował stały przepływ personalny z pierwszego do drugiego.
+
+- ogólna SS (Allgemeine SS)
+- wojskowa SS (późniejsze Waffen-SS)
 
 W marcu 1933 powstają pierwsze obozy koncentracyjne, część z nich organizuje SS, są prowadzone w sposób bardziej zorganizowany. Te należące do SA to liczne, pozbawione standaryzacji obozy, których przejęciem zainteresowane jest SS.
 
-SS korzysta z uprawnień policji, W Bawarii Bayerische Politische Polizei  (BPP), zn połączenie policji państwowej ze służbą wywiadowczą SS, SD; model ten został później rozszerzony na resztę Rzeszy i rozszerzył władzę SS.
+SS korzysta z uprawnień policji, W Bawarii Bayerische Politische Polizei (BPP), zn połączenie policji państwowej ze służbą wywiadowczą SS, SD; model ten został później rozszerzony na resztę Rzeszy i rozszerzył władzę SS.
 
 W drugiej polowie 1934 powstały SS-Junkerschule, gdzie szkolili się kandydaci na oficerów SS. Połączenie szkolenia ideologicznego i wojskowego. System wartości SS wyższość i pewność siebie. Pierwsze szkoły powstały w Bad Tölz i Braunschweig, podczas wojny dwie kolejne: w Klagenfurt i Pradze.
 
@@ -121,7 +139,7 @@ SS-Totenkopfverbände stanowiły załogi obozów koncentracyjnych. Wraz z powoł
 
 W 1936 Himmler został awansowany do rangi sekretarza stanu na mocy dekretu o mianowaniu szefa niemieckiej policji w Ministerstwie Spraw Wewnętrznych Rzeszy, a tym samym zrównany z dowódcami sił zbrojnych. Nominalnie był podporządkowany ministrowi spraw wewnętrznych Rzeszy Wilhelmowi Frickowi, w rzeczywistości SS kierowało niemiecką policją niezależnie. Wraz z utworzeniem policji bezpieczeństwa i późniejszego głównego biura bezpieczeństwa Rzeszy oraz podporządkowaniem Ordnungspolizei i rozbudową własnych stowarzyszeń wojskowych SS, wyjątkowa pozycja SS została utrwalona.
 
-Połączenie struktur partyjnych ze strukturami państwowymi, które jest zasadznicza cechą systemu nazistowskiego, odtąd decydująco ukształtowało Trzecią Rzeszę. SS było elementem centralizacji w ramach zróżnicowanej nazistowskiej polikracji, naznaczonej osłabieniem władzy państwowej na rzecz struktur partyjnych i pozaprawną dominacją osób osobiście odpowiedzialnych przed Hitlerem, takich jak komisarze Rzeszy lub gauleiterzy. Kiedy Heinrich Himmler został następcą ministra spraw wewnętrznych Rzeszy Wilhelma Fricka w 1943 oficjalnie stało się jasne, że to MSW zostało włączone do SS, a nie SS do normalnej władzy wykonawczej państwa.
+Połączenie struktur partyjnych ze strukturami państwowymi, które jest zasadniczą cechą systemu nazistowskiego, odtąd decydująco ukształtowało Trzecią Rzeszę. SS było elementem centralizacji w ramach zróżnicowanej nazistowskiej polikracji, naznaczonej osłabieniem władzy państwowej na rzecz struktur partyjnych i pozaprawną dominacją osób osobiście odpowiedzialnych przed Hitlerem, takich jak komisarze Rzeszy lub gauleiterzy. Kiedy Heinrich Himmler został następcą ministra spraw wewnętrznych Rzeszy Wilhelma Fricka w 1943 oficjalnie stało się jasne, że to MSW zostało włączone do SS, a nie SS do normalnej władzy wykonawczej państwa.
 
 ## Charakterystyka
 
@@ -131,48 +149,47 @@ Oprócz narodowości i potwierdzonej czystości rasowej do 1800 (oficerowie do 1
 
 Himmler wprowadził dodatkowe kryteria dotyczące wyglądu i wzrostu, ale spora część SS-manów ich nie spełniała. Wprowadzono zachęty socjalne dla wczesnego ożenku i posiadania dużej liczby dzieci.
 
-Kiedy 6 stycznia 1929 Heinrich Himmler przejął kierownictwo SS od Erharda Heidena, organizacja ta składała się z 280 "aktywnych członków". Po przejęciu władzy w 1933 liczba członków SS wzrosła z 52 174 (styczeń) do 209 014 (grudzień). Od końca 1934 SS składało się ze skoszarowanych oddziałów wojskowych SS (od 1939 Waffen-SS) i Allgemeine SS. Liczebność SS rosła powoli. Ich szczyt osiągnął pod koniec 1941 271 060 członków. Waffen SS stał się ważnym czynnikiem podczas wojny. Liczba członków wzrosła z 23 406 (koniec 1938) do 594 443 (czerwiec 1944). Istotny był wizerunek. Zaczęło się po igrzyskach olimpijskich od ustanowienia własnego składu olimpijskiego amatorów, docelowo mieli stanowić większość niemieckiej drużyny olimpijskiej. SS również wspierało ruch naturystów narodowo-socjalistycznych, idea pięknego aryjskiego ciała.
+Kiedy 6 stycznia 1929 Heinrich Himmler przejął kierownictwo SS od Erharda Heidena, organizacja ta składała się z 280 "aktywnych członków". Po przejęciu władzy w 1933 ich liczba wzrosła z 52 174 (styczeń) do 209 014 (grudzień). Od końca 1934 SS składało się ze skoszarowanych oddziałów wojskowych SS (od 1939 Waffen-SS) i Allgemeine SS. Liczebność SS rosła powoli. Szczyt osiągnęła pod koniec 1941 271 060 członków. Waffen SS stał się ważnym czynnikiem podczas wojny. Liczebność wzrosła z 23 406 (koniec 1938) do 594 443 (czerwiec 1944).
 
-Na początku wojny (1939) ok 60% członków Allgemeine SS zostało wcielonych do Wehrmachtu. Oznaczało to, że z 260 000 członków SS 170 000 pełniło służbę wojskową w trzech rodzajach sił zbrojnych: armii, lotnictwie i marynarce wojennej. Tylko ok 36 tys zostało przejętych przez Waffen-SS. Pozostali członkowie byli albo za starzy, by służyć w wojsku, albo przydzieleni do "niezbędnych stanowisk" w służbie publicznej lub siłach policyjnych.
+Istotny był wizerunek. Zaczęło się po igrzyskach olimpijskich od ustanowienia własnego składu olimpijskiego amatorów, docelowo mieli stanowić większość niemieckiej drużyny olimpijskiej. SS również wspierało ruch naturystów narodowo-socjalistycznych, idea pięknego aryjskiego ciała.
 
-W czerwcu 1944 SS liczyło 794 941 członków. Spośród nich 264 379 należało do Allgemeine SS. Przed Międzynarodowym Trybunałem Sprawiedliwości w Norymberdze Robert Brill, były szef "Biura uzupełnień Waffen-SS", przekazał w dniach 5 i 6 sierpnia 1946 informacje o rozwoju personelu Waffen-SS:
+Na początku wojny (1939) ok 60% członków Allgemeine SS zostało wcielonych do Wehrmachtu. Oznaczało to, że z 260 000 członków SS 170 000 pełniło służbę wojskową w trzech rodzajach sił zbrojnych: armii, lotnictwie i marynarce wojennej. Tylko ok 36 tys zostało przejętych przez Waffen-SS. Pozostali byli albo za starzy, by służyć w wojsku, albo przydzieleni do "niezbędnych stanowisk" w służbie publicznej lub siłach policyjnych.
 
-"Pod koniec wojny Waffen-SS wciąż liczyła około 550 000 osób; Do końca października 1944 r. około 320 000 mężczyzn zmarło lub zostało poważnie rannych. [...] Około 400 000 Reichsdeutschy, 300 000 Volksdeutsche i 200 000 innych narodowości służyło w Waffen-SS. [...] W 1944 r tych, którzy nadal mogli walczyć na wojnie, usunięto ze służby w obozach koncentracyjnych i zwolniono do służby wojskowej. Do tego czasu zapewniono strażników ze służb pomocniczych Allgemeine SS i grupy kombatantów "Kyffhäuser". W 1944 dołączono silny kontyngent z Wehrmachtu. Według mojej wiedzy było to początkowo około 10 000 ludzi. Później więcej. [...] O ile mi wiadomo, strażnicy w obozach koncentracyjnych w 1944 r. składali się z 6000 służb pomocniczych, 7000 etnicznych Niemców, 7 000 członków armii i lotnictwa. [...]" - Dokumenty głównych zbrodniarzy wojennych. Vol. XX, ss. 371–471
+W czerwcu 1944 SS liczyło 794 941 członków. Spośród nich 264 379 należało do Allgemeine SS. Przed Międzynarodowym Trybunałem Sprawiedliwości w Norymberdze Robert Brill, były szef "Biura uzupełnień Waffen-SS", przekazał w dniach 5 i 6 sierpnia 1946 informacje o Waffen-SS:
+>Pod koniec wojny Waffen-SS wciąż liczyła około 550 000 osób; Do końca października 1944 r. około 320 000 mężczyzn zmarło lub zostało poważnie rannych. [...] Około 400 000 Reichsdeutschy, 300 000 Volksdeutsche i 200 000 innych narodowości służyło w Waffen-SS. [...] W 1944 r tych, którzy nadal mogli walczyć na wojnie, usunięto ze służby w obozach koncentracyjnych i zwolniono do służby wojskowej. Do tego czasu zapewniono strażników ze służb pomocniczych Allgemeine SS i grupy kombatantów "Kyffhäuser". W 1944 dołączono silny kontyngent z Wehrmachtu. Według mojej wiedzy było to początkowo około 10 000 ludzi. Później więcej. [...] O ile mi wiadomo, strażnicy w obozach koncentracyjnych w 1944 r. składali się z 6000 służb pomocniczych, 7000 etnicznych Niemców, 7 000 członków armii i lotnictwa. [...]
+Dokumenty głównych zbrodniarzy wojennych. Vol. XX, ss. 371–471
 
 W trakcie wojny rosło wykorzystanie cudzoziemców w formacjach Waffen SS. Pod koniec wojny 19 z 38 dywizji składało się głównie z obcokrajowców, głównie z Europy Wschodniej.
 
 ## Struktura
 
-Mianowanie Heinricha Himmlera na Reichsfuhrera SS 1929 było początkiem fundamentalnej zmiany w organizacji. Przed niewielką grupą kilkuset ludzi w SA, według Himmlera, miało ono stać się oddziałem bojowym NSDAP, "ein nationalsozialistischer, soldatischer Orden nordisch bestimmter Männer, von denen jeder bedingungslos jeden Befehl befolgt, der vom Führer kommt". SS miało osiągnąć status elity i jednocześnie stać się organizacja masową.
+Mianowanie Heinricha Himmlera na Reichsfuhrera SS 1929 było początkiem fundamentalnej zmiany w organizacji. Przed niewielką grupą kilkuset ludzi w SA, według Himmlera, miało ono stać się oddziałem bojowym NSDAP, "*ein nationalsozialistischer, soldatischer Orden nordisch bestimmter Männer, von denen jeder bedingungslos jeden Befehl befolgt, der vom Führer kommt*". SS miało osiągnąć status elity i jednocześnie stać się organizacja masową.
 
-Elitarny charakter polegał na kryteriach rasowo-biologicznych i ideologicznych. Jako "Sippengemeinschaf" SS miało być ucieleśnieniem nazistowskiej ideologii rasy panów i jako "Bewahrer der Blutsreinheit" stało się zalążkiem nordyjskiej dominacji rasowej. Kryteria wyboru nie były zatem ograniczone do samych kandydatów: ich żony sprawdzano również pod kątem "Rassenreinheit". Wymagany długi wywód genealogiczny od 1936 już zazwyczaj był zastępowany krótkim. SS była jedyną organizacją nazistowską, która próbowała całkowicie wyeliminować nawet ślady pochodzenia żydowskiego wśród członków. Ideologia SS nawiązywałą do idei średniowiecznych wspólnot rycerskich, z ich pomocą - na przykład poprzez rytuały w sanktuariach lub symbolach, takich jak SS-Totenkopfring i użycie różnych symboli runicznych (potocznie zwanych "runami SS" ) lub Ehrendolch - próbował nadać quasi-religijny wymiar.
+Elitarny charakter miał wynikać z kryteriów rasowo-biologicznych i ideologicznych. Jako "Sippengemeinschaf" SS ucieleśnieniało nazistowską ideologię rasy panów i jako "Bewahrer der Blutsreinheit" było zalążkiem nordyckiej dominacji rasowej. Kryteria wyboru nie były zatem ograniczone do samych kandydatów: ich żony sprawdzano również pod kątem "Rassenreinheit". Wymagany długi wywód genealogiczny już od 1936 zazwyczaj był zastępowany krótkim. SS była jedyną organizacją nazistowską, która próbowała całkowicie wyeliminować nawet ślady pochodzenia żydowskiego wśród członków.
 
-Hotel "Prinz Albrecht" zostaje siedzibą Reichsführer SS w 1934
+Ideologia SS nawiązywałą do idei średniowiecznych wspólnot rycerskich, z ich pomocą - na przykład poprzez rytuały w sanktuariach lub symbolach, takich jak SS-Totenkopfring i użycie różnych symboli runicznych (potocznie zwanych "runami SS" ) lub Ehrendolch - próbował nadać quasi-religijny wymiar.
 
-Po Nocy Długich Noży SS przejęła wyłączną odpowiedzialność za wszystkie wczesne obozy koncentracyjne. SS Totenkopfverbandes zostały teraz obciążone wyłączną ochroną obozów. Wczesne, improwizowane ośrodki i obozy koncentracyjne były stopniowo zamykane, z wyjątkiem obozu koncentracyjnego w Dachau. Rozpoczęło to systematyczny rozwój systemu nazistowskiego obozu, inne obozy wg wzoru Dachau.
+Po Nocy Długich Noży SS przejęła kontrolę nad wszystkimi obozami koncentracyjnymi. Strzegły ich tylko SS Totenkopfverbandes. Wczesne, improwizowane obozy koncentracyjne stopniowo były zamykane, z wyjątkiem obozu koncentracyjnego w Dachau. Rozpoczęło to systematyczny rozwój systemu KL,z Dachau jako wzorcem..
 
-W listopadzie 1934 roku Prinz-Albrecht-Palais przy Wilhelmstrasse 102 w Berlinie został włączony do kompleksu budynków przy Prinz-Albrecht-Straße 8 i siedziby służby bezpieczeństwa Reichsführer SS.
+W listopadzie 1934 roku Prinz-Albrecht-Palais przy Wilhelmstrasse 102 w Berlinie został włączony do kompleksu budynków przy Prinz-Albrecht-Straße 8 i staje się siedzibą służby bezpieczeństwa i Reichsführera SS.
 
-Od 1935 jednostki administracyjne SS przemianowały się na Allgemeine SS. Chcieli odróżnić się od militarnych formacji, SS-Verfügungstruppe i SS Totenkopfverbände, które później utworzyły Waffen-SS. Ten Allgemeine SS, zwany teraz Heimat- lub Schwarze-SS, był teraz podporządkowany nowemu dowódcy Allgemeine SS w Berlinie.
+Od 1935 jednostki cywilne SS przemianowano na Allgemeine SS. Chcieli odróżnić się od militarnych formacji, SS-Verfügungstruppe i SS Totenkopfverbände, które później utworzyły Waffen-SS. Allgemeine SS aka Heimat- lub Schwarze-SS, był podporządkowany nowemu dowódcy Allgemeine SS w Berlinie.
 
-SS-Zugehörige należeli do Allgemeine SS i (do 17 sierpnia 1938) SS Totenkopfverbände. Ten ogólny termin obejmował wszystkich esesmanów, którzy wykonywali swoje obowiązki w Reichsarbeitsdienst (RAD) lub Wehrmacht. Na ten czas opuścili komendę SS i byli tam jako "związani z SS". W obrębie ogólnego SS rozróżniono grupy wiekowe (SS-I i SS-II, które tworzyły tak zwane aktywne SS, rezerwa SS i SS-Stammabteilung).
+SS-Zugehörige: ogólny termin, który obejmował wszystkich esesmanów wykonujących swoje obowiązki w Reichsarbeitsdienst (RAD) lub Wehrmachcie. Należeli do Allgemeine SS i (do 17 sierpnia 1938) SS Totenkopfverbände. Na ten czas opuścili komendę SS i i stąd "związani z SS". W obrębie ogólnego SS rozróżniono grupy wiekowe (SS-I i SS-II, które tworzyły tak zwane aktywne SS, rezerwa SS i SS-Stammabteilung).
 
-SS-Verfügungstruppe. Z drugiej strony żaden członek SS nie został przydzielony do oddziału SS, ponieważ służba ta była uważana za służbę poboru i jako taka została uznana. Ze względu na charakter dostępnych oddziałów jako aktywnych, oddział kasernierter pominął również typowe dla SS i związane z wiekiem rozróżnienie w SS-I, SS-II, SS-rezerwa i SS-Stammabteilung.
+SS-Verfügungstruppe. Z drugiej strony żaden członek SS nie został przydzielony do oddziału SS, ponieważ służba ta była uważana za służbę poborową i jako taka została uznana. Ze względu na charakter dostępnych oddziałów jako aktywnych, skoszarowane oddziały pominął również typowe dla SS i związane z wiekiem rozróżnienie w SS-I, SS-II, SS-rezerwa i SS-Stammabteilung.
 
-W 1940 zostały powołane Waffen-SS. SS podzieliło się na dwa formalnie od siebie niezależne piony: cywilny i wojskowy, przy czym następował stały przepływ personalny z pierwszego do drugiego.
+W 1940 wojskowe jednostki SS pod nazwą Waffen-SS.
 
-- ogólna SS (Allgemeine SS)
-- wojskowa SS (Waffen-SS)
+1939/40 cała Allgemeine SS stała się organizacją parasolową złożoną z 12 wydziałów:
 
-1939/40 cała Allgemeine SS została organizacja parasolową zorganizowana w 12 wydziałów:
-
-- Hauptamt Persönlicher Stab Reichsführer-SS (Główny Sztab Personalny Reichsführera SS)  był przeznaczony do wszystkich spraw Reichsführera, który nie mieścił się w obszarze wyznaczonym przez inny SS-Hauptamt. Przede wszystkim personelem kierowały organizacje Lebensborn, Freundeskreis Reichsfuhrer SS, Ahnenerbe i członkowie SS, z którymi Heinrich Himmler realizował ideologiczne idee, az drugiej strony kierował swoją rozległą siecią osób przydzielonych przez SS (często wpływowych).
-- SS-Hauptamt (Główny Urząd (administracja) SS) stracił z czasem swoją nazwę, przenosząc znaczną część swoich obowiązków na inne poprzez outsourcing do innych biur. Nadal odpowiedzialni za formacje zbrojne (Waffen-SS) i Allgemeine SS w 1940
-- SS-Führungshauptamt (Główny Urząd Dowodzenia i Administracji Allgemeine-SS i Waffen-SS) FHA było główną siedzibą SS, zarządzało szkołami oficerskimi, opieką medyczną, operacjami transportowymi, płacami i sprzętem. W 1944 wciąż dowództwo Allgemeine SS jako stanowisko dowodzenia Waffen-SS
-- Hauptamt SS-Gericht (Główny Sąd SS) był centralną instancją całego aresztu SS i policji. Sądy SS, pierwotnie odpowiedzialne za wewnętrzne przestępstwa dyscyplinarne SS, były od początku wojny w 1939, szczególnej jurysdykcji w sprawach karnych dla całego obszaru SS i policji, w tym cywilów. Sąd główny w biurze SS podlegał 38 regionalnym sądom SS i policji. Każdy z nich został ustanowiony w kwaterze głównej Wyższego Dowódcy SS i Policji, który również działał jako sąd
-- SS-Rasse und Siedlungshauptamt, RuSHA (Główny Urząd Rasy i Osadnictwa SS) miało za zadanie stworzyć elitę przywódczą zgodnie z kryteriami rasowymi. Przeprowadził szkolenia i badania rasowe członków SS, udzielił (lub odmówił) pozwoleń małżeńskich i podjął się zadań związanych z wydaleniem, przesiedleniem i selekcją rasową (Eindeutschung) populacji okupowanych terytoriów
-- SS-Personalhauptamt (Główny Urząd Personalny SS)
-- Reichssicherheitshauptamt – RSHA (Główny Urząd Bezpieczeństwa Rzeszy), powstał z połączenia Służby Bezpieczeństwa (SD) i SiPo i był centralnym organem do sprawowania funkcji policyjnych SS. podlegały mu Einsatzgruppen, składał się z:
+- **Hauptamt Persönlicher Stab Reichsführer-SS** (Główny Sztab Personalny Reichsführera SS) był przeznaczony do wszystkich spraw Reichsführera, który nie mieścił się w obszarze wyznaczonym przez inny SS-Hauptamt. Przede wszystkim personelem kierowały organizacje Lebensborn, Freundeskreis Reichsfuhrer SS, Ahnenerbe i członkowie SS, z którymi Heinrich Himmler realizował ideologiczne idee, az drugiej strony kierował swoją rozległą siecią osób przydzielonych przez SS (często wpływowych).
+- **SS-Hauptamt** (Główny Urząd (administracja) SS) stracił z czasem swoją nazwę, przenosząc znaczną część swoich obowiązków na inne poprzez outsourcing do innych biur. Nadal odpowiedzialni za formacje zbrojne (Waffen-SS) i Allgemeine SS w 1940
+- **SS-Führungshauptamt** (Główny Urząd Dowodzenia i Administracji Allgemeine-SS i Waffen-SS) FHA było główną siedzibą SS, zarządzało szkołami oficerskimi, opieką medyczną, operacjami transportowymi, płacami i sprzętem. W 1944 wciąż dowództwo Allgemeine SS jako stanowisko dowodzenia Waffen-SS
+- **Hauptamt SS-Gericht** (Główny Sąd SS) był centralną instancją całego aresztu SS i policji. Sądy SS, pierwotnie odpowiedzialne za wewnętrzne przestępstwa dyscyplinarne SS, były od początku wojny w 1939, szczególnej jurysdykcji w sprawach karnych dla całego obszaru SS i policji, w tym cywilów. Sąd główny w biurze SS podlegał 38 regionalnym sądom SS i policji. Każdy z nich został ustanowiony w kwaterze głównej Wyższego Dowódcy SS i Policji, który również działał jako sąd
+- **SS-Rasse und Siedlungshauptamt**, RuSHA (Główny Urząd Rasy i Osadnictwa SS) miało za zadanie stworzyć elitę przywódczą zgodnie z kryteriami rasowymi. Przeprowadził szkolenia i badania rasowe członków SS, udzielił (lub odmówił) pozwoleń małżeńskich i podjął się zadań związanych z wydaleniem, przesiedleniem i selekcją rasową (Eindeutschung) populacji okupowanych terytoriów
+- **SS-Personalhauptamt** (Główny Urząd Personalny SS)
+- **Reichssicherheitshauptamt** – RSHA (Główny Urząd Bezpieczeństwa Rzeszy), powstał z połączenia Służby Bezpieczeństwa (SD) i SiPo i był centralnym organem do sprawowania funkcji policyjnych SS. podlegały mu Einsatzgruppen, składał się z:
   - Departament I personalny (Bruno Streckenbach)
   - Departament II administracja i prawo; Werner Best, później płk. dr Hans Nockenmann
   - Departament III Sicherheitsdienst (SD) służba bezpieczeństwa; Otto Ohlendorf; służyło jako służba wywiadowcza do zwalczania zewnętrznych i wewnętrznych przeciwników oraz szpiegowania ludności.
@@ -180,22 +197,22 @@ W 1940 zostały powołane Waffen-SS. SS podzieliło się na dwa formalnie od sie
   - Departament V policja kryminalna (Kripo); Arthur Nebe
   - Departament VI wywiad zagraniczny SD; Heinz Jost, później Walter Schellenberg
   - Departament VII ideologiczny; Franz Alfred Six
-- Hauptamt Ordnungspolizei (Główny Urząd Policji Porządkowej); zgrupował od 1939 kierownictwo umundurowanej policji w Niemczech oraz ich bliski i osobisty związek z SS.
-- Wirtschafts- und Verwaltungshauptamt (WVHA) (Główny Urząd Gospodarczo-Administracyjny), kontrolował i prowadził obozy koncentracyjne i zagłady, kontrolując obozy koncentracyjne i zarządzał znacznymi i rozwijającymi się przemysłami SS, przedsiębiorstwami handlowymi i rolnymi:
+- **Hauptamt Ordnungspolizei** (Główny Urząd Policji Porządkowej); zgrupował od 1939 kierownictwo umundurowanej policji w Niemczech oraz ich bliski i osobisty związek z SS.
+- **Wirtschafts- und Verwaltungshauptamt** (WVHA) (Główny Urząd Gospodarczo-Administracyjny), kontrolował i prowadził obozy koncentracyjne i zagłady, kontrolując obozy koncentracyjne i zarządzał znacznymi i rozwijającymi się przemysłami SS, przedsiębiorstwami handlowymi i rolnymi:
   - Urząd A Administracja Oddziałów SS (Amtsgruppe A – Truppenverwaltung) administracja oddziałów Waffen-SS
   - Urząd B Gospodarka Oddziałów SS (Amtsgruppe B – Truppenwirtschaft) gospodarka formacji SS
   - Urząd C Zagadnienia Budowlane (Amtsgruppe C – Bauwesen) budownictwo
   - Urząd D Obozy Koncentracyjne (Amtsgruppe D – Konzentrationslager); włączony do WVHA w marcu 1942, obozy koncentracyjne; SS-Gruppenführer Richard Glücks, zarządzane przez Inspektorat Obozów Koncentracyjnych (Inspektion der Konzentrationslager).
   - Urząd W Przedsięwzięcia Gospodarcze (Amtsgruppe W – Wirtschaftliche Unternehmungen): tzw. "Amstgruppe W", nadzorująca przedsiębiorstwa, będące własnością SS.
-- Hauptamt Dienststelle Heissmeyer (Główny Urząd Szkolenia SS) podporządkowana Narodowym Politycznym Instytucjom Edukacyjnym (NPEA). Ich uczniowie powinni być świadomie konsultowani jako młodsi liderzy, dlatego SS mieli bezpośredni dostęp do systemu szkolnego.
-- Hauptamt Volksdeutsche Mittelstelle, VOMI (pol. Główny Urząd ds. Niemców Etnicznych) tzw. piąta kolumna; odpowiedzialne za życie poza Rzeszą Niemiecką, tzw. Volksdeutsche. Przejęła jako centrala, administracja i dystrybucja znacznej pomocy dla tzw. Volkstumsarbeit. W latach 1939–1940 głównym zadaniem tego głównego biura była organizacja przesiedleń niemieckich grup etnicznych pod hasłem "Heim ins Reich". Osiedlił około miliona etnicznych Niemców, zwłaszcza na terenach anektowanych - np Reichsgauen Wartheland (Posen) i Gdańsk-Prusy Zachodnie (Gdańsk).
-- Reichskommissariat für die Festigung des deutschen Volkstums (pol. Komisariat Rzeszy ds. Umacniania Niemczyzny) ściśle współpracowała z Biurem Centralnym Volksdeutsche Mittelstelle, zajmowała się ponowną germanizacją dawnych niemieckich grup ludności. Ale nawet dla "Eindeutschung" według kryteriów rasowych w tym głównym urzędzie odnotowano dobrze znane plemiona słowiańskie. Razem z centrum podsumował osoby docelowe na Niemieckich Listach Ludowych.
+- **Hauptamt Dienststelle Heissmeyer** (Główny Urząd Szkolenia SS) podporządkowana Narodowym Politycznym Instytucjom Edukacyjnym (NPEA). Ich uczniowie powinni być świadomie konsultowani jako młodsi liderzy, dlatego SS mieli bezpośredni dostęp do systemu szkolnego.
+- **Hauptamt Volksdeutsche Mittelstelle**, VOMI (pol. Główny Urząd ds. Niemców Etnicznych) tzw. piąta kolumna; odpowiedzialne za życie poza Rzeszą Niemiecką, tzw. Volksdeutsche. Przejęła jako centrala, administracja i dystrybucja znacznej pomocy dla tzw. Volkstumsarbeit. W latach 1939–1940 głównym zadaniem tego głównego biura była organizacja przesiedleń niemieckich grup etnicznych pod hasłem "Heim ins Reich". Osiedlił około miliona etnicznych Niemców, zwłaszcza na terenach anektowanych - np Reichsgauen Wartheland (Posen) i Gdańsk-Prusy Zachodnie (Gdańsk).
+- **Reichskommissariat für die Festigung des deutschen Volkstums** (pol. Komisariat Rzeszy ds. Umacniania Niemczyzny) ściśle współpracowała z Biurem Centralnym Volksdeutsche Mittelstelle, zajmowała się ponowną germanizacją dawnych niemieckich grup ludności. Ale nawet dla "Eindeutschung" według kryteriów rasowych w tym głównym urzędzie odnotowano dobrze znane plemiona słowiańskie. Razem z centrum podsumował osoby docelowe na Niemieckich Listach Ludowych.
 
 Za obozy koncentracyjne odpowiadały gł SS-RSHA (dostarczenie więźniów) i WVHA (administracja).
 
-Pod koniec podobno powstałą organizacja byłych SS-manów: ODESSA.
+Pod koniec wojny podobno powstała organizacja byłych SS-manów: ODESSA.
 
-## Przed wojną
+## Policja
 
 SS stała się organizacją państwową i struktura władz państwa. Zadania policyjne objęły państwo, ale ostateczna asymilacja organów i służb policyjnych zajęła trzy kolejne lata.
 

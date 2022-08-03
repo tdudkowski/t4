@@ -49,3 +49,4 @@
 
 - judenrein wolny od Żydów
 - Endlösung der Judenfrage ostateczne rozwiązanie kwestii żydowskiej
+- Rückkehr unerwünscht powrót niepożadany
